@@ -1,0 +1,1725 @@
+{
+  "subject": "Music (MUSC) ",
+  "course": [
+    {
+      "course number & title": "1A. Fundamentals of Music",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours. Designed for nonmusic majors. Introduction to elements of music: pitch and rhythm symbols, meter and time signatures, notation, scales, intervals, and chord structure. P/NP or letter grading."
+    },
+    {
+      "course number & title": "1B. Fundamentals of Music",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours. Designed for nonmusic majors. Requisite: course 1A. Diatonic harmony; four-part writing, including inversions, sevenths, secondary dominants, and modulation; organization of melody and accompaniment; simple analysis; sight-singing and ear training. P/NP or letter grading."
+    },
+    {
+      "course number & title": "3. Preparatory Music Theory",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; laboratory, one hour. Course in music fundamentals, including musicianship, theory, and terminology. Letter grading."
+    },
+    {
+      "course number & title": "4A. Basic Musicianship",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, three hours. Class instruction in elementary ear training and keyboard skills. P/NP or letter grading."
+    },
+    {
+      "course number & title": "4B. Basic Musicianship",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, three hours. Class instruction in elementary ear training and keyboard skills. P/NP or letter grading."
+    },
+    {
+      "course number & title": "4C. Basic Musicianship",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, three hours. Class instruction in elementary ear training and keyboard skills. P/NP or letter grading."
+    },
+    {
+      "course number & title": "5. Beginning Voice Class",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, four hours; outside practice and preparation, two hours. Not open to voice majors. Correct singing techniques, including vocal mechanism, posture and breathing, musical warm-ups, optimal vocal production, diction, and performance delivery to be put into practice in classroom study, vocal exercises, and performances. Final recital with piano accompaniment required. May be repeated for maximum of 12 units with grade of C in each course. Letter grading."
+    },
+    {
+      "course number & title": "M6A. Introduction to Musicianship",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Ethnomusicology M6A and Musicology M6A.) Laboratory, four hours. Preparation: placement examination. Course M6A is enforced requisite to M6B, which is enforced requisite to M6C. Students must receive grade of C- or better to proceed to next course in sequence. Introduction to musicianship through in-depth exploration of basic common musical elements and training in aural recognition, sight singing, dictation, and keyboard skills. Focus on topics such as tonal and modal harmony, rhythm, improvisation, composition, notation, and ear training to prepare students for later theory courses, participation in music ensembles, advanced study in music, and professional careers. Letter grading."
+    },
+    {
+      "course number & title": "M6B. Introduction to Musicianship",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Ethnomusicology M6B and Musicology M6B.) Laboratory, four hours. Preparation: placement examination. Enforced requisite: course M6A with grade of C- or better. Introduction to musicianship through in-depth exploration of basic common musical elements and training in aural recognition, sight singing, dictation, and keyboard skills. Focus on topics such as tonal and modal harmony, rhythm, improvisation, composition, notation, and ear training to prepare students for later theory courses, participation in music ensembles, advanced study in music, and professional careers. Letter grading."
+    },
+    {
+      "course number & title": "M6C. Introduction to Musicianship",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Ethnomusicology M6C and Musicology M6C.) Laboratory, four hours. Preparation: placement examination. Enforced requisite: course M6B with grade of C- or better. Introduction to musicianship through in-depth exploration of basic common musical elements and training in aural recognition, sight singing, dictation, and keyboard skills. Focus on topics such as tonal and modal harmony, rhythm, improvisation, composition, notation, and ear training to prepare students for later theory courses, participation in music ensembles, advanced study in music, and professional careers. Letter grading."
+    },
+    {
+      "course number & title": "7. Understanding Movie Music",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Musical experience helpful, but not required. Brief historical survey of film music, with strong emphasis on recent development: Japanese animation, advertising, and MTV, as well as computer tools and digital scoring methods. Designed to inspire and inform those interested in movie music. Offered in summer only. P/NP or letter grading."
+    },
+    {
+      "course number & title": "8G. Graduate Piano Sight-Reading",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, two hours. Limited to graduate students. Designed to help entering graduate students remedy entrance deficiencies, to be cleared by examination. May be repeated. S/U grading."
+    },
+    {
+      "course number & title": "15. Art of Listening",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, one hour; outside study, 11 hours. Acquisition of listening skills through direct interaction with live performance, performers, and composers. Relationship of listening to theoretical, analytical, historical, and cultural frameworks. Music as aesthetic experience and cultural practice. P/NP or letter grading."
+    },
+    {
+      "course number & title": "16. Hollywood Musical and American Dream",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Examination of composers, writers, and filmmakers whose creative efforts changed how world came to view American dream. Full features and music clips illustrate American life as seen through Hollywood musicals. P/NP or letter grading."
+    },
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "20A. Music Theory I",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, four hours. Preparation: passing score on departmental examination. Course 20A is enforced requisite to 20B, which is enforced requisite to 20C. Students must receive grade of C or better to proceed to next course in sequence. Theory: species counterpoint through fifth species; description of triads and inversions. P/NP or letter grading."
+    },
+    {
+      "course number & title": "20B. Music Theory II",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, four hours. Enforced requisite: course 20A with grade of C or better. Theory: diatonic harmony through secondary dominants and diminished sevenths; modulations to dominant and relative keys; writing of four-part chorales; style composition in baroque dance forms; introduction to figured bass notation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "20C. Music Theory III",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, four hours. Enforced requisite: course 20B with grade of C or better. Theory: chromatic harmony including development of tonality, 1800 to 1850; appropriate analysis and style composition. P/NP or letter grading."
+    },
+    {
+      "course number & title": "30A. History, Listening, and Survey of Piano Literature I: Baroque and Classical",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Strongly recommended for undergraduate piano and music education majors with piano as their main instrument. Survey course covering standard piano literature and composers through listening and reading. Letter grading."
+    },
+    {
+      "course number & title": "30B. History, Listening, and Survey of Piano Literature II: Romantic, Impressionistic, 20th-Century, and Contemporary",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Strongly recommended for undergraduate piano and music education majors with piano as their main instrument. Survey course covering standard piano literature and composers through listening and reading. Letter grading."
+    },
+    {
+      "course number & title": "60AF. Undergraduate Instruction in Performance: Violin",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60AS. Undergraduate Instruction in Performance: Violin",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60AW. Undergraduate Instruction in Performance: Violin",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60BF. Undergraduate Instruction in Performance: Viola",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60BS. Undergraduate Instruction in Performance: Viola",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60BW. Undergraduate Instruction in Performance: Viola",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60CF. Undergraduate Instruction in Performance: Cello",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60CS. Undergraduate Instruction in Performance: Cello",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60CW. Undergraduate Instruction in Performance: Cello",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60DF. Undergraduate Instruction in Performance: String Bass",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60DS. Undergraduate Instruction in Performance: String Bass",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60DW. Undergraduate Instruction in Performance: String Bass",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60EF. Undergraduate Instruction in Performance: Harp",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60ES. Undergraduate Instruction in Performance: Harp",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60EW. Undergraduate Instruction in Performance: Harp",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60FF. Undergraduate Instruction in Performance: Classical Guitar",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60FS. Undergraduate Instruction in Performance: Classical Guitar",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60FW. Undergraduate Instruction in Performance: Classical Guitar",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60GF. Undergraduate Instruction in Performance: Viola da gamba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60GS. Undergraduate Instruction in Performance: Viola da gamba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60GW. Undergraduate Instruction in Performance: Viola da gamba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60KF. Undergraduate Instruction in Performance: Lute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60KS. Undergraduate Instruction in Performance: Lute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60KW. Undergraduate Instruction in Performance: Lute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61AF. Undergraduate Instruction in Performance: Flute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61AS. Undergraduate Instruction in Performance: Flute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61AW. Undergraduate Instruction in Performance: Flute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61BF. Undergraduate Instruction in Performance: Oboe",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61BS. Undergraduate Instruction in Performance: Oboe",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61BW. Undergraduate Instruction in Performance: Oboe",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61CF. Undergraduate Instruction in Performance: Clarinet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61CS. Undergraduate Instruction in Performance: Clarinet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61CW. Undergraduate Instruction in Performance: Clarinet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61DF. Undergraduate Instruction in Performance: Bassoon",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61DS. Undergraduate Instruction in Performance: Bassoon",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61DW. Undergraduate Instruction in Performance: Bassoon",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61EF. Undergraduate Instruction in Performance: Saxophone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61ES. Undergraduate Instruction in Performance: Saxophone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61EW. Undergraduate Instruction in Performance: Saxophone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62AF. Undergraduate Instruction in Performance: Trumpet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62AS. Undergraduate Instruction in Performance: Trumpet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62AW. Undergraduate Instruction in Performance: Trumpet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62BF. Undergraduate Instruction in Performance: French Horn",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62BS. Undergraduate Instruction in Performance: French Horn",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62BW. Undergraduate Instruction in Performance: French Horn",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62CF. Undergraduate Instruction in Performance: Trombone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62CS. Undergraduate Instruction in Performance: Trombone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62CW. Undergraduate Instruction in Performance: Trombone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62DF. Undergraduate Instruction in Performance: Tuba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62DS. Undergraduate Instruction in Performance: Tuba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62DW. Undergraduate Instruction in Performance: Tuba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "63F. Undergraduate Instruction in Performance: Percussion",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "63S. Undergraduate Instruction in Performance: Percussion",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "63W. Undergraduate Instruction in Performance: Percussion",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "64AF. Undergraduate Instruction in Performance: Piano",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "64AS. Undergraduate Instruction in Performance: Piano",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "64AW. Undergraduate Instruction in Performance: Piano",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "64BF. Undergraduate Instruction in Performance: Organ",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "64BS. Undergraduate Instruction in Performance: Organ",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "64BW. Undergraduate Instruction in Performance: Organ",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "64CF. Undergraduate Instruction in Performance: Harpsichord",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "64CS. Undergraduate Instruction in Performance: Harpsichord",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "64CW. Undergraduate Instruction in Performance: Harpsichord",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "65F. Undergraduate Instruction in Performance: Voice",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "65S. Undergraduate Instruction in Performance: Voice",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "65W. Undergraduate Instruction in Performance: Voice",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to Music majors (all freshman/sophomore majors, and junior/senior majors not in performance specialization). Individual instruction. Students must perform in one practicum during academic year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "66F. Undergraduate Instruction for Composition Specialists",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour per week to be arranged with instructor; outside study, five hours. Enforced requisites: courses 20A, 20B, 20C. Limited to music composition students and designed for sophomores. One-on-one composition lessons with assignments and compositions tailored to student progress and level of achievement. Lessons address counterpoint, voice-leading, harmonic and melodic construction, orchestration, form, texture, style, notation, and performance feasibility. P/NP or letter grading."
+    },
+    {
+      "course number & title": "66S. Undergraduate Instruction for Composition Specialists",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour per week to be arranged with instructor; outside study, five hours. Enforced requisites: courses 20A, 20B, 20C. Limited to music composition students and designed for sophomores. One-on-one composition lessons with assignments and compositions tailored to student progress and level of achievement. Lessons address counterpoint, voice-leading, harmonic and melodic construction, orchestration, form, texture, style, notation, and performance feasibility. P/NP or letter grading."
+    },
+    {
+      "course number & title": "66W. Undergraduate Instruction for Composition Specialists",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour per week to be arranged with instructor; outside study, five hours. Enforced requisites: courses 20A, 20B, 20C. Limited to music composition students and designed for sophomores. One-on-one composition lessons with assignments and compositions tailored to student progress and level of achievement. Lessons address counterpoint, voice-leading, harmonic and melodic construction, orchestration, form, texture, style, notation, and performance feasibility. P/NP or letter grading."
+    },
+    {
+      "course number & title": "74A. Introduction to Singing Diction: English and Italian",
+      "Number of units": "Units: 2",
+      "Course description": "Studio/demonstration/performance, 90 minutes; outside study, four to five hours. Course 74A is enforced requisite to 74B, which is enforced requisite to 74C. Introduction to basics of singing diction and development of English and Italian skills for beginning students. Development of International Phonetic Alphabet (IPA) transcription skills, along with addressing issues of translation. Exploration of variety of vocal repertoire, including opera, art songs, early music, recitative, and folk songs. Transcription, translation, speaking, and singing of texts from pieces assigned in course, as well as from repertoire being prepared for juries. P/NP or letter grading."
+    },
+    {
+      "course number & title": "74B. Introduction to Singing Diction: German",
+      "Number of units": "Units: 2",
+      "Course description": "Studio/demonstration/performance, 90 minutes; outside study, four to five hours. Enforced requisite: course 74A. Introduction to basics of singing diction and development of German skills for beginning students. Development of International Phonetic Alphabet (IPA) transcription skills, along with addressing issues of translation. Exploration of variety of vocal repertoire, including opera, art songs, early music, recitative, and folk songs. Transcription, translation, speaking, and singing of texts from pieces assigned in course, as well as from repertoire being prepared for juries. P/NP or letter grading."
+    },
+    {
+      "course number & title": "74C. Introduction to Singing Diction: French",
+      "Number of units": "Units: 2",
+      "Course description": "Studio/demonstration/performance, 90 minutes; outside study, four to five hours. Enforced requisite: course 74B. Introduction to basics of singing diction and development of French skills for beginning students. Development of International Phonetic Alphabet (IPA) transcription skills, along with addressing issues of translation. Exploration of variety of vocal repertoire, including opera, art songs, early music, recitative, and folk songs. Transcription, translation, speaking, and singing of texts from pieces assigned in course, as well as from repertoire being prepared for juries. P/NP or letter grading."
+    },
+    {
+      "course number & title": "80A. Beginning Keyboard",
+      "Number of units": "Units: 4",
+      "Course description": "Laboratory, five hours; preparation/practice, seven hours. Simple keyboard skills together with basic aspects of music theory and its practical application to keyboard: sight-reading, tonality, chords, scales, cadences, simple compositions, and improvisations. May be repeated for credit without limitation. Offered in summer only. P/NP or letter grading."
+    },
+    {
+      "course number & title": "80B. Intermediate Keyboard",
+      "Number of units": "Units: 4",
+      "Course description": "Laboratory, five hours; preparation/practice, seven hours. Enforced requisite: course 80A. Review of basic keyboard concepts, with focus on developing comprehensive keyboard musicianship ranging from music theory, sight-reading, composing, improvising, analysis of form, study of musical terms and notations, chords, scales, cadences, transposing, and ear training. Offered in summer only. P/NP or letter grading."
+    },
+    {
+      "course number & title": "80E. Sight Singing and Ear Training",
+      "Number of units": "Units: 4",
+      "Course description": "Laboratory, four hours. Designed for students of all ages and genres to improve their ability to sing by ear and/or read vocal music. Class is conducted as much as possible without instrumental accompaniment (i.e., a cappella), and special emphasis is placed on acquisition of skills related to relative pitch and recognition of intervals (i.e., relationships between pitches). Letter grading."
+    },
+    {
+      "course number & title": "80F. Beginning Guitar Class",
+      "Number of units": "Units: 4",
+      "Course description": "Laboratory, five hours; preparation/practice, seven hours. Introduction to guitar techniques, accompanying, and arranging for guitar; coverage of note reading and tablature. May be repeated for credit without limitation. Offered in summer only. P/NP or letter grading."
+    },
+    {
+      "course number & title": "80V. Vocal Technique for Beginners",
+      "Number of units": "Units: 4",
+      "Course description": "Laboratory, six hours; preparation/practice, six hours. Voice instruction for singers at beginning to intermediate level. Exploration of fundamentals of vocal technique, including overview of basics of proper breath control, resonance, care of voice, diction, and interpretation. Beginning vocal repertoire used as vehicle for understanding these concepts. May be repeated for credit without limitation. Offered in summer only. P/NP or letter grading."
+    },
+    {
+      "course number & title": "80W. Woodwind Technique for Beginners",
+      "Number of units": "Units: 4",
+      "Course description": "Laboratory, six hours; preparation/practice, six hours. Woodwind instruction designed to give students knowledge of fundamental concepts and techniques of saxophone, clarinet, oboe, bassoon, and flute. Offered in summer only. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89. Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C90A. UCLA Chorale",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, four hours. Preparation: audition. Select mixed ensemble of 100 voices performing choral music appropriate for concert choral ensemble, with emphasis on music after 1700. May be repeated for credit without limitation. May be concurrently scheduled with course C480. P/NP or letter grading."
+    },
+    {
+      "course number & title": "90B. University Chorus",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, two hours. Preparation: audition. Mixed chorus of 100 voices performing medium- and concert-length choral works from baroque to present. May be repeated for credit without limitation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "90C. Chamber Singers",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, three hours. Preparation: audition. Select mixed ensemble of 16 to 20 voices performing chamber choral music of all periods, with emphasis on Renaissance and baroque music. May be repeated for credit without limitation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "90D. Opera Workshop",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, six hours. Preparation: audition. Rehearsal and performance of scenes and complete operas, as well as repertoire, stage movement, and foreign language diction coaching. May be repeated for credit without limitation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C90E. Symphony Orchestra",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, four hours. Preparation: audition. Group performance of symphonic literature, as well as orchestral accompaniment for operatic and major choral works. May be repeated for credit without limitation. May be concurrently scheduled with course C481. P/NP or letter grading."
+    },
+    {
+      "course number & title": "90F. Symphonic Band",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, two hours. Preparation: audition. Group performance of instrumental music scored for band. May be repeated for credit without limitation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C90G. Wind Ensemble",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, six hours. Preparation: audition. Group performance of concert literature for wind ensemble. May be repeated for credit without limitation. May be concurrently scheduled with course C482. P/NP or letter grading."
+    },
+    {
+      "course number & title": "90L. Music Theater Workshop",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, six hours. Preparation: audition. Rehearsal and performance of scenes and complete musical theater productions, including repertoire and stage movement coaching. May be repeated for credit without limitation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "90M. Marching and Varsity Bands",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, four hours. Preparation: audition. Group performance of special band arrangements for football and basketball games as well as special events. May be repeated for credit without limitation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "90N. Jazz Ensemble",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, three hours. Preparation: audition. Group performance of jazz and popular music in ensembles of 20 to 30 instruments. May be repeated for credit without limitation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "90P. Alexander Technique",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, four hours; outside preparation and practice, two hours. Limited to Ethnomusicology, Music, Music History, and Musicology majors. Introduction to principles of Alexander technique. Study of musician's postural attitude at instrument, including physical movement as application of theory. Designed to help instrumentalists and vocalists prevent injuries and performance anxiety. May be repeated with consent of instructor. Letter grading."
+    },
+    {
+      "course number & title": "C90Q. Piano/Keyboard Accompanying",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, four hours; outside study, two hours. Collaboration with large ensembles, instrumentalists, and/or vocalists in role of accompanists. Performance includes, but is not limited to, lessons, rehearsals, special studio performance projects, master classes, concerts, auditions, juries, and recitals. May be repeated for maximum of 12 units. Concurrently scheduled with course C484. P/NP or letter grading."
+    },
+    {
+      "course number & title": "90R. Guitar Accompanying",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, four hours; outside study, two hours. Collaboration with instrumentalists and/or vocalists in role of accompanists. Performance includes, but is not limited to, lessons, rehearsals, special studio performance projects, master classes, concerts, auditions, juries, and recitals. May be repeated for credit without limitation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "90S. Harp Accompanying",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, four hours; outside study, two hours. Collaboration with instrumentalists and/or vocalists in role of accompanists. Performance includes, but is not limited to, lessons, rehearsals, special studio performance projects, master classes, concerts, auditions, juries, and recitals. May be repeated for credit without limitation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M90T. Early Music Ensemble",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Musicology CM90T.) Activity, four hours. Preparation: audition. Group performance of Western vocal and instrumental music from historical periods prior to 1800. Early instruments may be used at instructor's discretion. May be repeated for credit without limitation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "M103. Creating Musical Community",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Ethnomusicology M103, Global Jazz Studies M103, and Musicology M103.) Seminar, four hours; discussion, one hour. Limited to school of music majors. Faculty and students make music together in different modes. Students learn certain repertoire, refine it, and bring it to concert performance. Students critically engage musical literacies and notion of social contract that forms basis of musical notation. Drawing from American music folk game traditions, highlights complex history of this country and way in which entire body is used as resource when instruments are unavailable. Letter grading."
+    },
+    {
+      "course number & title": "104A. Modal Counterpoint",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours. Requisite: course 120C (accelerated section). In-depth exploration of styles and techniques of counterpoint of 15th and 16th centuries through writing and analysis of important forms of period, including species, canon, free counterpoint, cantus, firmus, point of imitation, motet, ricercare, etc. Letter grading."
+    },
+    {
+      "course number & title": "104B. Special Topics in Counterpoint",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours. Requisite: course 120C (accelerated section). In-depth exploration of polyphonic styles and textures since 1750, with emphasis on late-19th- and 20th-century modes of expression, through writing and analysis. Letter grading."
+    },
+    {
+      "course number & title": "106A. Orchestration I",
+      "Number of units": "Units: 4",
+      "Course description": "Discussion, three hours. Requisites: courses 120C (accelerated section), 123C. Ranges and characteristics of instruments, with exercises in scoring. P/NP or letter grading."
+    },
+    {
+      "course number & title": "106B. Orchestration II",
+      "Number of units": "Units: 4",
+      "Course description": "Discussion, three hours. Requisites: courses 106A, 120C (accelerated section), 123C. Scoring and analysis for ensembles and full orchestra. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C109A. Oboe Reed Making",
+      "Number of units": "Units: 1",
+      "Course description": "Activity, one hour; outside study, two hours. Enrollment by consent of instructor. Introduction and overview of oboe reed making, including hands on training with tools and techniques necessary to develop and maintain oboe reeds. May be repeated for credit. May be concurrently scheduled with course C209A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C109B. Bassoon Reed Making",
+      "Number of units": "Units: 1",
+      "Course description": "Activity, one hour; outside study, two to three hours. Enrollment by consent of instructor. Introduction, overview, and hands-on-training with tools and techniques necessary to develop and maintain bassoon reeds. May be repeated for credit. May be concurrently scheduled with course C209B. P/NP or letter grading."
+    },
+    {
+      "course number & title": "110A. Learning Approaches in Music Education",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; activity, two hours; outside study, eight hours. Enforced requisite: course 20A. Introduction to music education by development of concepts, attitudes, and skills necessary to teach music and philosophical, historical, cultural, and psychological foundations of music education, with emphasis on learning theories and psychology of music learning. Contextualization of concepts by engaging in nonnotational modes of music learning, including systematic aural transmission and informal learning. Letter grading."
+    },
+    {
+      "course number & title": "110B. Musicality and Creativity in Childhood",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; activity, two hours; outside study, eight hours. Requisites: courses 20A, 20B, 20C, 110A, 120A, 120B, 120C. Preparation of music education students for teaching music at preschool and elementary school levels. Development of understanding of developmental characteristics, diverse cultures, and learning needs of children and design of effective instructional strategies that are age-appropriate and responsive to children's background. Focus on practice of student-centered curriculum where students are active learners and teachers are facilitators to become proficient in providing children with music learning environment that is conducive to optimal growth in their musicality and creativity. Frequent field visits. Letter grading."
+    },
+    {
+      "course number & title": "110C. Comparative Study of Choral Music Education",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; activity, one hour; fieldwork, one hour; outside study, eight hours. Requisites: courses 20A, 20B, 20C, 110A, 119A, 120A, 120B, 120C. Preparation of students for teaching choral music at middle and high school levels. Development of understanding of developmental characteristics, diverse cultures, and learning needs of adolescents and design of effective instructional strategies that are age-appropriate and responsive to students' background. Diverse practices and learning processes in choral music of American and world serve as basis of comparative study, with emphasis on comprehensive music education through performance. Frequent field visits. Letter grading."
+    },
+    {
+      "course number & title": "110D. Comparative Study of Instrumental Music Education",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; activity, one hour; fieldwork, one hour; outside study, eight hours. Enforced requisites: courses 20A, 20B, 20C, 110A, 120A, 120B, 120C. Critical study and analysis of philosophy, history, organization, curriculum, and literature of music programs for elementary and secondary instrumental music instruction in traditional and nontraditional settings. Development of strategies and techniques to teach music in group settings. Letter grading."
+    },
+    {
+      "course number & title": "110D. Comparative Study of Instrumental Music Education (Effective Spring 2019 )",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; activity, one hour; fieldwork, one hour; outside study, eight hours. Enforced requisites: courses 20A, 20B, 20C, 110A, 120A, 120B, 120C. Critical study and analysis of philosophy, history, organization, curriculum, and literature of music programs for elementary and secondary instrumental music instruction in traditional and nontraditional settings. Development of strategies and techniques to teach music in group settings. Completion of capstone project in form of electronic portfolio demonstrating mastery of program learning outcomes. Frequent field visits. Letter grading."
+    },
+    {
+      "course number & title": "112. Guided Field Experiences in Music Education",
+      "Number of units": "Units: 1",
+      "Course description": "Field studies, three hours. Initial field experiences for students preparing to teach and earn single subject certification in music. Novice teachers work under direct guidance of UCLA music education faculty members and practicing public school instructor to develop and deliver instruction in K-12 settings. P/NP grading."
+    },
+    {
+      "course number & title": "114A. Study of Instrumental Techniques: High Strings",
+      "Number of units": "Units: 1",
+      "Course description": "Studio, three hours. Requisite or corequisite: course 20A. Applied studies in basic performance techniques and tutorial materials. May be repeated once for credit. Letter grading."
+    },
+    {
+      "course number & title": "114B. Study of Instrumental Techniques: Low Strings",
+      "Number of units": "Units: 1",
+      "Course description": "Studio, three hours. Requisite or corequisite: course 20A. Applied studies in basic performance techniques and tutorial materials. May be repeated once for credit. Letter grading."
+    },
+    {
+      "course number & title": "114J. Piano Skill in Classroom",
+      "Number of units": "Units: 1",
+      "Course description": "Activity, two hours. Designed for undergraduate Music majors concentrating in music education. Not open to students enrolled in piano lessons. Development of piano skills and competencies that enable students to function successfully in general music, instrumental ensemble, and choral ensemble classrooms. Letter grading."
+    },
+    {
+      "course number & title": "115A. Study of Instrumental Techniques: Woodwinds",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, four hours; outside study, two hours. Applied studies in basic performance techniques and tutorial materials designed to give music education students knowledge to teach basic instrument concepts. Letter grading."
+    },
+    {
+      "course number & title": "115B. Study of Instrumental Techniques: Brass",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, four hours; outside study, two hours. Applied studies in basic performance techniques and tutorial materials designed to give music education students knowledge to teach basic instrument concepts. Letter grading."
+    },
+    {
+      "course number & title": "116. Introduction to Conducting",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, three hours. Requisites: courses 20A, 20B, 20C, 120A. Fundamentals of conducting, including basic skills, techniques, analysis, and repertoire. P/NP or letter grading."
+    },
+    {
+      "course number & title": "117. Study and Conducting of Instrumental and Choral Literature",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, three hours. Requisite: course 116. Study and practice of conducting both instrumental and choral repertoire. In addition to further development of conducting gestures, focus on score study techniques, rehearsal techniques, style, and interpretation as applied to choral and instrumental repertoire. Letter grading."
+    },
+    {
+      "course number & title": "C118A. Advanced Choral Conducting",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; studio, two hours. Requisites: courses 116, 117. Conducting basics, baton technique, beat patterns, dynamics, score preparation and analysis. May be repeated once for credit. Concurrently scheduled with course C218A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C118B. Choral Techniques and Methods",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; studio, two hours. Requisites: courses 116, 117, C118A. Vocal and choral pedagogy, vocalizing and warm-up techniques, diction, and rehearsal and audition techniques. May be repeated once for credit. Concurrently scheduled with course C218B. P/NP or letter grading."
+    },
+    {
+      "course number & title": "119A. Vocal Techniques for Music Education",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, two hours; activity, two hours; outside study, five hours. Introduction to art of teaching voice, including anatomy of singing instrument, biomechanics of singing, diagnosis and correction of faults, health and care of voice, and instructional techniques. Application of vocal techniques to choral music teaching at middle and high school levels. Letter grading."
+    },
+    {
+      "course number & title": "119B. Western and World Percussion Pedagogy",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, two hours; activity, two hours; outside study, five hours. Enforced requisites: courses 20A, 20B, 20C, 110A. Applied studies in basic performance techniques and tutorial materials designed to give music education students knowledge to teach essential instrument concepts. Topics include snare drum technique, mallets, timpani, accessories, percussion ensembles, introduction to drum set and world percussion. Letter grading."
+    },
+    {
+      "course number & title": "119C. Jazz and Technology Pedagogy",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, two hours; activity, two hours; outside study, five hours. Enforced requisites: courses 20A, 20B, 20C, 110A, 120A, 120B, 120C. Foundations for teaching jazz by development of understanding of curriculum, rehearsal techniques, improvisation, and uses of technology in jazz education. Technology understanding includes basic concepts of sequencing, composition, ensemble performance, and creation of multimedia presentations using tablet (iPad) technology. Letter grading."
+    },
+    {
+      "course number & title": "120A. Music Theory IV",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, four hours. Preparation: passing score on departmental first-year examination. Requisite: course 20C with grade of C (2.0) or better. Theory: baroque counterpoint including chorale prelude; two-part invention; exposition and first modulation of three-part invention; canonic principles; analysis of inventions, canons, and fugues. Musicianship: sight-singing of extended chromatic melodies; advanced harmonic dictation (diatonic and chromatic); keyboard harmonization of modulating melodies; elementary score reading. P/NP or letter grading."
+    },
+    {
+      "course number & title": "120B. Music Theory V",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, four hours. Requisite: course 120A with grade of C (2.0) or better. Theory: advanced chromatic harmony including development of harmony from 1850; analytical projects; style composition. Musicianship: advanced score reading; advanced harmonic dictation; preparation for departmental examination. P/NP or letter grading."
+    },
+    {
+      "course number & title": "120C. Music Theory VI",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; listening, two hours. Requisite: course 120B with grade of C (2.0) or better. 20th-century harmonic language, including nonfunctional harmony, polytonality, free atonality, serialism, and minimalism. P/NP or letter grading."
+    },
+    {
+      "course number & title": "121. Special Topics in 20th-Century Music",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 20A, 20B, 20C, 120A, 120B, 120C. In-depth study of certain aspects of 20th-century music ranging from individual composers and schools to ideological or stylistic concerns. May be repeated once for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C122. Speculative Music Theory",
+      "Number of units": "Units: 4",
+      "Course description": "Discussion, three hours. Requisites: courses 20A, 20B, 20C, 120A, 120B, 120C. Techniques of tonal coherence studied through analysis and compositional exercises in styles of given periods. May be repeated once for credit. May be concurrently scheduled with course C222. P/NP or letter grading."
+    },
+    {
+      "course number & title": "123A. Composition",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 20A, 20B, 20C, 120A, 120B, 120C. Course 123A is requisite to 123B, which is requisite to 123C. Designed for composition students. Vocal and instrumental composition in smaller forms, including style composition and 20th-century techniques. Each course may be repeated once for credit, but first year must be taken in sequence. P/NP or letter grading."
+    },
+    {
+      "course number & title": "123B. Composition",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 20A, 20B, 20C, 120A, 120B, 120C, 123A. Designed for composition students. Vocal and instrumental composition in smaller forms, including style composition and 20th-century techniques. May be repeated once for credit, but first year must be taken in sequence. P/NP or letter grading."
+    },
+    {
+      "course number & title": "123C. Composition",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 20A, 20B, 20C, 120A, 120B, 120C, 123B. Designed for composition students. Vocal and instrumental composition in smaller forms, including style composition and 20th-century techniques. May be repeated once for credit, but first year must be taken in sequence. P/NP or letter grading."
+    },
+    {
+      "course number & title": "124A. Scoring for Symphony Orchestra",
+      "Number of units": "Units: 4",
+      "Course description": "Discussion, three hours. Requisites: courses 106B, 120C (accelerated section), 123C. Practical applications in scoring for symphony orchestra. Preparation and production of parts and full scores. At least one reading by UCLA Philharmonia Orchestra scheduled. Letter grading."
+    },
+    {
+      "course number & title": "124B. Scoring for Wind Ensemble",
+      "Number of units": "Units: 4",
+      "Course description": "Discussion, three hours. Requisites: courses 106B, 120C (accelerated section), 123C. Practical applications in scoring for large wind ensembles. Preparation and production of score and parts. May include percussion. At least one reading by UCLA Wind Ensemble scheduled. Letter grading."
+    },
+    {
+      "course number & title": "124C. Scoring and Arranging for Choral Ensemble",
+      "Number of units": "Units: 4",
+      "Course description": "Discussion, three hours. Requisites: 106B, 120C (accelerated section), 123C. Practical applications in scoring and arranging for choral ensembles, including a capella as well as chorus with instruments. Preparation and production of score and parts. At least one reading by UCLA Chorale or other choral group scheduled. Letter grading."
+    },
+    {
+      "course number & title": "M131. Development of Latin Jazz",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Ethnomusicology M131.) Lecture, four hours; discussion, one hour. Survey of historical and stylistic development of musical style referred to today as Latin jazz. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M134. Introduction to Armenian Music",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Armenian M134 and Ethnomusicology M134.) Lecture, three hours. Some amount of formal music study and experience as vocalist or instrumentalist desirable but not essential. Introduction to history, tradition, and scope of music of Armenia. Focus on number of different genres and approaches, and interactions between music and culture, society, and history. P/NP or letter grading."
+    },
+    {
+      "course number & title": "136A. Historical Survey of Music Theater, Early Forms to 1900",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Historical survey of major works from music theater, tracing development of art form from its European beginning to American music theater of today. P/NP or letter grading."
+    },
+    {
+      "course number & title": "136B. Historical Survey of Music Theater, 1900 to 1945",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Historical survey of major works from music theater, tracing development of art form from its European beginning to American music theater of today. P/NP or letter grading."
+    },
+    {
+      "course number & title": "136C. Historical Survey of Music Theater, 1945 to 1975",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Historical survey of major works from music theater, tracing development of art form from its European beginning to American music theater of today. P/NP or letter grading."
+    },
+    {
+      "course number & title": "140A. History and Analysis of Western Music to 1700",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisite: course M6C. Students must receive grade of C or better to proceed to next course in sequence. Survey of Western music from its beginnings to 1700; examination of representative compositions within their cultural contexts and development of analytical methods appropriate to each repertory. Letter grading."
+    },
+    {
+      "course number & title": "140B. History and Analysis of Western Music, 1700 to 1800",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, four hours; discussion, one hour. Enforced requisite: course 140A with grade of C or better. Survey of Western music from 1700 to 1890; examination of representative compositions within their cultural contexts and development of analytical methods appropriate to each repertory. Letter grading."
+    },
+    {
+      "course number & title": "140C. History and Analysis of Western Music, 1890 to Present",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, four hours; discussion, one hour. Enforced requisite: course 140B with grade of C or better. Survey of Western music from 1890 to present; examination of representative compositions within their cultural contexts and development of analytical methods appropriate to each repertory. Letter grading."
+    },
+    {
+      "course number & title": "C150. Keyboard Skills for Pianists",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, two hours; outside study, four hours. Applied music course with focus on necessary skills for piano performance. Areas include sight playing, score reading, transposition, figured bass, harmonization, improvisation, score reduction, and ensemble issues. Concurrently scheduled with course C450. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C155. Instrumental and Piano Duo Repertoire",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, two hours; outside study, four hours. Performance-based course that develops repertoire and experience in collaborative performance for pianists and instrumentalists. Activities include weekly score preparation, weekly rehearsals, regular coaching, and performances for lessons, juries, recitals, master classes, auditions, and other related activities. Regular coaching with faculty members, weekly performance workshop, and rehearsals. Concurrently scheduled with course C455. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C158. Advanced Vocal Repertoire, Diction, and Interpretation",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, two hours; outside study, four hours. Enforced requisite: course 74C. Performance-based course that develops repertoire and experience in collaborative performance for pianists and vocalists. Activities include text and score preparation, diction, weekly rehearsals, regular coaching, and performances for lessons, juries, recitals, master classes, auditions, and other related activities. Intensive diction study incorporated. Regular coaching with faculty members, weekly performance class, and rehearsals. Concurrently scheduled with course C458. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160AF. Undergraduate Instruction in Performance for Performance Specialist: Violin",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160AS. Undergraduate Instruction in Performance for Performance Specialist: Violin",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160AW. Undergraduate Instruction in Performance for Performance Specialist: Violin",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160BF. Undergraduate Instruction in Performance for Performance Specialist: Viola",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160BS. Undergraduate Instruction in Performance for Performance Specialist: Viola",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160BW. Undergraduate Instruction in Performance for Performance Specialist: Viola",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160CF. Undergraduate Instruction in Performance for Performance Specialist: Cello",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160CS. Undergraduate Instruction in Performance for Performance Specialist: Cello",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160CW. Undergraduate Instruction in Performance for Performance Specialist: Cello",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160DF. Undergraduate Instruction in Performance for Performance Specialist: String Bass",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160DS. Undergraduate Instruction in Performance for Performance Specialist: String Bass",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160DW. Undergraduate Instruction in Performance for Performance Specialist: String Bass",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160EF. Undergraduate Instruction in Performance for Performance Specialist: Harp",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160ES. Undergraduate Instruction in Performance for Performance Specialist: Harp",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160EW. Undergraduate Instruction in Performance for Performance Specialist: Harp",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160FF. Undergraduate Instruction in Performance for Performance Specialist: Classical Guitar",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160FS. Undergraduate Instruction in Performance for Performance Specialist: Classical Guitar",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160FW. Undergraduate Instruction in Performance for Performance Specialist: Classical Guitar",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160GF. Undergraduate Instruction in Performance for Performance Specialist: Viola da gamba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160GS. Undergraduate Instruction in Performance for Performance Specialist: Viola da gamba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160GW. Undergraduate Instruction in Performance for Performance Specialist: Viola da gamba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160KF. Undergraduate Instruction in Performance for Performance Specialist: Lute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160KS. Undergraduate Instruction in Performance for Performance Specialist: Lute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160KW. Undergraduate Instruction in Performance for Performance Specialist: Lute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161AF. Undergraduate Instruction in Performance for Performance Specialist: Flute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161AS. Undergraduate Instruction in Performance for Performance Specialist: Flute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161AW. Undergraduate Instruction in Performance for Performance Specialist: Flute",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161BF. Undergraduate Instruction in Performance for Performance Specialist: Oboe",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161BS. Undergraduate Instruction in Performance for Performance Specialist: Oboe",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161BW. Undergraduate Instruction in Performance for Performance Specialist: Oboe",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161CF. Undergraduate Instruction in Performance for Performance Specialist: Clarinet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161CS. Undergraduate Instruction in Performance for Performance Specialist: Clarinet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161CW. Undergraduate Instruction in Performance for Performance Specialist: Clarinet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161DF. Undergraduate Instruction in Performance for Performance Specialist: Bassoon",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161DS. Undergraduate Instruction in Performance for Performance Specialist: Bassoon",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161DW. Undergraduate Instruction in Performance for Performance Specialist: Bassoon",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161EF. Undergraduate Instruction in Performance for Performance Specialist: Saxophone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161ES. Undergraduate Instruction in Performance for Performance Specialist: Saxophone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161EW. Undergraduate Instruction in Performance for Performance Specialist: Saxophone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162AF. Undergraduate Instruction in Performance for Performance Specialist: Trumpet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162AS. Undergraduate Instruction in Performance for Performance Specialist: Trumpet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162AW. Undergraduate Instruction in Performance for Performance Specialist: Trumpet",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162BF. Undergraduate Instruction in Performance for Performance Specialist: French Horn",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162BS. Undergraduate Instruction in Performance for Performance Specialist: French Horn",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162BW. Undergraduate Instruction in Performance for Performance Specialist: French Horn",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162CF. Undergraduate Instruction in Performance for Performance Specialist: Trombone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162CS. Undergraduate Instruction in Performance for Performance Specialist: Trombone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162CW. Undergraduate Instruction in Performance for Performance Specialist: Trombone",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162DF. Undergraduate Instruction in Performance for Performance Specialist: Tuba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162DS. Undergraduate Instruction in Performance for Performance Specialist: Tuba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "162DW. Undergraduate Instruction in Performance for Performance Specialist: Tuba",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "163F. Undergraduate Instruction in Performance for Performance Specialist: Percussion",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "163S. Undergraduate Instruction in Performance for Performance Specialist: Percussion",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "163W. Undergraduate Instruction in Performance for Performance Specialist: Percussion",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "164AF. Undergraduate Instruction in Performance for Performance Specialist: Piano",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "164AS. Undergraduate Instruction in Performance for Performance Specialist: Piano",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "164AW. Undergraduate Instruction in Performance for Performance Specialist: Piano",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "164BF. Undergraduate Instruction in Performance for Performance Specialist: Organ",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "164BS. Undergraduate Instruction in Performance for Performance Specialist: Organ",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "164BW. Undergraduate Instruction in Performance for Performance Specialist: Organ",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "164CF. Undergraduate Instruction in Performance for Performance Specialist: Harpsichord",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "164CS. Undergraduate Instruction in Performance for Performance Specialist: Harpsichord",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "164CW. Undergraduate Instruction in Performance for Performance Specialist: Harpsichord",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "165F. Undergraduate Instruction in Performance for Performance Specialist: Voice",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "165S. Undergraduate Instruction in Performance for Performance Specialist: Voice",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "165W. Undergraduate Instruction in Performance for Performance Specialist: Voice",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour. Limited to junior/senior Music majors who have been accepted by audition into performance specialization. Individual instruction. Students must perform in noon concert once during their junior year and must present full recital in their senior year. Grades are assigned by applied instructor in Fall and Winter Quarters and by jury examination in Spring Quarter. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "166F. Advanced Undergraduate Instruction for Composition Specialists",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour per week to be arranged with instructor; outside study, five hours. Enforced requisite: course 66 (6 units). Limited to junior/senior music composition students. One-on-one composition lessons with assignments and compositions tailored to student progress and level of achievement. Lessons address counterpoint, voice-leading, harmonic and melodic construction, orchestration, form, texture, style, notation, and performance feasibility. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "166S. Advanced Undergraduate Instruction for Composition Specialists",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour per week to be arranged with instructor; outside study, five hours. Enforced requisite: course 66 (6 units). Limited to junior/senior music composition students. One-on-one composition lessons with assignments and compositions tailored to student progress and level of achievement. Lessons address counterpoint, voice-leading, harmonic and melodic construction, orchestration, form, texture, style, notation, and performance feasibility. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "166W. Advanced Undergraduate Instruction for Composition Specialists",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, one hour per week to be arranged with instructor; outside study, five hours. Enforced requisite: course 66 (6 units). Limited to junior/senior music composition students. One-on-one composition lessons with assignments and compositions tailored to student progress and level of achievement. Lessons address counterpoint, voice-leading, harmonic and melodic construction, orchestration, form, texture, style, notation, and performance feasibility. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C167. Selected Topics in Keyboard Literature",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Enforced corequisite: one course from 64A, 64B, 64C, 164A, 164B, or 164C. In-depth study of selected topics in keyboard literature, concentrating on problems of performance through analysis, historical and comparative studies, and actual performances by participants. May be concurrently scheduled with course C267. P/NP or letter grading."
+    },
+    {
+      "course number & title": "174. Vocal Diction",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours; outside study, four hours. Designed for Music majors. Sounds of language as applied to singing, including use of International Phonetic Alphabet, translation of art song texts, and application to student's current vocal repertoire. Background in each language encouraged. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C175. Chamber Ensembles",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, two to four hours. Preparation: audition. Students must be at advanced level of their instrument to participate. Applied study of performance practices of literature appropriate to ensembles. Students may enroll in two sections per term; total of 12 units may be applied toward degree requirements. May be concurrently scheduled with course C485. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C176. Electronic Music Composition",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours. Preparation: advanced experience and accomplishment in serious composition (art music), two years of music theory. Limited to music composition majors. Exercises in electroacoustic orchestration, meta-pitch composition, notation software (Sibelius), sequencing and film scoring software (Logic), text collages (ProTools), and final project. May be concurrently scheduled with course C226. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C177. Gluck Chamber Ensembles",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, two hours. Preparation: audition. Advanced chamber ensembles who, after rehearsing and being coached on core amount of repertoire, play in outreach settings around Los Angeles community. May be repeated for credit without limitation. Concurrently scheduled with course C477. P/NP grading."
+    },
+    {
+      "course number & title": "CM182. Music Industry",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Ethnomusicology CM182, Musicology CM186, and Music Industry M182.) Lecture, four hours; discussion, one hour; outside study, seven hours. Limited to Ethnomusicology, Music, and Music History majors. Examination of influence of music industry on way music is created, performed, listened to, evaluated, and used today. Historical approach taken, beginning with music published in 18th century and continuing through development of audio recordings to MTV and popular music today. Concurrently scheduled with course CM282. Letter grading."
+    },
+    {
+      "course number & title": "188. Special Courses in Music",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; outside study, nine hours. Special topics in music for undergraduate students taught on experimental or temporary basis. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "188SA. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SB. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SC. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 2",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "189. Advanced Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "195. Community or Corporate Internships in Music",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, six hours. Limited to juniors/seniors. Internship in supervised setting in community agency or business. Students meet on regular basis with supervising instructor and submit periodic reports of their work experiences. May be repeated for maximum of 8 units. Individual contract with supervising faculty member required. P/NP grading."
+    },
+    {
+      "course number & title": "197. Individual Studies in Music",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Tutorial, one hour. Preparation: 3.0 grade-point average. Limited to seniors. Individual intensive study in music, with scheduled meetings to be arranged between faculty member and student. Tangible evidence of mastery of subject matter (research project) required. May be repeated for maximum of 8 units. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M201. Repertory and Analysis",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Musicology M201.) Seminar, two hours. Requisite or corequisite: Musicology 200A. Exploration of defined repertory through readings and analysis. Specific topics vary. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "202. Analysis for Performers",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; outside study, nine hours. Designed for graduate students. Survey of analytical techniques and approaches required for professional performers, including phrase structure, harmonic rhythm and prolongation, small and large forms, theories of musical coherence, and understanding of styles. Letter grading."
+    },
+    {
+      "course number & title": "203. Notation and Performance",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; outside study, nine hours. Designed for graduate music students. Survey analysis of evidence performers use to make their interpretive decisions in performance of vocal and instrumental music of European tradition. Topics include editions, treatises, tempo indications, expressive notation, use and influence of recordings, composer-performer relationship, and nonstandard notation. Letter grading."
+    },
+    {
+      "course number & title": "204. Music Bibliography for Performers",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; outside study, nine hours. Designed for graduate music performance students. Survey of general bibliographic techniques in music, with emphasis on materials for performing musicians. Letter grading."
+    },
+    {
+      "course number & title": "C209A. Oboe Reed Making",
+      "Number of units": "Units: 1",
+      "Course description": "Activity, one hour; outside study, two hours. Enrollment by consent of instructor. Introduction and overview of oboe reed making, including hands on training with tools and techniques necessary to develop and maintain oboe reeds. May be repeated for credit. May be concurrently scheduled with course C109A. S/U or letter grading."
+    },
+    {
+      "course number & title": "C209B. Bassoon Reed Making",
+      "Number of units": "Units: 1",
+      "Course description": "Activity, one hour; outside study, two to three hours. Enrollment by consent of instructor. Introduction, overview, and hands-on-training with tools and techniques necessary to develop and maintain bassoon reeds. May be repeated for credit. May be concurrently scheduled with course C109B. S/U or letter grading."
+    },
+    {
+      "course number & title": "C218A. Advanced Choral Conducting",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; studio, two hours. Requisites: courses 116, 117. Conducting basics, baton technique, beat patterns, dynamics, score preparation and analysis. May be repeated once for credit. Concurrently scheduled with course C118A. Letter grading."
+    },
+    {
+      "course number & title": "C218B. Choral Techniques and Methods",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; studio, two hours. Requisites: courses 116, 117, C218A. Vocal and choral pedagogy, vocalizing and warm-up techniques, diction, and rehearsal and audition techniques. May be repeated once for credit. Concurrently scheduled with course C118B. Letter grading."
+    },
+    {
+      "course number & title": "C222. Speculative Music Theory",
+      "Number of units": "Units: 4",
+      "Course description": "Discussion, three hours. Designed for graduate music students. Techniques of tonal coherence studied through analysis and compositional exercises in styles of given periods. May be repeated once for credit. May be concurrently scheduled with course C122. S/U or letter grading."
+    },
+    {
+      "course number & title": "C226. Electronic Music Composition",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours. Preparation: advanced experience and accomplishment in serious composition (art music), two years of music theory. Designed for graduate students. Limited enrollment. Exercises in electroacoustic orchestration, meta-pitch composition, notation software (Sibelius), sequencing and film scoring software (Logic), text collages (ProTools), and final project. May be concurrently scheduled with course C176. S/U or letter grading."
+    },
+    {
+      "course number & title": "251. Seminar: Orchestration",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Advanced orchestration for large ensembles; analysis of orchestral literature. Letter grading."
+    },
+    {
+      "course number & title": "252. Seminar: Composition",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Compositional projects for varying acoustic instrumental and vocal ensembles. Students expected to perform their compositions from sketches at piano or present notation files of work-in-progress with playback file, where appropriate. Performance of completed works in graduate composition concerts by UCLA student performers. S/U or letter grading."
+    },
+    {
+      "course number & title": "253. Seminar: Special Topics in Composition and Theory",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Intensive exploration of specialized aspects of composition. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "254. Advanced Music Analysis: Pre-Tonal Music",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Designed to provide graduate composition students with in-depth exposure to complex and rich works of late Middle Ages through dawn of baroque era. Exploration of analytical techniques and methods not commonly used in analysis of works of tonal and post-tonal periods, and approaches to musical structures used by composers before modern tonal harmonic syntax had fully developed. Letter grading."
+    },
+    {
+      "course number & title": "255. Advanced Music Analysis: Tonal Music",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Discussion of theoretic approaches to and analysis of selected works of common practice era. Analysis of assigned pieces using various theoretic approaches discussed and presentation of analyses in class. Letter grading."
+    },
+    {
+      "course number & title": "256. Advanced Music Analysis: Post-Tonal Music",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Designed for graduate music students. Discussion of theoretic approaches to and analysis of selected works of 20th or 21st century. Analysis of assigned pieces using various theoretic approaches discussed and presentation of analyses in class. Letter grading."
+    },
+    {
+      "course number & title": "260A. Seminar: Composition for Motion Pictures and Television",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours; laboratory, three hours. Practical experience in composing for commercial movies. Difference between underscore and source music and discussion of surrealistic effect when they merge, as in MTV, dream sequences, or montages. Study of three principal areas of filmmaking--preproduction, production (shooting), and postproduction. Examples from classic movies and discussion of their scores. Composition of actual cues for acoustic instruments coordinated to picture to be term project. Separate cues involve dialogue, melodrama, comedy, chase, memory montage, and tension. Letter grading."
+    },
+    {
+      "course number & title": "260B. Seminar: Composition for Motion Pictures and Television",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours; laboratory, three hours. Focus on task of completing one entire score for television episode or original student film. Discussion of recent television shows. Composition of one original title song and short cues to someone else's song required. Term assignment involves student orchestra recording to picture, designed to approximate actual conditions of completing professional Hollywood assignment, from spotting to scoring. Letter grading."
+    },
+    {
+      "course number & title": "261A. Problems in Performance Practices: Medieval",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours; outside study, nine hours. Limited to graduate performance students. Investigation of primary source readings in performance practices as related to period; analytical reports and practical applications in class demonstrations. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "261B. Problems in Performance Practices: Renaissance",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours; outside study, nine hours. Limited to graduate performance students. Investigation of primary source readings in performance practices as related to period; analytical reports and practical applications in class demonstrations. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "261C. Problems in Performance Practices: Baroque",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours; outside study, nine hours. Limited to graduate performance students. Investigation of primary source readings in performance practices as related to period; analytical reports and practical applications in class demonstrations. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "261D. Problems in Performance Practices: Classical",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours; outside study, nine hours. Limited to graduate performance students. Investigation of primary source readings in performance practices as related to period; analytical reports and practical applications in class demonstrations. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "261E. Problems in Performance Practices: Romantic",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours; outside study, nine hours. Limited to graduate performance students. Investigation of primary source readings in performance practices as related to period; analytical reports and practical applications in class demonstrations. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "261F. Problems in Performance Practices: Contemporary",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours; outside study, nine hours. Limited to graduate performance students. Investigation of primary source readings in performance practices as related to period; analytical reports and practical applications in class demonstrations. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "261J. Problems in Performance Practices: Jazz",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours; outside study, nine hours. Limited to graduate performance students. Investigation of primary source readings in performance practices as related to period; analytical reports and practical applications in class demonstrations. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "266. Graduate Instruction for Composition Specialists",
+      "Number of units": "Units: 4",
+      "Course description": "Studio, one hour arranged with instructor; outside study, 11 hours. Limited to graduate composition students. One-on-one composition lessons, with assignments and compositions tailored to each student's progress and level of achievement, addressing counterpoint, voice-leading, harmonic and melodic construction, orchestration, form, texture, style, notation, and performance feasibility of compositions worked on at advanced level. Presentation of at least one composition composed during course in graduate composition concert during academic year. May be repeated for credit without limitation. S/U or letter grading."
+    },
+    {
+      "course number & title": "C267. Selected Topics in Keyboard Literature",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Enforced corequisite: course 464A or 464B or 464C. In-depth study of selected topics in keyboard literature, concentrating on problems of performance through analysis, historical and comparative studies, and actual performances by participants. May be concurrently scheduled with course C167. S/U or letter grading."
+    },
+    {
+      "course number & title": "270A. Seminar: Music Education--History",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours. May be repeated for credit without limitation. S/U or letter grading."
+    },
+    {
+      "course number & title": "270B. Seminar: Music Education--Non-Western Musics",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours. May be repeated for credit without limitation. S/U or letter grading."
+    },
+    {
+      "course number & title": "270C. Seminar: Music Education--Curriculum Innovations",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours. May be repeated for credit without limitation. S/U or letter grading."
+    },
+    {
+      "course number & title": "270D. Seminar: Music Education--Tests and Measurements",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours. May be repeated for credit without limitation. S/U or letter grading."
+    },
+    {
+      "course number & title": "270E. Seminar: Music Education--Choral Literature",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours. May be repeated for credit without limitation. S/U or letter grading."
+    },
+    {
+      "course number & title": "270F. Seminar: Music Education--Instrumental Literature",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours. May be repeated for credit without limitation. S/U or letter grading."
+    },
+    {
+      "course number & title": "270G. Seminar: Music Education--General Topics",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours. May be repeated for credit without limitation. S/U or letter grading."
+    },
+    {
+      "course number & title": "CM282. Music Industry",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Ethnomusicology CM288 and Musicology CM288.) Lecture, four hours; discussion, one hour; outside study, seven hours. Limited to Ethnomusicology, Music, and Musicology majors. Examination of influence of music industry on way music is created, performed, listened to, evaluated, and used today. Historical approach taken, beginning with music published in 18th century and continuing through development of audio recordings to MTV and popular music today. Concurrently scheduled with course CM182. Letter grading."
+    },
+    {
+      "course number & title": "290. Composition Forum",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Weekly forum to present professional composers of range of mediums, including large ensemble vocal and/or instrumental works, chamber music, electronic music, and film/television, as guest lecturers. Letter grading."
+    },
+    {
+      "course number & title": "292. Seminar: Special Topics in Music",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Exploration of topics in music through variety of approaches that may include projects, performances, readings, discussions, research papers, and oral presentations. Topics announced in advance. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "330. Introduction to Orff Schulwerk",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, 10 hours; discussion, five hours; laboratory, 15 hours. Intended for teachers of music, church musicians, and music therapists who have had little or no previous experience with Orff Schulwerk. Introduction to Orff Schulwerk, including history, philosophy, and teaching processes of this approach to music instruction for children. Offered in summer only. S/U or letter grading."
+    },
+    {
+      "course number & title": "S331A. Orff Schulwerk Training Course: Level I (Beginning)",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, 10 hours; discussion, five hours; laboratory, 15 hours. Requisite: course 330. Course S331A is requisite to S331B, which is requisite to S331C. In-depth course in teaching of Orff Schulwerk approach to music instruction for children. Students who successfully complete each course are eligible for certification at that level through American Orff Schulwerk Association. Offered in summer only. S/U or letter grading."
+    },
+    {
+      "course number & title": "S331B. Orff Schulwerk Training Course: Level II (Intermediate)",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, 10 hours; discussion, five hours; laboratory, 15 hours. Requisite: course S331A. In-depth course in teaching of Orff Schulwerk approach to music instruction for children. Students who successfully complete each course are eligible for certification at that level through American Orff Schulwerk Association. Offered in summer only. S/U or letter grading."
+    },
+    {
+      "course number & title": "S331C. Orff Schulwerk Training Course: Level III (Advanced)",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, 10 hours; discussion, five hours; laboratory, 15 hours. Requisite: course S331B. In-depth course in teaching of Orff Schulwerk approach to music instruction for children. Students who successfully complete each course are eligible for certification at that level through American Orff Schulwerk Association. Offered in summer only. S/U or letter grading."
+    },
+    {
+      "course number & title": "S341. Conducting for High School and College Band/Wind Ensemble Teachers",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, 25 hours. Comprehensive view of current trends in band/wind ensemble programs, including nonverbal communication, conducting, and rehearsal techniques. Study of new and recently published literature and discussions of administration of band/wind ensemble programs. May be repeated for credit without limitation. Offered in summer only. S/U or letter grading."
+    },
+    {
+      "course number & title": "S342. Contemporary Marching Band",
+      "Number of units": "Units: 1",
+      "Course description": "Lecture, 12 hours. Innovative approaches to marching band programs for high school and college teachers, including creative approaches to charging and drill design and use of microcomputers. May be repeated for credit without limitation. Offered in summer only. S/U or letter grading."
+    },
+    {
+      "course number & title": "343. Effective and Creative String Teaching",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, 24 hours. Comprehensive course for teachers of string classes and string orchestras at elementary, junior high, and high school levels. Topics include development of instructional techniques for violin, viola, cello, and bass; critical examination of current pedagogical materials; and reading sessions of recently published music for string orchestra. May be repeated for credit without limitation. Offered in summer only. S/U or letter grading."
+    },
+    {
+      "course number & title": "343L. Effective and Creative String Teaching Laboratory",
+      "Number of units": "Units: 1",
+      "Course description": "Laboratory, 12 hours. Exploration of string orchestra, ensemble, and chamber music literature appropriate for elementary, junior high, and high schools. Examination of this literature in reading and discussion sessions. May be repeated for credit without limitation. Offered in summer only. S/U or letter grading."
+    },
+    {
+      "course number & title": "S345. Symposium on Art of Choral Music",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, 25 hours. Symposium for college, high school, and junior high school choral directors on development of practical techniques for solving real challenges in choral conducting and teaching. Topics include innovative choral methods, choral conducting, vocal pedagogy, voice classification, and survey of standard and current choral literature. Offered in summer only. S/U or letter grading."
+    },
+    {
+      "course number & title": "350A. Introduction to Computer-Assisted Instruction of Music",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, three hours; laboratory, two hours. Introduction to instructional uses of computers in music classroom, with emphasis on practical information necessary to intelligently purchase and implement microcomputers in schools. Courseware to be experienced and reviewed, jargon defined and illustrated, and practical hands-on experience obtained. May be repeated for credit without limitation. Offered in summer only. S/U or letter grading."
+    },
+    {
+      "course number & title": "350B. Exploration of MIDI Computer Resources: Keyboards and Synthesizers",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours; laboratory, three hours. Creative use of MIDI-based synthesizers under computer control. Exploration of available hardware resources allied with various software sequencing packages. Use of software for computer-based music printing. Hands-on experience. May be repeated for credit without limitation. Offered in summer only. S/U or letter grading."
+    },
+    {
+      "course number & title": "371. Marching Band in Secondary Education",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Study of contemporary marching band as component of music curriculum in secondary education, including current approaches, practices, and problems associated with marching bands, as well as historical perspective. S/U or letter grading."
+    },
+    {
+      "course number & title": "375. Teaching Apprentice Practicum",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "401. New Music Forum",
+      "Number of units": "Units: 2",
+      "Course description": "Tutorial/laboratory, two hours. Preparation: one year of graduate study in music at UCLA. Interactive course in preparation and performance of premiere work especially composed for graduate performer or performers by graduate composer at UCLA. Letter grading."
+    },
+    {
+      "course number & title": "C450. Keyboard Skills for Pianists",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, two hours; outside study, four hours. Applied music course with focus on necessary skills for piano performance. Areas include sight playing, score reading, transposition, figured bass, harmonization, improvisation, score reduction, and ensemble issues. Concurrently scheduled with course C150. Letter grading."
+    },
+    {
+      "course number & title": "C455. Instrumental and Piano Duo Repertoire",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, two hours; outside study, four hours. Performance-based course that develops repertoire and experience in collaborative performance for pianists and instrumentalists. Activities include weekly score preparation, weekly rehearsals, regular coaching, and performances for lessons, juries, recitals, master classes, auditions, and other related activities. Regular coaching with faculty members, weekly performance workshop, and rehearsals. Concurrently scheduled with course C155. Letter grading."
+    },
+    {
+      "course number & title": "C458. Advanced Vocal Repertoire, Diction, and Interpretation",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, two hours; outside study, four hours. Performance-based course that develops repertoire and experience in collaborative performance for pianists and vocalists. Activities include text and score preparation, diction, weekly rehearsals, regular coaching, and performances for lessons, juries, recitals, master classes, auditions, and other related activities. Intensive diction study incorporated. Regular coaching with faculty members, weekly performance class, and rehearsals. Concurrently scheduled with course C158. Letter grading."
+    },
+    {
+      "course number & title": "460A. Graduate Instruction in Performance: Violin",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "460B. Graduate Instruction in Performance: Viola",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "460C. Graduate Instruction in Performance: Cello",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "460D. Graduate Instruction in Performance: String Bass",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "460E. Graduate Instruction in Performance: Harp",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "460F. Graduate Instruction in Performance: Classical Guitar",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "460G. Graduate Instruction in Performance: Viola da gamba",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "460K. Graduate Instruction in Performance: Lute",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "461A. Graduate Instruction in Performance: Flute",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "461B. Graduate Instruction in Performance: Oboe",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "461C. Graduate Instruction in Performance: Clarinet",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "461D. Graduate Instruction in Performance: Bassoon",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "461E. Graduate Instruction in Performance: Saxophone",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "462A. Graduate Instruction in Performance: Trumpet",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "462B. Graduate Instruction in Performance: French Horn",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "462C. Graduate Instruction in Performance: Trombone",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "462D. Graduate Instruction in Performance: Tuba",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "463. Graduate Instruction in Performance: Percussion",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "464A. Graduate Instruction in Performance: Piano",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "464B. Graduate Instruction in Performance: Organ",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "464C. Graduate Instruction in Performance: Harpsichord",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "464D. Graduate Instruction in Performance: Fortepiano",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "465. Graduate Instruction in Performance: Voice",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "466. Graduate Instruction in Performance: Jazz",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, one hour; performance laboratory/outside study, 17 hours. Limited to graduate performance students. Individual instruction. Intensive study and preparation of musical literature in area of specialization. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "469. Instrumental Pedagogy",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; outside study and preparation, nine hours. Preparation: advanced proficiency on one musical instrument. Designed for graduate music students. Study of art of teaching musical instruments, including discussions of philosophy of teaching, learning process itself, and teaching of musical interpretation. Individualized study of various considerations, such as physical/technical aspects and pedagogical repertoire, peculiar to teaching student's primary instrument. Letter grading."
+    },
+    {
+      "course number & title": "470. Opera Studio for Graduate Students",
+      "Number of units": "Units: 4",
+      "Course description": "Laboratory, six hours. Designed for graduate students. Performance techniques and repertoire for graduate students in opera. S/U or letter grading."
+    },
+    {
+      "course number & title": "471. Vocal Pedagogy",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Preparation: advanced proficiency in voice. Designed for graduate music students. Study of teaching techniques for voice, including thorough investigation of vocal mechanism and its use, plus study of noted teachers of past and present. Further emphasis on practical teaching experience in class. Letter grading."
+    },
+    {
+      "course number & title": "472. Master Class in Opera",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, three hours; outside study, 15 hours. Limited to graduate performance students. Intensive study and preparation of opera literature. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "475. Master Class in Conducting",
+      "Number of units": "Units: 6",
+      "Course description": "Studio, three hours; outside study, 15 hours. Limited to graduate performance students. Intensive study and preparation of musical literature in specialized field of conducting. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "C477. Gluck Chamber Ensembles",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, two hours. Preparation: audition. Advanced chamber ensembles who, after rehearsing and being coached on core amount of repertoire, play in outreach settings around Los Angeles community. May be repeated for credit without limitation. Concurrently scheduled with course C177. S/U grading."
+    },
+    {
+      "course number & title": "C480. UCLA Chorale",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, four hours. Preparation: audition. Designed for MM and DMA students. Select mixed ensemble of 100 voices performing choral music appropriate for concert choral ensemble, with emphasis on music after 1700. May be repeated for credit without limitation. May be concurrently scheduled with course C90A. Letter grading."
+    },
+    {
+      "course number & title": "C481. Symphony Orchestra",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, four hours. Preparation: audition. Group performance of symphonic literature, as well as orchestral accompaniment for operatic and major choral works. May be repeated for credit without limitation. May be concurrently scheduled with course C90E. Letter grading."
+    },
+    {
+      "course number & title": "C482. Wind Ensemble",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, six hours. Preparation: audition. Designed for MM and DMA students. Group performance of concert literature for wind ensemble. May be repeated for credit without limitation. May be concurrently scheduled with course C90G. Letter grading."
+    },
+    {
+      "course number & title": "C484. Piano/Keyboard Accompanying",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, four hours; outside study, two hours. Collaboration with large ensembles, instrumentalists, and/or vocalists in role of accompanists. Performance includes, but is not limited to, lessons, rehearsals, special studio performance projects, master classes, concerts, auditions, juries, and recitals. May be repeated for maximum of 12 units. Concurrently scheduled with course C90Q. Letter grading."
+    },
+    {
+      "course number & title": "C485. Chamber Ensembles",
+      "Number of units": "Units: 2",
+      "Course description": "Activity, two to four hours. Preparation: audition. Students must be at advanced level of their instrument to participate. Applied study of performance practices of literature appropriate to ensembles. Students may enroll in two sections per term; total of 12 units may be applied toward degree requirements. May be concurrently scheduled with course C175. Letter grading."
+    },
+    {
+      "course number & title": "486. Jazz Ensemble",
+      "Number of units": "Units: 2",
+      "Course description": "Studio, six hours. Designed for M.M. students in jazz performance area of study. Group performance of jazz repertoire. May be repeated for credit without limitation. Letter grading."
+    },
+    {
+      "course number & title": "495. Introductory Practicum for Teaching Apprentices in Music",
+      "Number of units": "Units: 2",
+      "Course description": "Eight weekly two-hour seminar sessions, plus intensive training session during Fall Quarter registration week. Preparation: appointment as teaching apprentice in Music Department. Required of all new teaching apprentices. Special course dealing with problems and practices of teaching music at college level. May not be applied toward degree requirements. S/U grading."
+    },
+    {
+      "course number & title": "496. Technology Seminar",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours; laboratory, one hour; outside study, three hours. Introduction to departmental and campuswide technology resources, exploration of applications of technology in education, and development of means of using technology to assess and document teaching competence. S/U grading."
+    },
+    {
+      "course number & title": "595A. Preparation of Master's Recital",
+      "Number of units": "Units: 6",
+      "Course description": "Tutorial, three hours. Limited to graduate master's program in performance students. Intensive study and preparation of final master's recital, normally taken in lieu of 400-level lessons during final recital term. S/U grading."
+    },
+    {
+      "course number & title": "595B. Preparation of Final Doctoral Recital",
+      "Number of units": "Units: 6",
+      "Course description": "Tutorial, three hours. Preparation: advancement to candidacy for DMA degree. Intensive study and preparation of final DMA recital, normally taken in lieu of 400-level lessons during final recital term. S/U grading."
+    },
+    {
+      "course number & title": "596A. Directed Individual Studies in Orchestration and Composition",
+      "Number of units": "Units: 2 to 6",
+      "Course description": "Tutorial, to be arranged. Only 4 units may be applied toward MA or MM degree requirements. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "596C. Directed Individual Studies in Music Education",
+      "Number of units": "Units: 2 to 6",
+      "Course description": "Tutorial, to be arranged. Only 4 units may be applied toward MA or MM degree requirements. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "596D. Directed Individual Studies in Performance Practices",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Only 4 units may be applied toward MA or MM degree requirements. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "597. Preparation for Master's Comprehensive Examination or PhD Qualifying Examinations",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Tutorial, to be arranged. S/U grading."
+    },
+    {
+      "course number & title": "598. Guidance of MA Thesis",
+      "Number of units": "Units: 4 to 12",
+      "Course description": "Tutorial, to be arranged. Only 4 units may be applied toward degree requirements. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "599. Guidance of PhD or DMA Dissertation",
+      "Number of units": "Units: 4 to 12",
+      "Course description": "Tutorial, to be arranged. May be repeated for credit. S/U grading."
+    }
+  ]
+}

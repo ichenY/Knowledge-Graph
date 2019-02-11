@@ -1,0 +1,430 @@
+{
+  "subject": "Latin ",
+  "course": [
+    {
+      "course number & title": "1. Elementary Latin  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, two hours. P/NP or letter grading."
+    },
+    {
+      "course number & title": "1G. Elementary Latin for Graduate Students",
+      "Number of units": "Units: 0",
+      "Course description": "Lecture, eight hours. Concurrently scheduled with course 14. No grading."
+    },
+    {
+      "course number & title": "2. Elementary Latin",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 1. P/NP or letter grading."
+    },
+    {
+      "course number & title": "3. Elementary Latin",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 2 or 14. P/NP or letter grading."
+    },
+    {
+      "course number & title": "14. Elementary Latin: Intensive",
+      "Number of units": "Units: 10",
+      "Course description": "Lecture, 10 hours. Declensions of nouns and adjectives, conjugations in indicative mood, and primary uses of subjunctive mood. Emphasis on development of ability to read easy selections of classical prose. P/NP or letter grading."
+    },
+    {
+      "course number & title": "16. Intensive First-Year Latin",
+      "Number of units": "Units: 12",
+      "Course description": "Lecture, 19 hours. Eight-week intensive introduction to Latin language equivalent to courses 1, 2, and 3. Offered in summer only. P/NP or letter grading."
+    },
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "20. Elementary Latin: Comprehensive Review",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour (when scheduled). Requisite: course 3 or 16. Formal review of Latin grammar and syntax and development of skills in reading original texts of Latin prose. Readings selected to introduce literature and culture of ancient Rome. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89. Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "100. Intermediate Latin: Introduction to Reading Latin",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 20 (may be taken concurrently). Introduction to developing skills of reading longer, continuous passages of original Latin prose and/or poetry texts, with attention to literary and cultural background. Course is requisite to advanced reading courses. May be repeated for credit twice with change of assigned readings and with consent of instructor. P/NP or letter grading."
+    },
+    {
+      "course number & title": "101. Plautus  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "102. Terence  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "103. Lucretius  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "104. Ovid  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "105A. Beginning Vergil: Selections from Aeneid I-VI  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Reading of one or more books from first half of \"Aeneid,\" designed especially for students with only limited experience in reading Latin poetry. May be repeated for credit with change in readings and consent of instructor. P/NP or letter grading."
+    },
+    {
+      "course number & title": "105B. Advanced Vergil  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 105A. Reading and discussion of Vergil's \"Eclogues,\" \"Georgics,\" and/or second half of \"Aeneid.\" May be repeated for credit with change in readings. P/NP or letter grading."
+    },
+    {
+      "course number & title": "106. Catullus  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "107. Horace",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "108. Roman Elegy  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Selections from Catullus, Tibullus, and Propertius. P/NP or letter grading."
+    },
+    {
+      "course number & title": "109. Roman Satire  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Readings from author(s) of Roman satire, including Horace, Persius, and Juvenal, or related satiric texts. May be repeated for credit with change in readings and consent of instructor. P/NP or letter grading."
+    },
+    {
+      "course number & title": "110. Study of Latin Prose",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Work in sight reading and grammatical analysis of classical prose texts; writing of classical prose. P/NP or letter grading."
+    },
+    {
+      "course number & title": "111. Livy  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "112. Tacitus  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "113. Cicero: Orations",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "114. Roman Epistolography: Cicero and Pliny  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "115. Caesar  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "116. Roman Novel",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Reading and discussion of either Petronius' \"Satyricon\" or Apuleius' \"Metamorphoses\" and development of genre of prose novel in antiquity. May be repeated for credit with change in author and text. P/NP or letter grading."
+    },
+    {
+      "course number & title": "117. Sallust  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "118. Seneca  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Selection of Seneca's works read in Latin. P/NP or letter grading."
+    },
+    {
+      "course number & title": "119A. Readings in Roman Prose",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Readings of selected Roman prose author(s). Topics may vary from year to year and may be organized in terms of chronology (Republican or imperial), literary genre (Roman biography, antiquarian learning, or science), and/or theme. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "119B. Readings in Roman Poetry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Readings of selected Roman poetry author(s). Topics may vary from year to year and may be organized in terms of chronology (Republican or imperial), epic, lyric, elegy, and/or theme. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "120. Vulgate",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 3. Reading of selected chapters of St. Jerome's translation of Bible, with emphasis on unclassical features of Latin. P/NP or letter grading."
+    },
+    {
+      "course number & title": "121. Patristic Texts  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Reading and discussion of one or more Latin patristic texts (especially works of Ambrose, Augustine, and/or Jerome), with emphasis on specific features of patristic, as opposed to classical, Latin. P/NP or letter grading."
+    },
+    {
+      "course number & title": "130. Introduction to Postclassical Latin",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Basic competence in classical Latin required. Readings in postclassical Latin. P/NP or letter grading."
+    },
+    {
+      "course number & title": "131. Postclassical Latin Prose",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Advanced readings of selected texts in postclassical Latin prose. P/NP or letter grading."
+    },
+    {
+      "course number & title": "133. Postclassical Latin Poetry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Advanced readings of selected texts in postclassical Latin poetry. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189. Advanced Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "197. Individual Studies in Latin",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, two hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "199. Directed Research in Latin",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "200A. History of Latin Literature  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Lectures on history of Latin literature, supplemented by reading of Latin texts in original language. May be taken independently for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "200B. History of Latin Literature  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Lectures on history of Latin literature, supplemented by reading of Latin texts in original language. May be taken independently for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "200C. History of Latin Literature  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Lectures on history of Latin literature, supplemented by reading of Latin texts in original language. May be taken independently for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "201. Roman Epic Tradition  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Close study of one epic poet other than Vergil (e.g., Ennius, Lucan, Valerius Flaccus, Statius, Silius Italicus), with attention to literary tradition of epic. May be repeated for credit with topic change. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "202. Seminar: Catullus  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Detailed consideration of entire Catullan corpus. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "203A. Elegiac Poetry  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "203B. Propertius  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 203A is not requisite to 203B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "204A. Vergil's Aeneid  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 204A is requisite to 204B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "204B. Vergil's Aeneid  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Requisite: course 204A. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "205A. Seminar: Vergil's Bucolics  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "205B. Seminar: Vergil's Georgics  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Course 205A is not requisite to 205B. Close reading of Vergil's text; careful evaluation of influential criticism on poem, much of it recent; examination of work's place within tradition of rural poetry. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "206. Horace  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "207. Roman Comedy  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Survey of history of Roman comedy. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "208. Ovid  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "209. Seminar: Roman Satire  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Detailed study of one individual satirist, with attention to his position in development of satirical genre in Roman literature. Choice of author varies from year to year. Close study of text, of characteristics of writer as social critic and artist, and of contemporary literary and social environment. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "210. Advanced Latin Prose Composition  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 110. S/U or letter grading."
+    },
+    {
+      "course number & title": "211A. Seminar: Roman Historians--Sallust",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Study of considerable portions of writings of Sallust. May be taken independently for credit. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "211B. Seminar: Roman Historians--Livy",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Study of considerable portions of writings of Livy. May be taken independently for credit. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "211C. Seminar: Romans Historians--Tacitus",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Study of considerable portions of writings of Tacitus. May be taken independently for credit. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "214. Ancient Biography: Roman Lives",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Study of biography in ancient Rome. Literary survey or focused readings on lives of Cornelius Nepos, Suetonius, Tacitus, or imperial chroniclers of 4th century CE. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "215. Seminar: Roman Novel  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Works such as Petronius' \"Satyricon\" and Apuleius' \"Metamorphoses:\" study of literary problems. May be repeated for credit with topic change. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "216. Roman Rhetoric  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Close study of one rhetorical text (e.g., \"Rhetorica ad Herennium,\" Cicero's \"de Oratore,\" Seneca's \"Controversiae\" or \"Suasoriae,\" Quintilian's \"Institutio\"), with attention to its place in rhetorical tradition. May be repeated for credit with topic change. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "220. Cicero's Orations  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "221A. Cicero's Philosophical Works  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "221B. Cicero: De Natura Deorum  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 221A is not requisite to 221B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "222. Seminar: Roman Stoicism",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "223. Lucretius  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "224. Seneca  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Detailed study of one work of prose or poetry by younger Seneca. May be repeated for credit with topic change. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "229. Sight Translation",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Preparation: graduate-level knowledge of Latin. Practice in translation of previously unseen texts from variety of authors and genres. Topics include peculiarities of style and vocabulary of distinct genres, literary versus scholarly translation, semantic properties of particular words and constructions. S/U grading."
+    },
+    {
+      "course number & title": "231A. Seminar: Medieval Latin",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Preparation: at least one upper-division Latin course. Course 231A is not requisite to 231B. Studies in various areas of language and literature of medieval Latin. May be repeated for credit with consent of instructor. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "231B. Seminar: Medieval Latin",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Preparation: at least one upper-division Latin course. Course 231A is not requisite to 231B. Studies in various areas of language and literature of medieval Latin. May be repeated for credit with consent of instructor. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "232. Vulgar Latin  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. History and characteristics of popular Latin; its development into early forms of Romance languages. S/U or letter grading."
+    },
+    {
+      "course number & title": "235. Late Latin Poetry  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Close study, with attention to literary and historical background, of work of one or several poets who flourished between death of Ovid and fall of Roman Empire. May be repeated for credit with change in author. S/U or letter grading."
+    },
+    {
+      "course number & title": "236. Late Latin Prose  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Close study, with attention to literary and historical background, of work of one or several prose authors who flourished between death of Tacitus and fall of Roman Empire. May be repeated for credit with change in author. S/U or letter grading."
+    },
+    {
+      "course number & title": "240. History of Latin Language",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Development of Latin from earliest monuments until its emergence in Romance languages. S/U or letter grading."
+    },
+    {
+      "course number & title": "242. Italic Dialects and Latin Historical Grammar  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Linguistic situation in early Italy. Readings in Oscan, Umbrian, and early Latin texts. Latin grammar in context of Italic and Indo-European linguistics. S/U or letter grading."
+    },
+    {
+      "course number & title": "243. Seminar: Latin Palaeography",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Studies in development of book hand in Latin manuscripts earlier than invention of printing. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "245. Neo-Latin",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Preparation: at least two upper-division Latin courses. Requisite: course 100. Survey of texts by one or more authors from Renaissance to present, written on related topics. S/U or letter grading."
+    },
+    {
+      "course number & title": "250. Topical Studies of Ancient Rome",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Advanced study of some aspect of Latin language or literature or Roman culture. May be repeated for credit with topic change. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "495. College Teaching of Latin",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, to be arranged. Preparation: appointment as teaching assistant. Methodology of instruction in conjunction with classroom practice. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "596. Directed Individual Study or Research  ",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. S/U grading."
+    },
+    {
+      "course number & title": "597. Study for MA Comprehensive Examination or PhD Qualifying Examinations",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. S/U grading."
+    },
+    {
+      "course number & title": "599. Research for PhD Dissertation",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. S/U grading."
+    }
+  ]
+}

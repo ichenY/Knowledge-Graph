@@ -1,0 +1,70 @@
+{
+  "subject": "Management-Master of Financial Engineering (MGMTMFE) ",
+  "course": [
+    {
+      "course number & title": "400. Investments",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237B.) Lecture, three hours. Limited to Master of Financial Engineering program students. Essentials of asset pricing and portfolio choice, standard discounted cash flow approaches, and no-arbitrage framework for valuing financial securities. Basic paradigms of asset pricing, such as capital asset pricing model (CAPM), arbitrage pricing theory (APT), and Fama-French Three-Factor model. Development and illustration of dynamic portfolio selection and optimization approaches. Letter grading."
+    },
+    {
+      "course number & title": "401. Financial Accounting",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237O.) Lecture, three hours. Limited to Master of Financial Engineering program students. Introduction to concepts of financial accounting and its underlying assumptions, including examination of uses and limitations of financial statements. Discussion of procedural aspects of accounting to enhance understanding of content of financial statements, with emphasis on using accounting information in evaluation of business performance and risk. Examination of use of accounting information in research studies. Letter grading."
+    },
+    {
+      "course number & title": "402. Econometrics",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237Q.) Lecture, six hours. Limited to Master of Financial Engineering program students. Theory and in-depth application of linear regression. Topics include simple linear regression, multiple regression, prediction in multiple regression model, residual diagnostics, detection of outliers, and violations of stochastic assumptions. Letter grading."
+    },
+    {
+      "course number & title": "403. Stochastic Calculus",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237C.) Lecture, three hours. Limited to Master of Financial Engineering program students. Economic, statistical, and mathematical foundations of derivatives markets. Basic discrete- and continuous-time paradigms used in derivatives finance, including introduction to stochastic processes, stochastic differential equations, Ito's lemma, and key elements of stochastic calculus. Economic foundations of Black/Scholes no-arbitrage paradigm, including introduction to Girsanov's theorem and changes of measure, representation of linear functionals, equivalent martingale measures, risk-neutral valuation, fundamental partial differential equation representations of derivatives prices, market prices of risk, and Feynman/Kac representations of solutions to derivatives prices. Role of market completeness and its implications for hedging and replication of derivatives. S/U or letter grading."
+    },
+    {
+      "course number & title": "404. Corporate Finance and Risk Management",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237A.) Lecture, three hours. Limited to Master of Financial Engineering program students. Examination of broad range of issues faced by corporate financial managers, including analysis of investment and financing decisions of firms, impact on firms of agency costs and asymmetric information, mergers and acquisitions, private equity, and risk management strategies and tools. S/U or letter grading."
+    },
+    {
+      "course number & title": "405. Computational Methods In Finance",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237G.) Lecture, three hours. Limited to Master of Financial Engineering program students. Quantitative and computational tools used in finance, including numerical techniques such as implementation of binomial and trinomial option pricing, lattice algorithms for computing derivative prices and hedge ratios, simulation-based algorithms for pricing American options, and numerical solution of partial differential equations that appear in financial engineering. S/U or letter grading."
+    },
+    {
+      "course number & title": "406. Derivative Markets",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237D.) Lecture, three hours. Limited to Master of Financial Engineering program students. Introduction to derivative markets and basic concepts, models, analyses. and technical tools of quantitative finance used in these markets. Derivatives are both exchange traded and over-counter securities. Derivative markets are world's largest and most liquid. Organization and role of put and call option markets, futures and forward markets, and their interrelations, with emphasis on arbitrage relations, valuation, and hedging with derivatives. Implementation of derivatives trading strategies, perspective of corporate securities as derivatives, functions of derivatives in securities markets, and recent innovations in derivative markets. S/U or letter grading."
+    },
+    {
+      "course number & title": "407. Empirical Methods in Finance",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237E.) Lecture, three hours. Limited to Master of Financial Engineering program students. Econometric and statistical techniques commonly used in quantitative finance. Use of estimation application software in exercises to estimate volatility, correlations, stability, regressions, and statistical inference using financial time series. S/U or letter grading."
+    },
+    {
+      "course number & title": "408. Fixed-Income Markets",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237F.) Lecture, three hours. Limited to Master of Financial Engineering program students. Quantitative approach to fixed-income securities and bond portfolio management, with focus on fixed-income security markets. Pricing of bonds and fixed-income derivatives, measurement and hedging of interest rate risk, dynamic models of interest rates, and management of fixed-income portfolio risk. S/U or letter grading."
+    },
+    {
+      "course number & title": "409. Financial Risk Measurement and Management",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237I.) Lecture, three hours. Limited to Master of Financial Engineering program students. Examination of financial risk measurement and management, including market risk, credit risk, liquidity risk, settlement risk, model risk, volatility risk, and kurtosis risk. S/U or letter grading."
+    },
+    {
+      "course number & title": "410. Applied Finance Project",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237N.) Fieldwork, four hours. Limited to Master of Financial Engineering program students. Applied quantitative finance project that explores one quantitative finance problem that might be met in practice and involves development or use of some tools developed in M.F.E. Program. S/U or letter grading."
+    },
+    {
+      "course number & title": "411. Fieldwork/Research in Financial Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Management 237L.) Fieldwork, to be arranged. Preparation: completion of one term of M.F.E. program. Limited to Master of Financial Engineering program students. Supervised, nonpaid, or paid practical research experience or fieldwork in organization as intern or fellow. Execution of predetermined assignment(s) pursuant to defined program of study that may include formal coursework. May not be applied toward M.F.E. degree requirements. S/U grading."
+    },
+    {
+      "course number & title": "431. Special Topics in Financial Engineering",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "(Formerly numbered Management 237M.) Lecture, three hours. Limited to Master of Financial Engineering program students. In-depth examination of problems or issues in one area of current concern in financial engineering. May be repeated for credit. S/U or letter grading."
+    }
+  ]
+}

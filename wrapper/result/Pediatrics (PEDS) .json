@@ -1,0 +1,40 @@
+{
+  "subject": "Pediatrics (PEDS) ",
+  "course": [
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "188SA. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SB. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SC. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 2",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "199. Directed Research in Pediatrics",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M215. Interdepartmental Course: Tropical Medicine  ",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Medicine M215 and Pathology M215.) Lecture, two and one half hours. Preparation: basic courses in microbiology and parasitology of infectious diseases in School of Medicine or Public Health. Study of current knowledge about diseases prevalent in tropical areas of world. Major emphasis on infectious diseases, with coverage of problems in nutrition and exotic noninfectious diseases. Syllabus supplements topics covered in classroom. S/U grading."
+    }
+  ]
+}

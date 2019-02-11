@@ -1,0 +1,155 @@
+{
+  "subject": "Biological Chemistry (BIOL CH) ",
+  "course": [
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "M140. Cancer Cell Biology",
+      "Number of units": "Units: 5",
+      "Course description": "(Same as Molecular, Cell, and Developmental Biology M140.) Lecture, three hours; discussion, one hour. Requisite: Molecular, Cell, and Developmental Biology 165A. Cancer causes and genetics. Effects of cell transformation on cell growth and metabolism. Altered cell cycle, metabolism, and differentiation pathways in cancer cells. Tumor microenvironment contributions to cancer malignancy, including angiogenesis, metastasis, and immune system evasion. Letter grading."
+    },
+    {
+      "course number & title": "194. Research Group Seminars: Biological Chemistry",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Designed for undergraduate students who are part of research group. Discussion of research methods and current literature in field or of research of faculty members or students. May be repeated for credit. P/NP grading."
+    },
+    {
+      "course number & title": "199. Directed Research or Senior Project in Biological Chemistry",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for maximum of 16 units. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "201A. Biological Chemistry  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, five hours. Preparation: organic chemistry. Open to nonmedical students with consent of instructor. Primarily for first-year medical students and runs throughout School of Medicine's second semester. General biochemistry with emphasis on mammalian systems. Structure, function, and metabolism of major cellular components. To receive credit, both courses must be taken together in same academic year. In Progress grading (credit to be given only on completion of course 201B)."
+    },
+    {
+      "course number & title": "201B. Biological Chemistry",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, five hours. Preparation: organic chemistry. Open to nonmedical students with consent of instructor. Primarily for first-year medical students and runs throughout School of Medicine's second semester. General biochemistry with emphasis on mammalian systems. Structure, function, and metabolism of major cellular components. To receive credit, both courses must be taken together in same academic year. S/U grading."
+    },
+    {
+      "course number & title": "204. Human Biological Chemistry and Nutrition Laboratory",
+      "Number of units": "Units: 3",
+      "Course description": "Laboratory, four hours. Open to nonmedical students with consent of instructor. Experiments illustrating techniques and procedures in medically related biochemistry and nutrition, analysis of experimental results. S/U or letter grading."
+    },
+    {
+      "course number & title": "205. Biological Chemistry and Nutrition Lecture: Dental Students",
+      "Number of units": "Units: 6",
+      "Course description": "Lecture, six hours; computer laboratory. Designed for dental students. Biochemical and genetic factors influencing normal and disease states: structure and metabolism of cellular constituents, intermediary metabolism and its regulation, endocrine and neurobiochemical mechanisms, connective tissue/mineralization. Includes computer laboratory and self-instruction on dietary assessment in dentistry. S/U or letter grading."
+    },
+    {
+      "course number & title": "220A. Research Laboratory Rotations  ",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Laboratory, two to eight hours. Students arrange apprenticeships in laboratories of one or more departmental faculty members and engage in research project under close faculty direction. Allows students to acquire in-depth laboratory experience in specific research areas and facilitates informed decision on their part in selection of thesis/research adviser. S/U grading."
+    },
+    {
+      "course number & title": "220B. Research Laboratory Rotations  ",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Laboratory, two to eight hours. Students arrange apprenticeships in laboratories of one or more departmental faculty members and engage in research project under close faculty direction. Allows students to acquire in-depth laboratory experience in specific research areas and facilitates informed decision on their part in selection of thesis/research adviser. S/U grading."
+    },
+    {
+      "course number & title": "220C. Research Laboratory Rotations  ",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Laboratory, two to eight hours. Students arrange apprenticeships in laboratories of one or more departmental faculty members and engage in research project under close faculty direction. Allows students to acquire in-depth laboratory experience in specific research areas and facilitates informed decision on their part in selection of thesis/research adviser. S/U grading."
+    },
+    {
+      "course number & title": "M229S. Seminar: Current Topics in Bioinformatics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Computer Science M229S and Human Genetics M229S.) Seminar, four hours; outside study, eight hours. Designed for graduate engineering students as well as students from biological sciences and medical school. Introduction to current topics in bioinformatics, genomics, and computational genetics and preparation for computational interdisciplinary research in genetics and genomics. Topics include genome analysis, regulatory genomics, association analysis, association study design, isolated and admixed populations, population substructure, human structural variation, model organisms, and genomic technologies. Computational techniques include those from statistics and computer science. May be repeated for credit with topic change. Letter grading."
+    },
+    {
+      "course number & title": "M234. Genetic Control of Development",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Molecular, Cell, and Developmental Biology M234.) Lecture, four hours. Topics at forefront of molecular developmental biology, including problems in oogenesis and early embryogenesis, pattern formation, axis determination, nervous system development, cellular morphogenesis, and cell-cell and cell-matrix interactions. S/U or letter grading."
+    },
+    {
+      "course number & title": "M237. Cellular and Molecular Basis of Disease",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Pathology M237.) Lecture, two hours; laboratory, two hours. Preparation: one course each in molecular biology, cell biology, and biological chemistry. Discussion of key issues in disease mechanisms, with emphasis on experiments leading to understanding of these mechanisms. Identification of important questions still remaining unanswered. Letter grading."
+    },
+    {
+      "course number & title": "248. Tumor Cell Biology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, one hour per month. Limited to students selected for one of following National Institutes of Health (NIH) training programs: tumor cell biology, tumor immunology, and training in immuno-targeted therapy for cancer. Formal presentation of research to other class members and faculty. Questions are asked during and after each presentation. Faculty provide each speaker with feedback on effectiveness of presentation. S/U grading."
+    },
+    {
+      "course number & title": "251A. Seminar: Transcriptional Regulation",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Advanced course on mechanics of gene transcription in both eukaryotes and prokaryotes intended for students actively working or highly interested in transcription. S/U grading."
+    },
+    {
+      "course number & title": "251B. Seminar: Transcriptional Regulation",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Advanced course on mechanics of gene transcription in both eukaryotes and prokaryotes intended for students actively working or highly interested in transcription. S/U grading."
+    },
+    {
+      "course number & title": "251C. Seminar: Transcriptional Regulation",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Advanced course on mechanics of gene transcription in both eukaryotes and prokaryotes intended for students actively working or highly interested in transcription. S/U grading."
+    },
+    {
+      "course number & title": "M255. Mitochondria in Medicine, Biology, and Chemistry",
+      "Number of units": "Units: 1",
+      "Course description": "(Same as Chemistry CM255.) Seminar, two hours every other week. Open to undergraduate and graduate science majors considering or currently conducting research in areas related to mitochondria. Large number of physiological and pathophysiological processes involve mitochondrial function and dysfunction. Focus on understanding how mitochondria metabolism, form, and function impact health and disease. Physiology and cell biology of healthy and dysfunctional mitochondria critically assessed at subcellular, cellular, tissue, and organismal levels. Topics include in-depth analyses of literature and critical evaluation of experimental design and methods of current research. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "M259. Mechanisms of Gene Regulation",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Chemistry CM259.) Lecture, four hours. Requisite: Chemistry 153B. RNA polymerase structures and mechanisms; promoter recognition and transcription cycle; mechanisms of activation; transcriptional poising and elongation control; Mediator of transcription; chromatin remodeling and modification; epigenetic regulation; cotranscriptional and transcription-coupled RNA processing; impact of transcription on mRNA processing and stability; nuclear export of mRNA. S/U or letter grading."
+    },
+    {
+      "course number & title": "266A. Seminar: Cell, Stem Cell, and Developmental Biology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Open to undergraduate students with consent of instructor. Advanced course in cell, stem cell, and developmental biology intended for graduate students working or rotating in laboratories of new cell and developmental biology home area. S/U grading."
+    },
+    {
+      "course number & title": "266B. Seminar: Cell, Stem Cell, and Developmental Biology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Open to undergraduate students with consent of instructor. Advanced course in cell, stem cell, and developmental biology intended for graduate students working or rotating in laboratories of new cell and developmental biology home area. S/U grading."
+    },
+    {
+      "course number & title": "266C. Seminar: Cell, Stem Cell, and Developmental Biology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Open to undergraduate students with consent of instructor. Advanced course in cell, stem cell, and developmental biology intended for graduate students working or rotating in laboratories of new cell and developmental biology home area. S/U grading."
+    },
+    {
+      "course number & title": "296. Research Seminar Series in Biological Chemistry",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to biological chemistry students. Research presentations from second- through fourth-year graduate students related to their research, Designed to be highly interactive, with time for questions from fellow graduate students, postdoctoral students, and faculty members during and after presentations. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "375. Teaching Apprentice Practicum",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "596. Directed Individual Study and Research  ",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. S/U or letter grading."
+    },
+    {
+      "course number & title": "597. Preparation for Examinations  ",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, to be arranged. Individual study for PhD qualifying examinations or MS comprehensive examination. S/U grading."
+    },
+    {
+      "course number & title": "598. Preparation of MS Thesis",
+      "Number of units": "Units: 4",
+      "Course description": "Tutorial, to be arranged. Preparation of research data and writing of M.S. thesis. S/U grading."
+    },
+    {
+      "course number & title": "599. Research for and Preparation of PhD Dissertation",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Preparation of research data and writing of PhD dissertation. S/U grading."
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "subject": "Greek ",
+  "course": [
+    {
+      "course number & title": "1. Elementary Greek  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, two hours. P/NP or letter grading."
+    },
+    {
+      "course number & title": "2. Elementary Greek",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 1. P/NP or letter grading."
+    },
+    {
+      "course number & title": "3. Elementary Greek  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, two hours. Enforced requisite: course 2. P/NP or letter grading."
+    },
+    {
+      "course number & title": "8A. Elementary Modern Greek",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Introduction to basic elements of modern Greek conversation for beginning students, including those with some knowledge of ancient (Attic) Greek. Conducted in modern Greek, with in-class conversation drills, regular homework assignments, and weekly quizzes. P/NP or letter grading."
+    },
+    {
+      "course number & title": "8B. Elementary Modern Greek",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 8A. Introductory modern Greek sequence, with emphasis on spoken modern Greek. P/NP or letter grading."
+    },
+    {
+      "course number & title": "8C. Elementary Modern Greek",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 8B. Introductory modern Greek sequence, with emphasis on spoken modern Greek. P/NP or letter grading."
+    },
+    {
+      "course number & title": "8G. Reading Scholarly Modern Greek",
+      "Number of units": "Units: 4",
+      "Course description": ""
+    },
+    {
+      "course number & title": "9A. Intermediate Modern Greek",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 8C. Course 9A is enforced requisite to 9B, which is enforced requisite to 9C. Intermediate-level program in modern Greek language study from communicative and task-based approach. Continued development of student understanding and use of Greek syntax and morphology through oral and written activities, reading, and listening. Students master basic communication skills, communicate in everyday real-life situations, comprehend simple passages, announcements, and advertisements, master basic rules of modern Greek grammar and syntax, read fluently, and write accurately. P/NP or letter grading."
+    },
+    {
+      "course number & title": "9B. Intermediate Modern Greek",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 9A. Intermediate-level program in modern Greek language study from communicative and task-based approach. Continued development of student understanding and use of Greek syntax and morphology through oral and written activities, reading, and listening. Students master basic communication skills, communicate in everyday real-life situations, comprehend simple passages, announcements, and advertisements, master basic rules of modern Greek grammar and syntax, read fluently, and write accurately. P/NP or letter grading."
+    },
+    {
+      "course number & title": "9C. Intermediate Modern Greek",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 9B. Intermediate-level program in modern Greek language study from communicative and task-based approach. Continued development of student understanding and use of Greek syntax and morphology through oral and written activities, reading, and listening. Students master basic communication skills, communicate in everyday real-life situations, comprehend simple passages, announcements, and advertisements, master basic rules of modern Greek grammar and syntax, read fluently, and write accurately. P/NP or letter grading."
+    },
+    {
+      "course number & title": "15. Elementary Modern Greek",
+      "Number of units": "Units: 12",
+      "Course description": "Lecture, 18 to 19 hours. Eight-week intensive introduction to principles of speaking, reading, and writing modern (demotic) Greek. Offered in summer only. P/NP or letter grading."
+    },
+    {
+      "course number & title": "16. Intensive First-Year Greek",
+      "Number of units": "Units: 12",
+      "Course description": "Lecture, 19 hours. Eight-week intensive introduction to Greek language equivalent to courses 1, 2, and 3. Offered in summer only. P/NP or letter grading."
+    },
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "20. Intermediate Greek",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour (when scheduled). Requisite: course 3 or 16. Formal review of Greek grammar and syntax and development of skills in reading original texts of Greek prose. Readings selected to introduce literature and culture of ancient Greece. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89. Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "100. Readings in Greek Prose and Poetry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 20. Introduction to developing skills of reading longer, continuous passes of original Greek prose and/or poetry texts, with attention to literary and cultural background. Course is normally requisite to other courses in Greek 100 series. May be repeated for credit with change of assigned readings and with consent of instructor. P/NP or letter grading."
+    },
+    {
+      "course number & title": "101A. Homer: Odyssey  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "101B. Homer: Iliad  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "102. Lyric Poets  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Selections from Archilochus to Bacchylides. P/NP or letter grading."
+    },
+    {
+      "course number & title": "103. Aeschylus  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "104. Sophocles  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "105. Euripides  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "106. Aristophanes  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "107. Hesiod  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Reading of \"Theogony\" and excerpts from \"Works and Days,\" with emphasis on Hesiod's place in Greek literature and his role in transmission of Greek mythology. P/NP or letter grading."
+    },
+    {
+      "course number & title": "110. Study of Greek Prose  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three to four hours. Requisite: course 100. Work in sight reading and grammatical analysis of Attic prose texts; writing Attic prose. P/NP or letter grading."
+    },
+    {
+      "course number & title": "111. Herodotus  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "112. Thucydides  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "113. Attic Orators  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "115. Xenophon",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Reading of one major work of Xenophon--Memorabilia, Cyropaedia, Anabasis, Hellenica, or Oeconomicus--in Greek. P/NP or letter grading."
+    },
+    {
+      "course number & title": "121. Plato  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "122. Plato: Republic  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "123. Aristotle: Poetics and Rhetoric  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "124. Aristotle: Ethics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. P/NP or letter grading."
+    },
+    {
+      "course number & title": "130. Readings in New Testament",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 3. P/NP or letter grading."
+    },
+    {
+      "course number & title": "131. Readings in Later Greek",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Topics vary from year to year and include \"Longinus,\" On Sublime; Marcus Aurelius; Arrian; Second Sophistic; Plutarch; later epic; epigram; epistolographi Graeci. P/NP or letter grading."
+    },
+    {
+      "course number & title": "132. Survey of Byzantine Literature  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Readings based on (1) \"Anthology of Byzantine Prose,\" ed. Nigel Wilson and (2) \"Oxford Book of Medieval and Modern Greek Verse,\" ed. C.A. Trypanis, or if unavailable, \"Poeti bizantini,\" ed. R. Cantarella. In addition, necessary historical and cultural background provided by readings and lectures. P/NP or letter grading."
+    },
+    {
+      "course number & title": "133. Readings in Byzantine Literature  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 132. Topics vary from year to year and include Procopius, Agathias, Michael Psellus, Alexiad of Anna Comnena, and Digenis Akritas. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189. Advanced Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "197. Individual Studies in Greek",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, two hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "199. Directed Research in Greek",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "200A. History of Greek Literature  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Lectures on history of Greek literature, supplemented by reading of Greek texts in original language. May be taken independently for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "200B. History of Greek Literature  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Lectures on history of Greek literature, supplemented by reading of Greek texts in original language. May be taken independently for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "200C. History of Greek Literature  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Lectures on history of Greek literature, supplemented by reading of Greek texts in original language. May be taken independently for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "201A. Homer: Iliad  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 201A is requisite to 201B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "201B. Homer: Iliad  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Requisite: course 201A. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "202A. Homer: Odyssey and Epic Cycle",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 202A is requisite to 202B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "202B. Homer: Odyssey and Epic Cycle",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Requisite: course 202A. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "203. Hesiod  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "204. Homeric Hymns  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "205. Aeschylus",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "206A. Sophocles  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 206A is requisite to 206B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "206B. Sophocles  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Requisite: course 206A. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "207A. Euripides  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 207A is requisite to 207B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "207B. Euripides  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Requisite: course 207A. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "208A. Aristophanes  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 208A is requisite to 208B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "208B. Aristophanes  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Requisite: course 208A. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "209A. Seminar: Hellenistic Poetry  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "209B. Seminar: Hellenistic Poetry  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "210. Advanced Greek Prose Composition  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 110. S/U or letter grading."
+    },
+    {
+      "course number & title": "211A. Herodotus  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 211A is requisite to 211B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "211B. Herodotus  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Requisite: course 211A. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "212A. Thucydides  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 212A is requisite to 212B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "212B. Thucydides  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Requisite: course 212A. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "213. Greek Historiography",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "214. Demosthenes  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "215. Early Greek Orators  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Studies in works of Antiphon, Andocides, and Lysias. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "216. Menander  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "217A. Greek Lyric Poetry: Archaic Lyric  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Study of lyric poetry of Archaic period, both choral and monodic, with elegiac and iambic included. May be taken independently for credit. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "217B. Greek Lyric Poetry: Pindar and Bacchylides  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Study of choral odes of Pindar and Bacchylides, with special attention to conventions of epinician. May be taken independently for credit. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "220. Greek Novel",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Study of Greek romance and its place in Greek literature. Two texts (Chariton: \"Chaereas and Callirhoe\" and Longus: \"Daphnis and Chloe\") studied in some detail. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "221. Pre-Socratic Philosophers",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "222A. Plato  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 222A is requisite to 222B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "222B. Plato  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Requisite: course 222A. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "223A. Aristotle  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Course 223A is requisite to 223B. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "223B. Aristotle  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Requisite: course 223A. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "224. Post-Aristotelian Philosophy",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "229. Sight Translation",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Preparation: graduate-level knowledge of ancient Greek. Practice in translation of previously unseen texts from variety of authors and genres. Topics include peculiarities of style and vocabulary of distinct genres, literary versus scholarly translation, semantic properties of particular words and constructions. S/U grading."
+    },
+    {
+      "course number & title": "240A. History of Greek Language",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, four hours. Course 240A is requisite to 240B. Linguistic history of classical Greek. S/U or letter grading."
+    },
+    {
+      "course number & title": "240B. History of Greek Language",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, four hours. Requisite: course 240A. Postclassical, medieval, and modern Greek. S/U or letter grading."
+    },
+    {
+      "course number & title": "241. Greek Epigraphy",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Survey of Greek historical inscriptions, chiefly Attic. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "242. Greek Dialects and Historical Grammar  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Linguistic situation in early Greece. Readings in classical Greek dialectal texts. Greek grammar in context of common Greek and Indo-European linguistics. S/U or letter grading."
+    },
+    {
+      "course number & title": "243. Mycenaean Greek  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Script, language, and grammar of Linear B inscriptions; their relevance to ancient Greek linguistic and cultural history. S/U or letter grading."
+    },
+    {
+      "course number & title": "244. Greek Papyrology",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Preparation: reading knowledge of Greek. Introduction to Greek papyri, considered both as historical documents and as carriers of literature. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "245. Greek Palaeography",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Seminar, three hours. Studies in development of book hand in Greek manuscripts earlier than invention of printing. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "250. Topical Studies of Ancient Greece",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Advanced study of some aspect of ancient Greek language, literature, and/or culture. May be repeated for credit with topic change. S/U (2-unit course) or letter (4-unit course) grading."
+    },
+    {
+      "course number & title": "596. Directed Individual Study or Research  ",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. S/U grading."
+    },
+    {
+      "course number & title": "597. Study for MA Comprehensive Examination or PhD Qualifying Examinations",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. S/U grading."
+    },
+    {
+      "course number & title": "599. Research for PhD Dissertation",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. S/U grading."
+    }
+  ]
+}

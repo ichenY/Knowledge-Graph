@@ -1,0 +1,1315 @@
+{
+  "subject": "Chemistry and Biochemistry (CHEM) ",
+  "course": [
+    {
+      "course number & title": "2. Introductory Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; discussion, two hours. Not open to students with credit for course 14A or 20A. Concept of submicroscopic world of chemistry, ranging from protons to proteins in subject matter. P/NP or letter grading."
+    },
+    {
+      "course number & title": "3. Material World",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Focus on most important advances made by humans in developing new molecules and materials, and how these discoveries affect our everyday life. These include development of paints, plastics, metals, fuels, drugs, energetic materials, radioactive substances, poisons, vaccines, and many more. Connections between interplay of science, history, arts, and socioeconomic factors driving technological development. Discussion emphasizes projected future of these emerging technologies. P/NP or letter grading."
+    },
+    {
+      "course number & title": "7. Nanoscience and Nanotechnology Laboratory",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, discussion, and laboratory, 32 hours. Limited to high school students. Key concepts of nanoscience and nanotechnology, including various approaches to nanofabrication (bottom-up and top-down). Fabrication of nanostructures and devices, collection of scientific data using those devices, analysis of data, and presentations of student results. Offered in summer only. P/NP grading."
+    },
+    {
+      "course number & title": "8. Applications of Nanoscience",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Seminar, discussion, laboratory, and field trip, 30 to 60 hours. Limited to high school students. Introduction of advanced concepts of nanoscience and nanotechnology, with emphasis on applications of nanoscience and nanotechnology in other research fields and industries. Laboratories introduce students to research methods, experiment development, scientific writing, and presentation skills. Students devise and execute their own exploratory nanoscience experiments, and present them to technical audience. Offered only as part of Summer Institute. P/NP grading."
+    },
+    {
+      "course number & title": "14A. General Chemistry for Life Scientists I",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Preparation: high school chemistry or equivalent background and three and one half years of high school mathematics. Enforced corequisite: Life Sciences 30A or Mathematics 3A or 31A or score of 48 or better on Mathematics Diagnostic Test. Not open to students with credit for course 20A. Introduction to physical and general chemistry principles; atomic structure based on quantum mechanics; atomic properties; trends in periodic table; chemical bonding (Lewis structures, VSEPR theory, hybridization, and molecular orbital theory); coordination compounds; properties of inorganic and organic acids, bases, buffers. P/NP or letter grading."
+    },
+    {
+      "course number & title": "14B. General Chemistry for Life Scientists II",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 14A or 20A with grade of C- or better. Enforced requisite or corequisite: Life Sciences 30B or Mathematics 3B or 31B with grade of C- or better. Not open to students with credit for course 20B or 30A. Chemical equilibria in gases and liquids, acid-based equilibrium; phase changes; thermochemistry; first, second, and third laws of thermodynamics; free energy changes; electrochemistry and its role as energy source; chemical kinetics, including catalysis, reaction mechanisms, and enzymes; use of molecular modeling software to illustrate molecular structures and their relative energies. P/NP or letter grading."
+    },
+    {
+      "course number & title": "14BL. General and Organic Chemistry Laboratory I",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, one hour; laboratory, three hours. Enforced requisite: course 14A with grade of C- or better. Enforced corequisite: course 14B. Not open to students with credit for course 20L. Introduction to volumetric, spectrophotometric, and potentiometric analysis. Use and preparation of buffers and pH meters. Synthesis and kinetics techniques using compounds of interest to students in life sciences. P/NP or letter grading."
+    },
+    {
+      "course number & title": "14C. Structure of Organic Molecules",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 14B with grade of C- or better. Not open to students with credit for course 30A. Continuing studies in structure of organic molecules, with emphasis on biological applications. Resonance, stereochemistry, conjugation, and aromaticity; spectroscopy (NMR, IR, and mass spectrometry); introduction to effects of structure on physical and chemical properties; survey of biomolecular structure. P/NP or letter grading."
+    },
+    {
+      "course number & title": "14CL. General and Organic Chemistry Laboratory II",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, one hour; laboratory, six hours. Enforced requisites: courses 14B and 14BL, with grades of C- or better. Enforced corequisite: course 14C. Synthesis and analysis of compounds; purification by extraction, chromatography, recrystallization, and sublimation; characterization by mass spectroscopy, UV, NMR, and IR spectroscopy, optical activity, electrochemistry, pH titration. P/NP or letter grading."
+    },
+    {
+      "course number & title": "14D. Organic Reactions and Pharmaceuticals",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 14C with grade of C- or better. Organic reactions, nucleophilic and electrophilic substitutions and additions; electrophilic aromatic substitutions, carbonyl reactions, catalysis, molecular basis of drug action, and organic chemistry of pharmaceuticals. P/NP or letter grading."
+    },
+    {
+      "course number & title": "17. Chemical Principles",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Introduction to chemical principles: numbers, measurements, chemical calculations, gas laws, solutions, acids, bases, and salts, molecular structure, and nomenclature. Collaborative learning and problem solving; introduction to chemistry laboratory practice. P/NP or letter grading."
+    },
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "20A. Chemical Structure",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Preparation: high school chemistry or equivalent background and three and one half years of high school mathematics. Recommended preparation: high school physics. Enforced corequisite: Mathematics 31A. First term of general chemistry. Survey of chemical processes, quantum chemistry, atomic and molecular structure and bonding, molecular spectroscopy. P/NP or letter grading."
+    },
+    {
+      "course number & title": "20AH. Chemical Structure (Honors)",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Preparation: high school chemistry or equivalent background, high school physics, and three and one half years of high school mathematics. Enforced corequisite: Mathematics 31A. Honors course parallel to course 20A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "20B. Chemical Energetics and Change",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisites: course 20A or 20AH, and Mathematics 31A, with grades of C- or better. Enforced corequisite: Mathematics 31B. Second term of general chemistry. Intermolecular forces and organization, phase behavior, chemical thermodynamics, solutions, equilibria, reaction rates and laws. P/NP or letter grading."
+    },
+    {
+      "course number & title": "20BH. Chemical Energetics and Change (Honors)",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisites: course 20A and Mathematics 31A with grades of B+ or better or 20AH with grade of B or better. Enforced corequisite: Mathematics 31B. Honors course parallel to course 20B. Letter grading."
+    },
+    {
+      "course number & title": "20L. General Chemistry Laboratory  ",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, one hour; laboratory, three hours. Enforced requisite: course 20A with grade of C- or better. Enforced corequisite: course 20B. Use of balance, volumetric techniques, volumetric and potentiometric analysis; Beer's law, applications for environmental analysis and materials science. P/NP or letter grading."
+    },
+    {
+      "course number & title": "30A. Organic Chemistry I: Structure and Reactivity",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 20B with grade of C- or better. First term of organic chemistry for Chemistry, Biochemistry, and engineering majors. Covalent bonding, shapes, stereochemistry, and acid/base properties of organic molecules. Properties, synthesis, and reactions of alkanes, cycloalkanes, alkenes, and alkynes. SN2, SN1, elimination, and radical reactions. P/NP or letter grading."
+    },
+    {
+      "course number & title": "30AH. Organic Chemistry I: Structure and Reactivity (Honors)",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 20B or 20BH, with grade of B+ or better. Honors course parallel to course 30A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "30AL. General Chemistry Laboratory II",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, one hour; laboratory, six hours. Enforced requisites: courses 20B (or 20BH), 20L, and 30A (or 30AH), with grades of C- or better. Qualitative and quantitative analysis of chemical reactions and compounds, kinetics, separations, and spectroscopy. P/NP or letter grading."
+    },
+    {
+      "course number & title": "30B. Organic Chemistry II: Reactivity, Synthesis, and Spectroscopy",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 30A or 30AH, with grade of C- or better. Second term of organic chemistry for Chemistry, Biochemistry, and engineering majors. Properties, synthesis, and reactions of alcohols, ethers, sulfur compounds, aldehydes, ketones, carboxylic acids, and carboxylic acid derivatives. Organometallic compounds. Organic spectroscopy, including mass spectrometry, infrared spectroscopy, and proton and carbon nuclear magnetic resonance spectroscopy. P/NP or letter grading."
+    },
+    {
+      "course number & title": "30BL. Organic Chemistry Laboratory I",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, one hour; laboratory, four hours. Requisites: courses 30A (or 30AH), 30AL and 30B, with grades of C- or better. Basic experimental techniques in organic synthesis (performing reactions, monitoring reactions, and conducting purifications) and spectroscopy (IR, NMR, mass spectrometry). Synthesis of known organic molecules on microscale level with focus on societal applications. P/NP or letter grading."
+    },
+    {
+      "course number & title": "30C. Organic Chemistry III: Reactivity, Synthesis, and Biomolecules",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisite: course 30B with grade of C- or better. Third term of organic chemistry for Chemistry, Biochemistry, and engineering majors. Chemistry of enolates, enamines, dicarbonyl compounds, and amines. Molecular orbital theory and conjugated pi systems; UV/vis spectroscopy. Aromaticity and reactions of aromatic molecules. Heterocycles, pericyclic reactions, carbohydrates, and lipids. P/NP or letter grading."
+    },
+    {
+      "course number & title": "30CL. Organic Chemistry Laboratory II",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, six hours. Enforced requisites: courses 30B and 30BL, with grades of C- or better. Enforced corequisite: course 30C. Modern techniques in synthetic organic and analytical organic chemistry. Semi-preparative scale, multistep synthesis of organic and organometallic molecules, including asymmetric catalysts. One- and two-dimensional multinuclear NMR techniques. Written reports and proposals. P/NP or letter grading."
+    },
+    {
+      "course number & title": "88A. Lower-Division Seminar: Serendipity in Science",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Limited to 20 freshmen. Inquiry into unexpected discoveries in science that have had significant impact on society and analysis of circumstances that brought these about, beginning with discovery of helium in sun by Janssen in 1868 (using newly developed field of spectroscopy). Discovery of X rays by R\u00f6ntgen in 1895 and of radioactivity by Becquerel in 1896. Other topics include discoveries important to medicine, such as penicillin by Fleming in 1928 and cis-platin by Rosenberg in 1969. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89. Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "96. Special Courses in Chemistry  ",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Tutorial, to be arranged. May be repeated for maximum of 8 units. P/NP or letter grading."
+    },
+    {
+      "course number & title": "98T. Clean Energy from Ground Up",
+      "Number of units": "Units: 5",
+      "Course description": "Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. Freshmen/sophomores preferred. What is state of renewable energy today? Study of state-of-art clean and renewable energy research, and what it takes for basic research to have meaningful global impact. Letter grading."
+    },
+    {
+      "course number & title": "98XA. PEERS Collaborative Learning Workshops for Life Sciences Majors",
+      "Number of units": "Units: 1",
+      "Course description": "Laboratory, three hours. Corequisite: associated undergraduate lecture course in chemistry and biochemistry for life sciences majors. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated four times, but only 1 unit may be applied toward graduation. P/NP grading."
+    },
+    {
+      "course number & title": "98XB. PEERS Collaborative Learning Workshops for Physical Sciences and Engineering Majors",
+      "Number of units": "Units: 1",
+      "Course description": "Laboratory, three hours. Corequisite: associated undergraduate lecture course in chemistry and biochemistry for physical sciences and engineering majors. Limited to Program for Excellence in Education and Research in Science (PEERS) students. Development of intuition and problem-solving skills in collaborative learning environment. May be repeated four times, but only 1 unit may be applied toward graduation. P/NP grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "C100. Genomics and Computational Biology",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, four hours; discussion, one hour. Introduction for biochemistry students of technologies and experimental data of genomics, as well as computational tools for analyzing them. Biochemistry and molecular biology dissected life into its component parts, one gene at time, but lacked integrative mechanisms for putting this information back together to predict what happens in complete organism (e.g., over 80 percent of drug candidates fail in clinical trials). High-throughput technologies such as sequencing, microarrays, mass-spec, and robotics have given biologists incredible new capabilities to analyze complete genomes, expression patterns, functions, and interactions across whole organisms, populations, and species. Use and analysis of such datasets becomes essential daily activity for biomedical scientists. Core principles and methodologies for analyzing genomics data to answer biological and medical questions, with focus on concepts that guide data analysis rather than algorithm details. Concurrently scheduled with course C200. P/NP or letter grading."
+    },
+    {
+      "course number & title": "103. Environmental Chemistry  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisites: courses 30B, 30BL, 110A, 153A (or 153AH), 153L. Chemical aspects of air and water pollution, solid waste disposal, energy resources, and pesticide effects. Chemical reactions in environment and effect of chemical processes on environment. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C105. Introduction to Chemistry of Biology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: course 153A with grade of C- or better. Introduction to chemical biology. Topics include computational chemical biology, utility of synthesis in biochemical research, peptidomimetics, designed reagents for cellular imaging, natural product biosynthesis, protein engineering and directed evolution, cell biology of metal ions, imaging metal ions in cells, metal-containing drugs. Concurrently scheduled with course CM205A. Letter grading."
+    },
+    {
+      "course number & title": "C107. Organometallic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture/discussion, three hours. Enforced requisite or corequisite: course 172. Survey of synthesis, structure, and reactivity (emphasizing mechanistic approach) of compounds containing carbon bonded to elements selected from main group metals, metalloids, and transition metals, including olefin complexes and metal carbonyls; applications in catalysis and organic synthesis. Concurrently scheduled with course C207. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C108. Mass Spectrometry for Chemists and Biochemists",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; laboratory, four hours. Requisite: course 153A. Introduction to principles and practice of organic and inorganic mass spectrometry. Topics include EI, CI, ICPMS, GC/MS, LC/MS, ESI, MALDI, MS/MS protein identification, and proteomics. Concurrently scheduled with course C208. P/NP or letter grading."
+    },
+    {
+      "course number & title": "110A. Physical Chemistry: Chemical Thermodynamics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisites: course 20B, Mathematics 32A or 3C (for life sciences majors), Physics 1A, 1B, and 1C (may be taken concurrently), or 1AH, 1BH, and 1CH (may be taken concurrently), or 5A, 5B, and 5C (may be taken concurrently), or 6A, 6B, and 6C (may be taken concurrently). Fundamentals of thermodynamics, chemical and phase equilibria, thermodynamics of solutions, electrochemistry. P/NP or letter grading."
+    },
+    {
+      "course number & title": "110B. Physical Chemistry: Introduction to Statistical Mechanics and Kinetics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisites: courses 110A, 113A, Mathematics 32B. Kinetic theory of gases, principles of statistical mechanics, statistical thermodynamics, equilibrium structure and free energy, relaxation and transport phenomena, macroscopic chemical kinetics, molecular-level reaction dynamics. P/NP or letter grading."
+    },
+    {
+      "course number & title": "113A. Physical Chemistry: Introduction to Quantum Mechanics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisites: course 20B, Mathematics 32A, 32B, 33B, Physics 1A, 1B, and 1C, or 1AH, 1BH, and 1CH, or 5A, 5B, and 5C, or 6A, 6B, and 6C, with grades of C- or better. Departure from classical mechanics: Schr\u00f6dinger versus Newton equations; model systems: particle-in-box, harmonic oscillator, rigid rotor, and hydrogen atom; approximation methods: perturbation and variational methods; many-electron atoms, spin, and Pauli principle, chemical bonding. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C113B. Physical Chemistry: Introduction to Molecular Spectroscopy  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 113A. Interaction of radiation with matter, microwave spectroscopy, infrared and Raman spectroscopy, vibrations in polyatomic molecules, electronic spectroscopy, magnetic resonance spectroscopy. Concurrently scheduled with course C213B. P/NP or letter grading."
+    },
+    {
+      "course number & title": "114. Physical Chemistry Laboratory  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30AL, 110A, and 113A, with grades of C- or better. Enforced corequisite: course 110B or C113B. Lectures include techniques of physical measurement, error analysis and statistics, special topics. Laboratory includes spectroscopy, thermodynamic measurements, and chemical dynamics. P/NP or letter grading."
+    },
+    {
+      "course number & title": "114H. Physical Chemistry Laboratory (Honors)  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30AL, 110A, and 113A, with grades of B or better. Enforced corequisite: course 110B or C113B. Lectures include techniques of physical measurement, error analysis and statistics, special topics. Laboratory includes topics in physical chemistry to be selected in consultation with instructor. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C115A. Quantum Chemistry  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisites: course 113A, Mathematics 31A, 31B, 32A, 32B, 33A, with grades of C- or better. Recommended: knowledge of differential equations equivalent to Mathematics 134 or 135 or Physics 131 and of analytic mechanics equivalent to Physics 105A. Course C115A or Physics 115B with grade of C- or better is requisite to C115B. Students entering course C115A are normally expected to take course C115B in following term. Designed for chemistry students with serious interest in quantum chemistry. Postulates and systematic development of nonrelativistic quantum mechanics; expansion theorems; wells; oscillators; angular momentum; hydrogen atom; matrix techniques; approximation methods; time dependent problems; atoms; spectroscopy; magnetic resonance; chemical bonding. May be concurrently scheduled with course C215A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C115B. Quantum Chemistry  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisites: course 113A, C115A or Physics 115B, Mathematics 31A, 31B, 32A, 32B, 33A, with grades of C- or better. Recommended: knowledge of differential equations equivalent to Mathematics 134 or 135 or Physics 131 and of analytic mechanics equivalent to Physics 105A. Students entering course C115A are normally expected to take course C115B in following term. Designed for chemistry students with serious interest in quantum chemistry. Postulates and systematic development of nonrelativistic quantum mechanics; expansion theorems; wells; oscillators; angular momentum; hydrogen atom; matrix techniques; approximation methods; time dependent problems; atoms; spectroscopy; magnetic resonance; chemical bonding. May be concurrently scheduled with course C215B. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C115C. Advanced Quantum Chemistry: Applications",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 113A, C115B. Topics in quantum chemistry selected from molecular structure, collision processes, theory of solids, symmetry and its applications, and theory of electromagnetic radiation. Concurrently scheduled with course C215C. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M117. Structure, Patterns, and Polyhedra",
+      "Number of units": "Units: 5",
+      "Course description": "(Same as Honors Collegium M180.) Lecture, four hours; laboratory, two hours. Exploration of structures and their geometric underpinnings, with examples and applications from architecture (space frames, domes), biology (enzyme complexes, viruses), chemistry (symmetry, molecular cages), design (tiling), engineering (space filling), and physics (crystal structures) to effect working knowledge of symmetry, two-dimensional patterns, and three-dimensional solids. P/NP or letter grading."
+    },
+    {
+      "course number & title": "118. Colloidal Dynamics Laboratory",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, eight hours. Requisites: courses 110A and 110B, with grades of B or better, or equivalent statistical mechanics courses from engineering, mathematics, or physics. One aspect of dispersions of microscale particles in viscous liquids is that such dispersions can be used as visual model systems for studying phases that chemistry undergraduate students typically learn about for nanoscale and molecular systems, yet they do not see. Temperature continuously excites molecules and causes rearrangements, giving dynamic views of macromolecules and particles in many fields, including cell and molecular biology, chemical engineering, chemistry, materials science, and physics. Letter grading."
+    },
+    {
+      "course number & title": "M120. Biophysics Laboratory",
+      "Number of units": "Units: 4",
+      "Course description": ""
+    },
+    {
+      "course number & title": "121. Special Topics in Physical Chemistry  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Requisite: course 110B. Recommended: course 113A. Topics of considerable research interest presented at level suitable for students who have completed junior-year courses in physical chemistry. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C122. Mathematical Methods for Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Enforced requisites: Mathematics 31A, 31B, 32A, 32B. Review of basic mathematics necessary to study physical chemistry at graduate level, with focus on review of vectors, linear algebra, elementary complex analysis, and solution of ordinary and partial differential equations. Development of problem-solving skills through homework based on these mathematical techniques, with examples from physical chemistry. Concurrently scheduled with course C222. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C123A. Classical and Statistical Thermodynamics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisite: course 110B or 156. Recommended: course 113A. Rigorous presentation of fundamentals of classical thermodynamics. Principles of statistical thermodynamics: probability, ensembles, partition functions, independent molecules, and perfect gas. Applications of classical and statistical thermodynamics selected from diatomic and polyatomic gases, solid and fluid states, phase equilibria, electric and magnetic effects, ortho-para hydrogen, chemical equilibria, reaction rates, imperfect gas, nonelectrolyte and electrolyte solutions, surface phenomena, high polymers, gravitation. May be concurrently scheduled with course C223A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C123B. Classical and Statistical Thermodynamics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisite: course 110B or 156. Recommended: course 113A. Rigorous presentation of fundamentals of classical thermodynamics. Principles of statistical thermodynamics: probability, ensembles, partition functions, independent molecules, and perfect gas. Applications of classical and statistical thermodynamics selected from diatomic and polyatomic gases, solid and fluid states, phase equilibria, electric and magnetic effects, ortho-para hydrogen, chemical equilibria, reaction rates, imperfect gas, nonelectrolyte and electrolyte solutions, surface phenomena, high polymers, gravitation. May be concurrently scheduled with course C223B. P/NP or letter grading."
+    },
+    {
+      "course number & title": "125. Computers in Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; computer laboratory, one hour. Requisites: courses 110A and 113A, with grades of C- or better. Discussion of data acquisition and instrument control, scientific programming and data analysis, structural databases and molecular modeling methods. Hands-on computer laboratory experience with wide range of open source and commercial scientific software. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C126A. Computational Methods for Chemists",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; laboratory, four hours. Preparation: programming experience in either BASIC, Fortran, C, C++, Java, or Pascal. Requisites: courses 110A, 113A, Mathematics 33A. Theoretical, numerical, and programming tools for constructing new chemical applications, including simple force fields and resulting statistical mechanics for simple molecules, simple ab-initio methods for organic molecules and nanotubes, and classical dynamics and spectroscopy. Concurrently scheduled with course C226A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "CM127. Synthetic Biology for Biofuels",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Chemical Engineering CM127.) Lecture, four hours; discussion, one hour. Requisite: course 153A. Engineering microorganisms for complex phenotype is common goal of metabolic engineering and synthetic biology. Production of advanced biofuels involves designing and constructing novel metabolic networks in cells. Such efforts require profound understanding of biochemistry, protein structure, and biological regulations and are aided by tools in bioinformatics, systems biology, and molecular biology. Fundamentals of metabolic biochemistry, protein structure and function, and bioinformatics. Use of systems modeling for metabolic networks to design microorganisms for energy applications. Concurrently scheduled with course CM227. Letter grading."
+    },
+    {
+      "course number & title": "136. Organic Structural Methods  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; laboratory, eight hours. Requisites: courses 30C and 30CL, with grades of C- or better. Laboratory course in organic structure determination by chemical and spectroscopic methods; microtechniques. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C140. Bionanotechnology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 30C, 110A. Basic physical, chemical, and biological principles in bionanotechnology; materials and strategies for top-down and bottom-up fabrication of ordered biologically derived molecules, characterization and detection techniques, and biomimetic materials and applications at nanoscale. Concurrently scheduled with course C240. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C143A. Structure and Mechanism in Organic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 30C and 30CL (may be taken concurrently), 110B, and 113A, with grades of C- or better. Mechanisms of organic reactions. Acidity and acid catalysis; linear free energy relationships; isotope effects. Molecular orbital theory; photochemistry; pericyclic reactions. May be concurrently scheduled with course C243A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C143B. Mechanism and Structure in Organic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: course C143A with grade of C- or better. Mechanisms of organic reactions; structure and detection of reactive intermediates. May be concurrently scheduled with course C243B. P/NP or letter grading."
+    },
+    {
+      "course number & title": "144. Practical and Theoretical Introductory Organic Synthesis  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30C and 30CL, with grades of C- or better. Lectures on modern synthetic reactions and processes, with emphasis on stereospecific methods for carbon-carbon bond formation. Laboratory methods of synthetic organic chemistry, including reaction techniques, synthesis of natural products, and molecules of theoretical interest. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C145. Theoretical and Computational Organic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; discussion, one hour; computer laboratory, one hour. Requisites: courses 30C, 113A. Applications of quantum mechanical concepts and methods to understand and predict organic structures and reactivities. Computational modeling methods, including laboratory experience with force-field and quantum mechanical computer calculations. Concurrently scheduled with course C245. P/NP or letter grading."
+    },
+    {
+      "course number & title": "147. Careers in Chemistry and Biochemistry",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Exploration of employment and career opportunities available to students. Different speakers give short presentations to describe their career paths in areas such as industry, government, research and development, education, law, and healthcare, explain how their education in chemistry and biochemistry helped them become successful, and what actual chemistry was used in their particular professions. Students learn and understand real-life applications of chemical concepts found in their coursework. P/NP grading."
+    },
+    {
+      "course number & title": "C150. Research Methods and Integrity in Cellular and Molecular Biology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; discussion, two hours. Data analysis and management, statistical methods, use of antibody and kit reagents, figure preparation, authorship, mentoring, human subjects protection, animal subject protection, and conflict of interest. May be repeated for credit. Concurrently scheduled with course C250. Letter grading."
+    },
+    {
+      "course number & title": "153A. Biochemistry: Introduction to Structure, Enzymes, and Metabolism",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisite: course 14D or 30B, with grade of C- or better. Recommended: Life Sciences 2, 3, and 23L, or 7A. Structure of proteins, carbohydrates, and lipids; enzyme catalysis and principles of metabolism, including glycolysis, citric acid cycle, and oxidative phosphorylation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "153AH. Biochemistry: Introduction to Structure, Enzymes, and Metabolism (Honors)",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 14D or 30B, with grade of C- or better. Recommended: Life Sciences 2, 3, 23L. Honors course parallel to course 153A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "153B. Biochemistry: DNA, RNA, and Protein Synthesis",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 153A or 153AH. Recommended: Life Sciences 2, 3, and 23L, or 7A and 7B. Nucleotide metabolism; DNA replication; DNA repair; transcription machinery; regulation of transcription; RNA structure and processing; protein synthesis and processing. P/NP or letter grading."
+    },
+    {
+      "course number & title": "153BH. Biochemistry: DNA, RNA, and Protein Sythesis (Honors)",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Enforced requisites: course 153A or 153AH, Life Sciences 2, 3, 23L. Honors course parallel to course 153B. P/NP or letter grading."
+    },
+    {
+      "course number & title": "153C. Biochemistry: Biosynthetic and Energy Metabolism and Its Regulation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 153A or 153AH. Metabolism of carbohydrates, fatty acids, amino acids, and lipids; photosynthetic metabolism and assimilation of inorganic nutrients; regulation of these processes. P/NP or letter grading."
+    },
+    {
+      "course number & title": "153CH. Biochemistry: Biosynthetic and Energy Metabolism and Its Regulation (Honors)",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours. Requisite: course 153A or 153AH. Honors course parallel to course 153C. P/NP or letter grading."
+    },
+    {
+      "course number & title": "153D. Introduction to Protein Structural Biology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: course 153A, Life Sciences 3 or 7A. Proteins are diverse set of macromolecules that perform critical functions within cells, ranging from enzymes that catalyze metabolic reactions to proteins that enable pathogens to cause disease. Introduction to field of protein structural biology, that seeks to understand molecular basis of protein function through visualizing atomic structures and by investigating how alterations in protein structure affects function. Students gain fundamental understanding of protein structure and its relationship to function and learn how experimental and computational methods are used to determine three-dimensional structures of proteins. Hands-on training in computer graphics programs and online tools used to visualize and analyze protein structures. Letter grading."
+    },
+    {
+      "course number & title": "153L. Biochemical Methods I",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, four hours. Requisites: courses 14BL or 20L and 30AL, and 153A or 153AH (may be taken concurrently), with grades of C- or better. Integrated term-long project involving biofuel production in bacteria. Purification of key enzyme for alcohol production from bacteria via affinity chromatography. Assessment of protein amount, purity, and activity of enzyme. Techniques include protein determination by Bradford assay, polyacrylamide gel electrophoresis, immunoblotting, and enzyme activity assays to determine enzyme activity (Km, Vmax, inhibitor studies). P/NP or letter grading."
+    },
+    {
+      "course number & title": "154. Biochemical Methods II",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 153A or 153AH, 153B or 153BH, and 153L, with grades of C- or better. Recommended: course 156. Two to three major laboratory projects using biochemical laboratory techniques to investigate contemporary problems in biochemistry. Topics include transcription activation, molecular basis of DNA-protein interactions, biochemical basis of platelet activation, and initiation of blood clotting cascade. Experiments entail characterizing function of proteins, nucleic acids, and lipids involved in these processes. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C155. Mitochondria in Medicine, Biology, and Chemistry",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, two hours every other week. Open to undergraduate and graduate science majors considering or currently conducting research in areas related to mitochondria. Large number of physiological and pathophysiological processes involve mitochondrial function and dysfunction. Focus on understanding how mitochondria metabolism, form, and function impact health and disease. Physiology and cell biology of healthy and dysfunctional mitochondria critically assessed at subcellular, cellular, tissue, and organismal levels. Topics include in-depth analyses of literature and critical evaluation of experimental design and methods of current research. May be repeated for credit. Concurrently scheduled with course CM255. P/NP grading."
+    },
+    {
+      "course number & title": "156. Physical Biochemistry  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisites: courses 110A, 153A. Biochemical kinetics; solution thermodynamics of biochemical systems; multiple equilibria; hydrodynamics; energy levels, spectroscopy, and bonding; topics from structural, statistical, and electrochemical methods of biochemistry. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C159. Mechanisms of Gene Regulation",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered C159A.) Lecture, four hours. Requisite: course 153B. RNA polymerase structures and mechanisms; promoter recognition and transcription cycle; mechanisms of activation; transcriptional poising and elongation control; Mediator of transcription; chromatin remodeling and modification; epigenetic regulation; cotranscriptional and transcription-coupled RNA processing; impact of transcription on mRNA processing and stability; nuclear export of mRNA. Concurrently scheduled with course CM259. P/NP or letter grading."
+    },
+    {
+      "course number & title": "CM160A. Introduction to Bioinformatics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Computer Science CM121.) Lecture, four hours; discussion, two hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, and one course from Biostatistics 100A, Civil Engineering 110, Electrical Engineering 131A, Mathematics 170A, or Statistics 100A. Prior knowledge of biology not required. Designed for engineering students as well as students from biological sciences and medical school. Introduction to bioinformatics and methodologies, with emphasis on concepts and inventing new computational and statistical techniques to analyze biological data. Focus on sequence analysis and alignment algorithms. Concurrently scheduled with course CM260A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "CM160B. Algorithms in Bioinformatics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Computer Science CM122.) Lecture, four hours; discussion, two hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, and one course from Biostatistics 100A, Civil Engineering 110, Electrical Engineering 131A, Mathematics 170A, or Statistics 100A. Course CM160A is not requisite to CM160B. Designed for engineering students as well as students from biological sciences and medical school. Development and application of computational approaches to biological questions, with focus on formulating interdisciplinary problems as computational problems and then solving these problems using algorithmic techniques. Computational techniques include those from statistics and computer science. Concurrently scheduled with course CM260B. Letter grading."
+    },
+    {
+      "course number & title": "C161A. Plant Biochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours. Requisites: courses 153C and 153L. Introduction to distinctive features of plant biochemistry. Topics include photosynthesis, nitrogen metabolism, plant cell wall metabolism, and secondary metabolism in relation to stress. Concurrently scheduled with course C261A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C163. Membrane Protein Structure and Function",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Enforced requisite: course 156. Detailed examination of how various membrane proteins work. Topics include lipid bilayer properties and how they affect membrane protein function and biology; membrane protein biogenesis; principles of transport across membranes; how channels, transporters, and receptors work at atomic level. Emphasis on reading and analyzing original research papers. Concurrently scheduled with course C263. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C164. Free Radicals in Biology and Medicine",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, three hours. Enforced requisites: courses 153A and either 153B or 153C, with grades of C- or better. Biochemcial reactivity of dioxygen, its role in mitochondrial metabolism, neurodegenerative diseases, apoptosis, and aging. Discussion of radical reactions, how they are harnessed to achieve enzyme catalysis, and how free radicals contribute to or regulate essential biological processes. These same reactions \"run amok\" under certain types of stress and can contribute to wide variety of diseases, including neurodegenerative diseases (e.g., Huntington's, Parkinson's, and Alzheimer's diseases), mitochondrial diseases, atherosclerosis, and aging. Concurrently scheduled with course C264. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C165. Metabolic Control by Protein Modification",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 153A, 153B, 153C. Biochemical basis of controlling metabolic pathways by posttranslational modification of proteins, including phosphorylation and methylation reactions. Concurrently scheduled with course C265. Letter grading."
+    },
+    {
+      "course number & title": "166. RNA Structure, Recognition, and Function",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 153A, 153B, Life Sciences 3 and 23L, or 7A. Recent years have seen explosion in biochemical characterization of diverse structures and functions of RNA molecules in metabolism of living systems. RNA has been shown to act both as catalyst in living systems and as potent modulator of gene expression control at every level of gene expression pathways (transcription, RNA processing, translation, degradation). RNA molecules now being used as therapeutic agents in gene therapy approaches. Coverage of these various aspects and in-depth analysis of RNA structure and function, using primary research literature and analysis of molecular structures of RNA and RNA-protein complexes. Letter grading."
+    },
+    {
+      "course number & title": "CM170. Biochemistry and Molecular Biology of Photosynthetic Apparatus",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "(Same as Molecular, Cell, and Developmental Biology M170.) Lecture, two to three hours; discussion, zero to two hours. Requisites: courses 153A and 153B, or Life Sciences 3 and 23L, and course 153L. Recommended: courses 153C, 154, Life Sciences 4. Light harvesting, photochemistry, electron transfer, carbon fixation, carbohydrate metabolism, pigment synthesis in chloroplasts and bacteria. Assembly of photosynthetic membranes and regulation of genes encoding those components. Emphasis on understanding of experimental approaches. Concurrently scheduled with course C270. P/NP or letter grading."
+    },
+    {
+      "course number & title": "171. Intermediate Inorganic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: course 30B with grade of C- or better. Chemical bonding; structure and bonding in solid state; main group, transition metal, lanthanide and actinide compounds and reactions; catalysis, spectroscopy, special topics. P/NP or letter grading."
+    },
+    {
+      "course number & title": "172. Advanced Inorganic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: course 171 with grade of C- or better. Systematic approach to modern inorganic chemistry, structure and bonding of inorganic molecules and solids, structure/reactivity relationships, vibrational spectra of complexes, electronic structure and ligand-field theory, mechanisms of inorganic reactions, bonding and spectroscopy of organometallic compounds, transition metals in catalysis and biology. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C173. Electrochemical Systems",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours. Requisites: course 110A, Mathematics 33B. Introduction to principles of electrochemical systems commonly applied in research of inorganic chemistry, materials sciences, and nanotechnology. With examples in recent literature and discussions of experimental practice, focus on qualitative and quantitative evaluation of information obtained from electrochemical characterization methods. Understanding of course contents helps appreciate research and technologies in catalysis, energy storage and conversion, and advanced environmental technologies. Concurrently scheduled with course C273. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C174. Inorganic and Metalorganic Laboratory Methods",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30CL and 171, with grades of C- or better. Synthesis of inorganic compounds, including air-sensitive materials; Schlenck techniques; chromatographic and ion exchange methods; spectroscopic characterization and literature applications. Concurrently scheduled with course C274. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C175. Inorganic Reaction Mechanisms",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 110A, 110B, 113A, and 172, with grades of C- or better. Survey of inorganic reactions; mechanistic principles; electronic structure of metal ions; transition-metal coordination chemistry; inner- and outer-sphere and chelate complexes; substitution, isomerization, and racemization reactions; stereochemistry; oxidation/reduction, free/radical, polymerization, and photochemical reactions of inorganic species. May be concurrently scheduled with course C275. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C176. Group Theory and Applications to Inorganic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 113A and 172, with grades of C- or better. Group theoretical methods; molecular orbital theory; ligand-field theory; electronic spectroscopy; vibrational spectroscopy. May be concurrently scheduled with course C276A. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C179. Biological Inorganic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 153A (or 153AH), 171. Role of metal ions in biology. Topics include interactions of metal ions with proteins, nucleic acids, and other biological molecules; mechanisms of metal ion transport and storage; introduction to metalloenzyme; metalloproteins in electron transfer, respiration, and photosynthesis; metals in medicine. Concurrently scheduled with course C279. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C180. Solid-State Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 172 with grade of C- or better. Survey of new materials and methods for their preparation and characterization, with emphasis on band theory and its relationship to chemical, optical, transport, and magnetic properties, leading to deeper understanding of these materials. Concurrently scheduled with course C280. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C181. Polymer Chemistry  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 30B, 110A. Synthesis of organic and inorganic macromolecules, thermodynamic and statistical mechanical descriptions of unique properties of polymers, polymer characterization methods, and special topics such as conductive and biomedical polymers and polymeric reagents in synthesis. Concurrently scheduled with course C281. P/NP or letter grading."
+    },
+    {
+      "course number & title": "184. Chemical Instrumentation  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30CL and 110A, with grades of C- or better. Theory and practice of instrumental techniques of chemical and structural analysis, including atomic absorption spectroscopy, gas chromatography, mass spectrometry, nuclear magnetic resonance, polarography, X-ray fluorescence, and other modern methods. P/NP or letter grading."
+    },
+    {
+      "course number & title": "185. Materials Chemistry Laboratory",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; laboratory, eight hours. Requisites: courses 30AL, 110A, 113A, 171. Materials synthesis and physical properties of complex materials. Combines synthetic skills with fundamental physical understanding and characterization in approximately equal proportions to relate materials synthesis to materials function. Letter grading."
+    },
+    {
+      "course number & title": "M186. Stochastic Processes in Biochemical Systems",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Computational and Systems Biology M175.) Lecture, three hours. Requisites: Life Sciences 1, 2, 3, and 4, or 7A, 7B, and 7C, 30B or Mathematics 33B, Electrical and Computer Engineering 131A or Mathematics 170A or Statistics 100A. Covers random and stochastic processes in play in biochemical systems, including ion channels, cytoskeleton, cell migration and mitosis, gene expression networks, and signal transduction. Covers mathematical tools such as continuous and discrete Markov processes, first passage, time escape problems, statistical mechanics, and information theory. Letter grading."
+    },
+    {
+      "course number & title": "188SA. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SB. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SC. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 2",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "189. Advanced Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "192A. Undergraduate Practicum in Chemistry and Biochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, one hour; laboratory, four hours; workshop, two hours. Enforced requisites: courses 14BL and 14CL, or 20L and 30AL, or Science Education 100SL. Intended for students who are planning careers in secondary science chemistry teaching. Complements service learning California Teach science courses that involve teaching field experiences in middle school and high school classrooms. Examination of chemistry issues such as chemical storage and use, waste management, laboratory organization, safety, and techniques. P/NP or letter grading."
+    },
+    {
+      "course number & title": "192B. Undergraduate Practicum in Chemistry and Biochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, one hour; laboratory, four hours; workshop, two hours. Enforced requisites: courses 14BL and 14CL, or 20L and 30AL, or Science Education 100SL. Intended for students who are planning careers in secondary science chemistry teaching. Complements service learning California Teach science courses that involve teaching field experiences in middle school and high school classrooms. Examination of chemistry issues such as chemical storage and use, waste management, laboratory organization, safety, and techniques. P/NP or letter grading."
+    },
+    {
+      "course number & title": "192C. Undergraduate Assistant Education Practicum in Chemistry and Biochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, one hour; assigned setting, six hours. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students to assist in chemistry and biochemistry lectures. Students assist in preparation of materials and development of innovative programs under guidance of faculty members and teaching assistants. May not be applied toward course requirements for any departmental major. May be repeated for credit with consent of instructor. Individual contract required. Information and contracts may be obtained from department. P/NP grading."
+    },
+    {
+      "course number & title": "192D. Undergraduate Assistant Education Practicum in Chemistry and Biochemistry",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, one hour; assigned setting, five hours. Limited to juniors/seniors. Training and supervised practicum for advanced undergraduate students to assist in chemistry and biochemistry lectures. Students assist in preparation of materials and development of innovative programs under guidance of faculty members and teaching assistants. May not be applied toward course requirements for any departmental major. May be repeated for credit with consent of instructor. Individual contract required. Information and contracts may be obtained from department. P/NP grading."
+    },
+    {
+      "course number & title": "193A. Journal Club Seminars: UC LEADS and MARC",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Designed for juniors/seniors in undergraduate research training programs such as UC LEADS and MARC or those who have strong commitment to pursue graduate studies in natural sciences, engineering, or mathematics. Weekly reading and oral presentations of research or research papers selected from current literature. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "193B. Journal Club Seminars: Chemistry and Biochemistry",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Limited to undergraduate students. Discussion of readings selected from current literature in particular field. May be repeated for credit. P/NP grading."
+    },
+    {
+      "course number & title": "194. Research Group Seminars: Chemistry and Biochemistry",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Designed for undergraduate students who are part of research group. Advanced study and analysis of current topics in physical, organic, or inorganic chemistry or biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. P/NP grading."
+    },
+    {
+      "course number & title": "196A. Research Apprenticeship in Chemistry and Biochemistry",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, three hours per week per unit. Limited to juniors/seniors. Entry-level research apprenticeship for upper-division students under guidance of faculty mentor. Consult department for additional information regarding requirements, enrollment petitions, and written proposal deadlines. May be repeated for maximum of 8 units. Individual contract required. P/NP grading."
+    },
+    {
+      "course number & title": "196B. Research Apprenticeship in Chemistry and Biochemistry",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, three hours per week per unit. Enforced requisite: course 196A (8 units). Limited to juniors/seniors. Research apprenticeship for upper-division students under guidance of faculty mentor. Consult department for additional information regarding requirements, enrollment petitions, and written proposal deadlines. May be taken for maximum of 4 units. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "199. Directed Research in Chemistry and Biochemistry",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, three hours per week per unit. Enforced requisite: course 196A (8 units). Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating report required. May be repeated for maximum of 12 units. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C200. Genomics and Computational Biology",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, four hours; discussion, one hour. Introduction for biochemistry students of technologies and experimental data of genomics, as well as computational tools for analyzing them. Biochemistry and molecular biology dissected life into its component parts, one gene at time, but lacked integrative mechanisms for putting this information back together to predict what happens in complete organism (e.g., over 80 percent of drug candidates fail in clinical trials). High-throughput technologies such as sequencing, microarrays, mass-spec, and robotics have given biologists incredible new capabilities to analyze complete genomes, expression patterns, functions, and interactions across whole organisms, populations, and species. Use and analysis of such datasets becomes essential daily activity for biomedical scientists. Core principles and methodologies for analyzing genomics data to answer biological and medical questions, with focus on concepts that guide data analysis rather than algorithm details. Concurrently scheduled with course C100. S/U or letter grading."
+    },
+    {
+      "course number & title": "201. Scientific Proposal Writing",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, three hours. Designed for graduate biochemistry and molecular biology students. How to write scientific proposals to be submitted to funding agencies. How to develop curricula vitae, put together grant proposals, and critique proposals. Letter grading."
+    },
+    {
+      "course number & title": "203B. Ethics in Chemical Research",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, one hour. Discussion of ethics in graduate education, teaching, and chemical research, including issues such as conflicts of interest, plagiarism, intellectual property, sexual harassment, and other topics related to ethical conduct of research. S/U grading."
+    },
+    {
+      "course number & title": "203C. Research Integrity and Ethics in Genetics Research",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, 90 minutes. Data analysis and management, statistical methods, use of commercial reagents, microscopy data analysis, figure preparation, authorship, mentoring, human subjects protection, animal subject protection, and conflict of interest. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "203D. Advanced Topics in Responsible Conduct in Cellular and Molecular Biology Research",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Enforced requisite: course 203A or 203B or 203C. Cellular and molecular biology PhD students continue to learn how to conduct research in field to reliably advance knowledge while maintaining ethical principles. Designed to be taken in fourth or fifth year of PhD work where students would have already been exposed to many challenges of performing and reporting experiments and who are in stage of their careers where they are beginning to think of applying for postdoctoral fellowships and research and teaching positions. Course helps fulfill training requirement in research integrity for NIH training grants and individual NRSA awards. S/U grading."
+    },
+    {
+      "course number & title": "204. Student Research Seminar",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, one hour. Limited to students supported by UCLA program in Cellular and Molecular Biology Predoctoral Training. Research seminar presented by second- and third-year students. S/U grading."
+    },
+    {
+      "course number & title": "CM205A. Introduction to Chemistry of Biology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Pharmacology M205A.) Lecture, three hours; discussion, one hour. Introduction to chemical biology. Topics include computational chemical biology, utility of synthesis in biochemical research, peptidomimetics, designed reagents for cellular imaging, natural product biosynthesis, protein engineering and directed evolution, cell biology of metal ions, imaging metal ions in cells, metal-containing drugs. Concurrently scheduled with course C105. Letter grading."
+    },
+    {
+      "course number & title": "M205B. Issues on Chemistry/Biology Interface",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Pharmacology M205B.) Seminar, one hour. Requisite: course CM205A. Selected talks and papers presented by training faculty on solving problems and utilizing tools in chemistry and molecular biology on chemistry/biology interface (CBI). S/U grading."
+    },
+    {
+      "course number & title": "206. Chemistry of Biology Seminar",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Limited to students supported by UCLA program in Chemistry/Biology Interface Predoctoral Training. Current research topics at interface of chemistry and biology. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "C207. Organometallic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 207.) Lecture/discussion, three hours. Requisite or corequisite: course 172. Survey of synthesis, structure, and reactivity (emphasizing mechanistic approach) of compounds containing carbon bonded to elements selected from main group metals, metalloids, and transition metals, including olefin complexes and metal carbonyls; applications in catalysis and organic synthesis. Concurrently scheduled with course C107. S/U or letter grading."
+    },
+    {
+      "course number & title": "C208. Mass Spectrometry for Chemists and Biochemists",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; laboratory, four hours. Requisite: course 153A. Introduction to principles and practice of organic and inorganic mass spectrometry. Topics include EI, CI, ICPMS, GC/MS, LC/MS, ESI, MALDI, MS/MS protein identification, and proteomics. Concurrently scheduled with course C108. S/U or letter grading."
+    },
+    {
+      "course number & title": "209. Introduction to Chemistry Research",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Half-hour presentations each session by three different chemistry professors to introduce their research programs. S/U grading."
+    },
+    {
+      "course number & title": "210. Advanced Topics in Chemical Research",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, one hour. Designed for second-year graduate students to help them engage contemporary challenges in chemical research and their own research projects. Building of critical thinking skills and proposal writing skills. S/U grading."
+    },
+    {
+      "course number & title": "C213B. Physical Chemistry: Molecular Spectroscopy",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; tutorial, one hour. Requisite: course 113A. Interaction of radiation with matter, microwave spectroscopy, infrared and Raman spectroscopy, vibrations in polyatomic molecules, electronic spectroscopy, magnetic resonance spectroscopy. Concurrently scheduled with course C113B. Independent study project required of graduate students. S/U or letter grading."
+    },
+    {
+      "course number & title": "C215A. Quantum Chemistry: Methods",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisites: course 113A, Mathematics 31A, 31B, 32A, 32B, 33A, with grades of C- or better. Recommended: knowledge of differential equations equivalent to Mathematics 134 or 135 or Physics 131 and of analytic mechanics equivalent to Physics 105A. Course C215A or Physics 115B with grade of C- or better is requisite to C215B. Students entering course C215A are normally expected to take course C215B in following term. Designed for chemistry students with serious interest in quantum chemistry. Postulates and systematic development of nonrelativistic quantum mechanics; expansion theorems; wells; oscillators; angular momentum; hydrogen atom; matrix techniques; approximation methods; time dependent problems; atoms; spectroscopy; magnetic resonance; chemical bonding. May be concurrently scheduled with course C115A. S/U or letter grading."
+    },
+    {
+      "course number & title": "C215B. Quantum Chemistry: Methods",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisites: course 113A, C215A or Physics 115B, Mathematics 31A, 31B, 32A, 32B, 33A, with grades of C- or better. Recommended: knowledge of differential equations equivalent to Mathematics 134 or 135 or Physics 131 and of analytic mechanics equivalent to Physics 105A. Students entering course C215A are normally expected to take course C215B in following term. Designed for chemistry students with serious interest in quantum chemistry. Postulates and systematic development of nonrelativistic quantum mechanics; expansion theorems; wells; oscillators; angular momentum; hydrogen atom; matrix techniques; approximation methods; time dependent problems; atoms; spectroscopy; magnetic resonance; chemical bonding. May be concurrently scheduled with course C115B. S/U or letter grading."
+    },
+    {
+      "course number & title": "C215C. Advanced Quantum Chemistry: Applications  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: course C215B. Topics in quantum chemistry selected from molecular structure, collision processes, theory of solids, symmetry and its applications, and theory of electromagnetic radiation. Concurrently scheduled with course C115C. S/U or letter grading."
+    },
+    {
+      "course number & title": "215D. Molecular Spectra, Diffraction, and Structure",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: course C215B, Physics 131. Selected topics from electronic spectra of atoms and molecules; vibrational, rotational, and Raman spectra; magnetic resonance spectra; X-ray, neutron, and electron diffraction; coherence effects. S/U or letter grading."
+    },
+    {
+      "course number & title": "218. Chemistry Student Exit Seminar",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Seminars presented by staff, outside speakers, postdoctoral fellows, and graduate students. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "219A. Seminars: Research in Physical Chemistry--Photon Resolved Spectroscopy of Materials (Physical Chemistry)",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Limited to chemistry graduate students. Discussion of recent progress in area of photon resolved spectroscopies, with focus on materials and biophysics applications. Literature discussion, discussion of recent results, safety procedures, and guest lectures. S/U grading."
+    },
+    {
+      "course number & title": "219E. Seminar: Research in Physical Chemistry--Dynamics of Molecule-Molecule and Molecule-Surface Reactions",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219I. Seminar: Research in Physical Chemistry--Spectroscopy of Isolated Molecules, Complexes, and Clusters",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219J. Seminar: Research in Physical Chemistry--Chemistry and Biophysics of Interfaces",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219K. Seminar: Research in Physical Chemistry--Statistical Mechanics of Disordered Systems",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219L. Seminar: Research in Physical Chemistry--Modern Methods for Molecular Reactions and Structure",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219Q. Seminar: Research in Physical Chemistry--Ultrafast Studies of Chemical Reaction Dynamics in Condensed Phase",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219R. Seminar: Research in Physical Chemistry--Kinetic, Thermodynamic, and Interfacial Effects in Materials",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219S. Seminar: Research in Physical Chemistry--Nanoscience",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219T. Seminar: Research in Physical Chemistry--Single-Molecule Spectroscopy in Biology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219U. Seminar: Research in Physical Chemistry--Theory and Applications of Magnetic Resonance Spectroscopy and Imaging",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219V. Seminar: Research in Physical Chemistry--Complex Fluids: Composition, Structure, and Rheology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219W. Seminar: Research in Physical Chemistry--Biophysics and Statistical Mechanics of Soft Matter",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219X. Seminar: Research in Physical Chemistry--Dynamic Processes in Chemically Reacting Flow Systems",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219Y. Seminar: Research in Physical Chemistry--Theory and Computation for Materials",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "219Z. Seminar: Research in Physical Chemistry--Single-Cell Physiology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in physical chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "221A. Advanced Topics in Physical Chemistry  ",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. Each course encompasses one recognized specialty in physical chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading."
+    },
+    {
+      "course number & title": "221B. Advanced Topics in Physical Chemistry  ",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. Each course encompasses one recognized specialty in physical chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading."
+    },
+    {
+      "course number & title": "221C. Advanced Topics in Physical Chemistry  ",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. Each course encompasses one recognized specialty in physical chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading."
+    },
+    {
+      "course number & title": "221D. Advanced Topics in Physical Chemistry  ",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. Each course encompasses one recognized specialty in physical chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading."
+    },
+    {
+      "course number & title": "221G. Advanced Topics in Physical Chemistry  ",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. Each course encompasses one recognized specialty in physical chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading."
+    },
+    {
+      "course number & title": "C222. Mathematical Methods for Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Enforced requisites: Mathematics 31A, 31B, 32A, 32B. Review of basic mathematics necessary to study physical chemistry at graduate level, with focus on review of vectors, linear algebra, elementary complex analysis, and solution of ordinary and partial differential equations. Development of problem-solving skills through homework based on these mathematical techniques, with examples from physical chemistry. Concurrently scheduled with course C122. S/U or letter grading."
+    },
+    {
+      "course number & title": "C223A. Classical and Statistical Thermodynamics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisite: course 110B or 156. Recommended: course 113A. Presentation of fundamentals of classical thermodynamics. Principles of statistical thermodynamics: probability, ensembles, partition functions, independent molecules, and perfect gas. Applications of classical and statistical thermodynamics selected from diatomic and polyatomic gases, solid and fluid states, phase equilibria, electric and magnetic effects, ortho-para hydrogen, chemical equilibria, reaction rates, imperfect gas, nonelectrolyte and electrolyte solutions, surface phenomena, high polymers, gravitation. May be concurrently scheduled with course C123A. S/U or letter grading."
+    },
+    {
+      "course number & title": "C223B. Classical and Statistical Thermodynamics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour. Requisite: course 110B or 156. Recommended: course 113A. Presentation of fundamentals of classical thermodynamics. Principles of statistical thermodynamics: probability, ensembles, partition functions, independent molecules, and perfect gas. Applications of classical and statistical thermodynamics selected from diatomic and polyatomic gases, solid and fluid states, phase equilibria, electric and magnetic effects, ortho-para hydrogen, chemical equilibria, reaction rates, imperfect gas, nonelectrolyte and electrolyte solutions, surface phenomena, high polymers, gravitation. May be concurrently scheduled with course C123B. S/U or letter grading."
+    },
+    {
+      "course number & title": "M223C. Nonequilibrium Statistical Mechanics and Molecular Biophysics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Physics M215D.) Lecture, three hours. Requisites: courses C215B and C223B, or Physics 215A. Fundamentals of nonequilibrium thermodynamics and statistical mechanics applied to molecular biophysics. S/U or letter grading."
+    },
+    {
+      "course number & title": "225. Chemical Kinetics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses C215B, C223B. Classical experimental and theoretical approaches to study of rates and mechanisms of chemical reactions. Modern experimental techniques and molecular-level theory of reaction dynamics. Examples of well-studied elementary reactions. S/U or letter grading."
+    },
+    {
+      "course number & title": "C226A. Computational Methods for Chemists",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; laboratory, four hours. Preparation: programming experience in either BASIC, Fortran, C, C++, Java, or Pascal. Requisites: courses 110A, 113A, Mathematics 33A. Theoretical, numerical, and programming tools for constructing new chemical applications, including simple force fields and resulting statistical mechanics for simple molecules, simple ab-initio methods for organic molecules and nanotubes, and classical dynamics and spectroscopy. Concurrently scheduled with course C126A. S/U or letter grading."
+    },
+    {
+      "course number & title": "CM227. Synthetic Biology for Biofuels",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Chemical Engineering CM227.) Lecture, four hours; discussion, one hour. Requisite: course 153A. Engineering microorganisms for complex phenotype is common goal of metabolic engineering and synthetic biology. Production of advanced biofuels involves designing and constructing novel metabolic networks in cells. Such efforts require profound understanding of biochemistry, protein structure, and biological regulations and are aided by tools in bioinformatics, systems biology, and molecular biology. Fundamentals of metabolic biochemistry, protein structure and function, and bioinformatics. Use of systems modeling for metabolic networks to design microorganisms for energy applications. Concurrently scheduled with course CM127. S/U or letter grading."
+    },
+    {
+      "course number & title": "228. Chemical Physics Seminar  ",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Seminars presented by staff, outside speakers, postdoctoral fellows, and graduate students. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "229. Introduction to Physical Chemistry Research  ",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, 90 minutes. Designed primarily for entering graduate physical chemistry students. S/U grading."
+    },
+    {
+      "course number & title": "M230B. Structural Molecular Biology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Molecular, Cell, and Developmental Biology M230B.) Lecture, three hours; discussion, one hour. Requisites: Mathematics 3C, Physics 6C. Selected topics from principles of biological structure; structures of globular proteins and RNAs; structures of fibrous proteins, nucleic acids, and polysaccharides; harmonic analysis and Fourier transforms; principles of electron, neutron, and X-ray diffraction; optical and computer filtering; three-dimensional reconstruction. S/U or letter grading."
+    },
+    {
+      "course number & title": "M230D. Structural Molecular Biology Laboratory  ",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Molecular, Cell, and Developmental Biology M230D.) Laboratory, 10 hours. Corequisite: course M230B. Methods in structural molecular biology, including experiments utilizing single crystal X-ray diffraction, low angle X-ray diffraction, electron diffraction, optical diffraction, optical filtering, three-dimensional reconstruction from electron micrographs, and model building. S/U or letter grading."
+    },
+    {
+      "course number & title": "235E. Seminar: Research in Organic Chemistry--Theoretical and Physical Organic Chemistry",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "235F. Seminar: Research in Organic Chemistry--Synthetic Methods and Synthesis of Natural Products",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "235G. Seminar: Research in Organic Chemistry--Organometallic Chemistry and Organic Synthesis",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "235I. Seminar: Research in Organic Chemistry--Fullerene Chemistry and Materials Science",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "235K. Seminar: Research in Organic Chemistry--Organic Chemistry in Organized and Restricted Media",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "235N. Seminar: Research in Organic Chemistry--Target- and Diversity-Oriented Synthesis of Natural Products and Product-Like Molecules",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "235O. Seminar: Research in Organic Chemistry--Polymer Chemistry and Biomaterials",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "235P. Seminar: Research in Organic Chemistry--Reaction Discovery and total Synthesis of Complex Molecules",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "235Q. Seminar: Research in Organic Chemistry--Synthetic Organic Chemistry Research",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "235R. Seminar: Research in Organic Chemistry--Fluorous Materials, Synthetic Chemistry, and Supermolecular Assembly",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar/research group meeting, three hours. Advanced study and analysis of current topics in organic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "236. Spectroscopic Methods of Organic Chemistry  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite or corequisite: course C243A. Problem solving using proton and carbon 13 nuclear magnetic resonance, infrared spectroscopy, and mass spectrometry; new techniques in NMR, IR, and MS, with emphasis on Fourier transform NMR. S/U or letter grading."
+    },
+    {
+      "course number & title": "C240. Bionanotechnology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 30C, 110A. Basic physical, chemical, and biological principles in bionanotechnology; materials and strategies for top-down and bottom-up fabrication of ordered biologically derived molecules, characterization and detection techniques, and biomimetic materials and applications at nanoscale. Concurrently scheduled with course C140. S/U or letter grading."
+    },
+    {
+      "course number & title": "241A. Special Topics in Organic Chemistry  ",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. Requisite or corequisite: course C243A. Each course encompasses one recognized specialty in organic chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading."
+    },
+    {
+      "course number & title": "241B. Special Topics in Organic Chemistry  ",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. Requisite or corequisite: course C243A. Each course encompasses one recognized specialty in organic chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading."
+    },
+    {
+      "course number & title": "241D. Special Topics in Organic Chemistry",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. Requisite or corequisite: course C243A. Each course encompasses one recognized specialty in organic chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading."
+    },
+    {
+      "course number & title": "241F. Special Topics in Organic Chemistry",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. Requisite or corequisite: course C243A. Each course encompasses one recognized specialty in organic chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading."
+    },
+    {
+      "course number & title": "C243A. Structure and Mechanism in Organic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 30C and 30CL (may be taken concurrently), 110B, and 113A, with grades of C- or better. Mechanisms of organic reactions. Acidity and acid catalysis; linear free energy relationships; isotope effects. Molecular orbital theory; photochemistry; pericyclic reactions. May be concurrently scheduled with course C143A. S/U or letter grading."
+    },
+    {
+      "course number & title": "C243B. Organic Chemistry: Mechanism and Structure",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: course C243A. Mechanisms of organic reactions; structure and detection of reactive intermediates. May be concurrently scheduled with course C143B. S/U or letter grading."
+    },
+    {
+      "course number & title": "244A. Organic Synthesis: Methodology and Stereochemistry  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Modern synthetic reactions and transformations involving organic substrates. Special emphasis on regents useful in asymmetric induction and stereoselective synthesis of structurally complex target molecules. S/U or letter grading."
+    },
+    {
+      "course number & title": "244B. Strategy and Design in Organic Synthesis  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite or corequisite: course C243A. Theory behind planning of syntheses of complex molecules from simpler ones. Organic reactions and their use in synthetic process. Reasoning and art involved in organic synthesis. S/U or letter grading."
+    },
+    {
+      "course number & title": "C245. Theoretical and Computational Organic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; discussion, one hour; computer laboratory, one hour. Requisites: courses 30C, 113A. Applications of quantum mechanical concepts and methods to understand and predict organic structures and reactivities. Computational modeling methods, including laboratory experience with force-field and quantum mechanical computer calculations. Concurrently scheduled with course C145. S/U or letter grading."
+    },
+    {
+      "course number & title": "247. Organic Colloquium",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Seminars in organic chemistry and related areas presented by staff, outside speakers, postdoctoral fellows, and graduate students. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "248. Organic Chemistry Student Seminar",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Seminars presented by staff, outside speakers, postdoctoral fellows, and graduate students. Strongly recommended for first- and second-year organic chemistry graduate students. Presentation required if taken for letter grade. S/U or letter grading."
+    },
+    {
+      "course number & title": "249A. Methods of Materials Chemistry: Synthesis, Characterization, Physical Properties, Applications, and Devices",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Designed for first-year graduate students to teach advanced problem-solving skills and critical thinking, with focus on problems and recent literature pertaining to materials chemistry. How materials are synthesized and characterized. Discussion of important physical properties, as well as broad range of applications and behavior in devices. S/U grading."
+    },
+    {
+      "course number & title": "249B. Methods of Chemical Synthesis:cvdganic/Inorganic/Organometallic",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Designed for first-year graduate students to teach advanced problem-solving skills and critical thinking, with focus on problems and recent literature pertaining to chemical synthesis of organic, inorganic, and organometallic compounds. S/U grading."
+    },
+    {
+      "course number & title": "249C. Methods of Physical/Theoretical/Biophysical Chemistry",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Designed for first-year graduate students to teach advanced problem-solving skills and critical thinking, with focus on problems and recent literature pertaining to physical, theoretical, and biophysical chemistry. S/U grading."
+    },
+    {
+      "course number & title": "C250. Research Methods and Integrity in Cellular and Molecular Biology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; discussion, two hours. Data analysis and management, statistical methods, use of antibody and kit reagents, figure preparation, authorship, mentoring, human subjects protection, animal subject protection, and conflict of interest. May be repeated for credit. Concurrently scheduled with course C150. Letter grading."
+    },
+    {
+      "course number & title": "CM255. Mitochondria in Medicine, Biology, and Chemistry",
+      "Number of units": "Units: 1",
+      "Course description": "(Same as Biological Chemistry M255.) Seminar, two hours every other week. Open to undergraduate and graduate science majors considering or currently conducting research in areas related to mitochondria. Large number of physiological and pathophysiological processes involve mitochondrial function and dysfunction. Focus on understanding how mitochondria metabolism, form, and function impact health and disease. Physiology and cell biology of healthy and dysfunctional mitochondria critically assessed at subcellular, cellular, tissue, and organismal levels. Topics include in-depth analyses of literature and critical evaluation of experimental design and methods of current research. May be repeated for credit. Concurrently scheduled with course C155. S/U grading."
+    },
+    {
+      "course number & title": "256B. Seminar: Research in Biochemistry--Biochemistry of Protein Function",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256D. Seminar: Research in Biochemistry--Transcriptional Control Mechanisms in Drosophila Embryogenesis",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256F. Seminar: Research in Biochemistry--Current Topics in Prokaryotic Development",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256G. Seminar: Research in Biochemistry--Nucleic Acid Structure Determination by NMR",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256J. Seminar: Research in Biochemistry--Contractile Proteins in Muscle Contraction and Cell Motility",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256K. Seminar: Research in Biochemistry--Biochemistry and Molecular Biology of Chlamydomonas",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256L. Seminar: Research in Biochemistry--Literature of Structural Biology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256N. Seminar: Research in Biochemistry--Advanced Topics in Structural Biology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256O. Seminar: Research in Biochemistry--Membrane Biophysics",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256P. Seminar: Research in Biochemistry--Analysis of Protein Structure",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256Q. Seminar: Research in Biochemistry--Biochemistry and Function of Ubiquinone in Yeast and Higher Eukaryotes",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256R. Seminar: Research in Biochemistry--Biomolecular Nuclear Magnetic Resonance Spectroscopy and Protein Structure",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256S. Seminar: Research in Biochemistry--Proteome Bioinformatics",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256T. Seminar: Research in Biochemistry--RNA Processing and RNA Genomics",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256U. Seminar: Research in Biochemistry--Mitochondrial Biogenesis and Link to Disease",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256V. Seminar: Research in Biochemistry--Proteomics and Mass Spectrometry",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256W. Seminar: Research in Biochemistry--Cytoskeletal Dynamics during Drosophila Oogenesis",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256X. Seminar: Research in Biochemistry--Microtubule-Based Structures and Human Diseases",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256Y. Seminar: Research in Biochemistry--Research in Genomics: Biochemistry, Synthetic Biology, and Genomics",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "256Z. Seminar: Research in Biochemistry--Information Processing in Intracellular and Intercellular Signaling Networks",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in biochemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "257. Physical Chemistry of Biological Macromolecules",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, one hour; discussion, one hour; laboratory, four hours. Requisite: course 153A. Theory of hydrodynamic, thermodynamic, and optical techniques used to study structure and function of biological macromolecules. S/U or letter grading."
+    },
+    {
+      "course number & title": "258. Advanced Topics in Biochemistry and Molecular Biology",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Critical analysis of experimental design and methods in biochemistry and molecular biology. In-depth analysis of literature in one or more areas of current research. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "CM259. Mechanisms of Gene Regulation",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered C259A.) (Same as Biological Chemistry M259.) Lecture, four hours. Requisite: course 153B. RNA polymerase structures and mechanisms; promoter recognition and transcription cycle; mechanisms of activation; transcriptional poising and elongation control; Mediator of transcription; chromatin remodeling and modification; epigenetic regulation; cotranscriptional and transcription-coupled RNA processing; impact of transcription on mRNA processing and stability; nuclear export of mRNA. Concurrently scheduled with course C159. S/U or letter grading."
+    },
+    {
+      "course number & title": "CM260A. Introduction to Bioinformatics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Bioinformatics M221, Computer Science CM221, and Human Genetics M260A.) Lecture, four hours; discussion, two hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, and one course from Biostatistics 100A, 110A, Civil Engineering 110, Electrical Engineering 131A, Mathematics 170A, or Statistics 100A. Prior knowledge of biology not required. Designed for engineering students as well as students from biological sciences and medical school. Introduction to bioinformatics and methodologies, with emphasis on concepts and inventing new computational and statistical techniques to analyze biological data. Focus on sequence analysis and alignment algorithms. Concurrently scheduled with course CM160A. S/U or letter grading."
+    },
+    {
+      "course number & title": "CM260B. Algorithms in Bioinformatics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Bioinformatics M222 and Computer Science CM222.) Lecture, four hours; discussion, two hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, and one course from Biostatistics 100A, Civil Engineering 110, Electrical Engineering 131A, Mathematics 170A, or Statistics 100A. Course CM260A is not requisite to CM260B. Designed for engineering students as well as students from biological sciences and medical school. Development and application of computational approaches to biological questions, with focus on formulating interdisciplinary problems as computational problems and then solving these problems using algorithmic techniques. Computational techniques include those from statistics and computer science. Concurrently scheduled with course CM160B. Letter grading."
+    },
+    {
+      "course number & title": "260BL. Advanced Bioinformatics Computational Laboratory",
+      "Number of units": "Units: 2",
+      "Course description": "Laboratory, four hours. Enforced requisite: course CM260A. Corequisite: course CM260B. Development and application of computational approaches to ask and answer biological questions by implementing variety of bioinformatics and systems biology algorithms. Advantages and disadvantages of different algorithmic methods for studying biological questions and preliminary understanding of how to compute statistical significance of results. Development of conceptual understanding of implementation of bioinformatics algorithms and foundation for how to do innovative work in these fields. Experience in observing impact of computational complexity of algorithms in computing solutions. S/U or letter grading."
+    },
+    {
+      "course number & title": "C261A. Plant Biochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours. Requisites: courses 153C and 153L. Introduction to distinctive features of plant biochemistry. Topics include photosynthesis, nitrogen metabolism, plant cell wall metabolism, and secondary metabolism in relation to stress. Concurrently scheduled with course C161A. S/U or letter grading."
+    },
+    {
+      "course number & title": "262. Biochemistry and Molecular Biology of Protein Translocation Systems",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, two hours; discussion, two hours. Requisites: courses 269A through 269D. Protein translocation into nucleus, mitochondrion, peroxisome, chloroplast, endoplasmic reticulum, and protein export in bacteria. Letter grading."
+    },
+    {
+      "course number & title": "C263. Membrane Protein Structure and Function",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Enforced requisite: course 156. Detailed examination of how various membrane proteins work. Topics include lipid bilayer properties and how they affect membrane protein function and biology; membrane protein biogenesis; principles of transport across membranes; how channels, transporters, and receptors work at atomic level. Emphasis on reading and analyzing original research papers. Concurrently scheduled with course C163. S/U or letter grading."
+    },
+    {
+      "course number & title": "C264. Free Radicals in Biology and Medicine",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, three hours. Enforced requisites: courses 153A and either 153B or 153C, with grades of C- or better. Biochemcial reactivity of dioxygen, its role in mitochondrial metabolism, neurodegenerative diseases, apoptosis, and aging. Discussion of radical reactions, how they are harnessed to achieve enzyme catalysis, and how free radicals contribute to or regulate essential biological processes. These same reactions \"run amok\" under certain types of stress and can contribute to wide variety of diseases, including neurodegenerative diseases (e.g., Huntington's, Parkinson's, and Alzheimer's diseases), mitochondrial diseases, atherosclerosis, and aging. Concurrently scheduled with course C164. S/U or letter grading."
+    },
+    {
+      "course number & title": "C265. Metabolic Control by Protein Modification",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 153A, 153B, 153C. Biochemical basis of controlling metabolic pathways by posttranslational modification of proteins, including phosphorylation and methylation reactions. Concurrently scheduled with course C165. Letter grading."
+    },
+    {
+      "course number & title": "266. Proteomics and Protein Mass Spectrometry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Essential technologies and concepts practiced in proteomics-based research, including methods for protein separation and display, protein quantitation, and protein identification. Emphasis on fundamentals of protein mass spectrometry. S/U or letter grading."
+    },
+    {
+      "course number & title": "267. Nanoscience and Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Enforced requisites: courses 110A, 113A, 171, 172. Designed for advanced undergraduate and graduate students. Why nanoscience is important and interesting and critical role of chemistry in nanoscience. Chemistry and physics of variety of synthetic inorganic nanostructures, including metallic nanostructures (nanocrystals, nanorods, nanowires), semiconductor nanostructures (quantum dots/rods, nanowires, plates), and carbon nanostructures (fullerene, nanotubes, graphene). Discussion of synthetic approaches, structures, and physical properties, as well as potential technological opportunities of each. Letter grading."
+    },
+    {
+      "course number & title": "268. Biochemistry Research Seminar  ",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Seminars presented by staff, outside speakers, postdoctoral fellows, and graduate students on topics of current biochemical research interest. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "269A. Protein Structure",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, five hours; discussion, two hours. Requisites: courses 153A, 153B, 153C, 156. Three-dimensional structure of proteins. Forces that stabilize structure of soluble and membrane proteins. Kinetics of protein folding and role of chaperones. Prediction of protein structure from sequence. Letter grading."
+    },
+    {
+      "course number & title": "269B. Biocatalysis and Bioenergetics",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, five hours; discussion, two hours. Requisites: courses 153A, 153B, 153C, 156. Mechanisms and regulation of protein-mediated catalysis. Proteomics and metabolomics. Concepts in electron, proton, and energy transfer. Energy transducing membranes in chloroplasts and mitochondria. Letter grading."
+    },
+    {
+      "course number & title": "269C. Nucleic Acid Structure and Catalysis",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, five hours; discussion, two hours. Requisites: courses 153A, 153B, 153C, 156. Three-dimensional structure of DNA and RNA. Sequence-specific recognition of DNA and RNA. RNA-catalyzed processes, including self-splicing and peptide bond formation. Letter grading."
+    },
+    {
+      "course number & title": "269D. Mechanism and Regulation of Gene Expression",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, five hours; discussion, two hours. Requisites: courses 153A, 153B, 153C, 156. Mechanism and regulation of transcription in prokaryotes and eukaryotes. Mechanism and regulation of mRNA processing; mRNA export and degradation. Letter grading."
+    },
+    {
+      "course number & title": "269E. Biomolecular Structure, Catalysis, and Regulation",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, five hours; discussion, two hours. Requisites: courses 153A, 153B, 153C, 156. Protein-protein interactions, proteomics, protein networks, regulatory circuits, cellular dynamics, imaging of cellular processes. Letter grading."
+    },
+    {
+      "course number & title": "C270. Biochemistry and Molecular Biology of Photosynthetic Apparatus",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to three hours; discussion, zero to two hours. Requisites: courses 153A and 153B, or Life Sciences 3 and 23L, and course 153L. Recommended: courses 153C, 154, Life Sciences 4. Light harvesting, photochemistry, electron transfer, carbon fixation, carbohydrate metabolism, pigment synthesis in chloroplasts and bacteria. Assembly of photosynthetic membranes and regulation of genes encoding those components. Emphasis on understanding of experimental approaches. Concurrently scheduled with course CM170. S/U or letter grading."
+    },
+    {
+      "course number & title": "271. Advanced Topics in Inorganic Chemistry  ",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. Each offering encompasses one recognized specialty in inorganic chemistry, generally taught by faculty members whose research interests embrace that specialty. S/U or letter grading."
+    },
+    {
+      "course number & title": "272A. Seminar: Research in Inorganic Chemistry--Chemistry of Materials",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "272C. Seminar: Research in Inorganic Chemistry--Inorganic Spectroscopy",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "272G. Seminar: Research in Inorganic Chemistry--Issues in Chemical Education",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "272I. Seminar: Research in Inorganic Chemistry--Organometallic Chemistry",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "272K. Seminar: Research in Inorganic Chemistry--Inorganic Nanostructures: Synthesis, Properties, and Functions",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "272L. Seminar: Research in Inorganic Chemistry--Molecular Materials",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "272M. Seminar: Research in Inorganic Chemistry--Methodology for Chemical Synthesis of Complex Molecules",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "272N. Seminar: Research in Inorganic Chemistry--Electrochemical   Materials and Interfaces.",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Advanced study and analysis of current topics in inorganic chemistry. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "C273. Electrochemical Systems",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours. Introduction to principles of electrochemical systems commonly applied in research of inorganic chemistry, materials sciences, and nanotechnology. With examples in recent literature and discussions of experimental practice, focus on qualitative and quantitative evaluation of information obtained from electrochemical characterization methods. Understanding of course contents helps appreciate research and technologies in catalysis, energy storage and conversion, and advanced environmental technologies. Concurrently scheduled with course C173. S/U or letter grading."
+    },
+    {
+      "course number & title": "C274. Inorganic and Metalorganic Laboratory Methods",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; laboratory, eight hours. Enforced requisites: courses 30CL and 171, with grades of C- or better. Synthesis of inorganic compounds, including air-sensitive materials; Schlenck techniques; chromatographic and ion exchange methods; spectroscopic characterization and literature applications. Concurrently scheduled with course C174. S/U or letter grading."
+    },
+    {
+      "course number & title": "C275. Inorganic Reaction Mechanisms",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 110A, 110B, 113A, and 172, with grades of C- or better. Survey of inorganic reactions; mechanistic principles; electronic structure of metal ions; transition-metal coordination chemistry; inner- and outer-sphere and chelate complexes; substitution, isomerization, and racemization reactions; stereochemistry; oxidation/reduction, free/radical, polymerization, and photochemical reactions of inorganic species. May be concurrently scheduled with course C175. S/U or letter grading."
+    },
+    {
+      "course number & title": "C276A. Group Theory and Applications to Inorganic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 113A and 172, with grades of C- or better. Group theoretical methods; molecular orbital theory; ligand-field theory; electronic spectroscopy; vibrational spectroscopy. May be concurrently scheduled with course C176. S/U or letter grading."
+    },
+    {
+      "course number & title": "276B. Physical Methods in Inorganic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course C276A. Theory and applications of spectroscopic techniques, including magnetic resonance and vibrational and surface science methods, to inorganic compounds and materials. S/U or letter grading."
+    },
+    {
+      "course number & title": "277. Crystal Structure Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Theory and practice of modern crystallography, with emphasis on practical experience in structure determination. Topics include crystallographic symmetry, scattering theory, data collection, Fourier analysis, heavy atom techniques, direct methods, isomorphous replacement, crystallographic refinement, error analysis, and common pitfalls. S/U or letter grading."
+    },
+    {
+      "course number & title": "278. Inorganic Chemistry Student Seminar  ",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Seminars presented by staff, outside speakers, postdoctoral fellows, and graduate students. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "C279. Biological Inorganic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 153A (or 153AH), 171. Role of metal ions in biology. Topics include interactions of metal ions with proteins, nucleic acids, and other biological molecules; mechanisms of metal ion transport and storage; introduction to metalloenzyme; metalloproteins in electron transfer, respiration, and photosynthesis; metals in medicine. Concurrently scheduled with course C179. S/U or letter grading."
+    },
+    {
+      "course number & title": "C280. Solid-State Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 172 with grade of C- or better. Survey of new materials and methods for their preparation and characterization, with emphasis on band theory and its relationship to chemical, optical, transport, and magnetic properties, leading to deeper understanding of these materials. Concurrently scheduled with course C180. S/U or letter grading."
+    },
+    {
+      "course number & title": "C281. Polymer Chemistry  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 30B, 110A. Synthesis of organic and inorganic macromolecules, thermodynamic and statistical mechanical descriptions of unique properties of polymers, polymer characterization methods, and special topics such as conductive and biomedical polymers and polymeric reagents in synthesis. Concurrently scheduled with course C181. S/U or letter grading."
+    },
+    {
+      "course number & title": "282. Introduction to Inorganic Chemistry Research",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, 90 minutes. Discussion of current research in inorganic chemistry, designed primarily for entering graduate inorganic chemistry students. S/U grading."
+    },
+    {
+      "course number & title": "283. Evolution of Devices from Concept to Product",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, 90 minutes. Required of students in Materials Creation Training Program. Training in fundamental science and engineering to fabricate electrical, photonic, and microelectromechanical devices. Discussion of intellectual property issues and development of business plan. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "284. Materials Creation Training Program Brown-Bag Seminar",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, one hour. Required of students in Materials Creation Training Program. Research and literature seminar presented by graduate students conducting research in synthesis and characterization of materials and fabrication of electronic and photonic devices. S/U grading."
+    },
+    {
+      "course number & title": "285. Materials Chemistry Laboratory",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; laboratory, eight hours. Requisites: courses 30AL, 110A, 113A, 171. Materials synthesis and physical properties of complex materials. Combines synthetic skills with fundamental physical understanding and characterization in approximately equal proportions to relate materials synthesis to materials function. Letter grading."
+    },
+    {
+      "course number & title": "M370A. Integrated Science Instruction Methods",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Earth, Planetary, and Space Sciences M370A and Physics M370A.) Lecture, two hours; discussion, one hour; laboratory, one hour. Preparation: one introductory lower-division year (including laboratory) each of chemistry, life sciences, and physics and at least two Earth science courses, preferably one with field experience. Classroom management, lesson design, assessment, history of science education. S/U or letter grading."
+    },
+    {
+      "course number & title": "M370B. Integrated Science Instruction Methods",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Earth, Planetary, and Space Sciences M370B and Physics M370B.) Lecture, two hours; discussion, one hour; laboratory, one hour. Requisite: course M370A or Earth, Planetary, and Space Sciences M370A or Physics M370A. Application of learning theory to science instruction and classroom management, including use of technology, collaborative learning, laboratory safety, ethical issues, field experiences, and professional development. S/U or letter grading."
+    },
+    {
+      "course number & title": "375. Teaching Apprentice Practicum",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "400. Safety in Chemical and Biochemical Research  ",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Survey of safe laboratory practices for experimental research in organic, inorganic, and physical chemistry and biochemistry. Topics include laser safety, cryogenic hazards, high- and low-pressure experimentation, gas and carcinogen handling, chemical spills, fire extinguishing, and chemical disposal. S/U grading."
+    },
+    {
+      "course number & title": "495. Teaching College Chemistry",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours; discussion, two hours; 20 hours training during week prior to Fall Quarter. Course for teaching assistants designed to deal with problems and techniques of teaching college chemistry. S/U grading.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "course number & title": "596. Directed Individual Study or Research",
+      "Number of units": "Units: 2 to 16",
+      "Course description": "Tutorial, to be arranged with faculty member who directs study or research. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "597. Preparation for MS Comprehensive Examination or PhD Qualifying Examinations",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, to be arranged. May be taken for maximum of 8 units. S/U grading."
+    },
+    {
+      "course number & title": "598. Research for and Preparation of MS Thesis",
+      "Number of units": "Units: 2 to 16",
+      "Course description": "Tutorial, to be arranged. Each faculty member supervises research of M.S. students and holds research group meetings, seminars, and discussions with students. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "599. Research for and Preparation of PhD Dissertation",
+      "Number of units": "Units: 2 to 16",
+      "Course description": "Tutorial, to be arranged. Each faculty member supervises research of PhD students and holds research group meetings, seminars, and discussions with students. May be repeated for credit. S/U or letter grading."
+    }
+  ]
+}

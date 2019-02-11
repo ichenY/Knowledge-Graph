@@ -1,0 +1,310 @@
+{
+  "subject": "Biomathematics (BIOMATH) ",
+  "course": [
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "106. Introduction to Cellular Modeling  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; computer laboratory, two hours. Preparation: some computer programming. Requisite: Mathematics 32A. Designed for upper-division science majors and biomedical graduate students. Introduction to modeling cells and cell systems, including intracellular biochemical networks, applications to cancer research. How to develop one's own computer models using IMSL mathematics subroutines. P/NP or letter grading."
+    },
+    {
+      "course number & title": "108. Introduction to Modeling in Neurobiology  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; computer laboratory, two hours. Preparation: some computer programming. Requisite: Mathematics 32A. Designed for upper-division science majors and biomedical graduate students. Survey of wide variety of topics in neurobiological modeling, current neuronal modeling systems. Development of skills to formulate and program one's own studies using IMSL mathematics subroutines. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160. Introductory Biomathematics for Medical and Biological Research  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, 90 minutes. Elementary statistics course that focuses on statistical concepts and critiques literature, with emphasis on clinical research. Output from statistical computer packages discussed in class, but students do not use computer themselves. Topics include descriptive statistics, t-tests, confidence intervals, linear regression and correlation, analysis of variance, nonparametric statistics, basic experimental design, sample size determination, article interpretation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "170A. Introductory Biomathematics for Medical Investigators",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Intensive elementary statistics course emphasizing design and applications to observational studies and experiments/clinical trials. Statistical topics include study design, descriptive statistics, elementary probability and distributions, confidence intervals and hypothesis testing, sample size and power, linear regression and correlation, analysis of variance, nonparametric statistics. Applications to biomedical literature and design of clinical trials. Letter grading."
+    },
+    {
+      "course number & title": "170B. Statistical and Mathematical Modeling in Medical and Biological Research",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, 90 minutes. Second course in biomathematical methods. Topics include randomization methods, intermediate experimental design, contingency table analysis, analysis of variance, multiple linear regression, nonlinear regression, methods of classification, model checking, basic mathematical models including compartment models, and statistical computer software. Students have opportunity to design their own experiments and analyze them on computer, and to analyze previously collected data. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "190HA. Honors Research in Biomathematics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Tutorial, to be arranged. Limited to juniors/seniors. Individual research in some aspect of biomathematics designed to acquaint students in depth with mathematical models and computer applications in biology. Must be taken for at least two terms and for total of at least 8 units. Thesis required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "190HB. Honors Research in Biomathematics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Tutorial, to be arranged. Limited to juniors/seniors. Individual research in some aspect of biomathematics designed to acquaint students in depth with mathematical models and computer applications in biology. Must be taken for at least two terms and for total of at least 8 units. Thesis required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "197. Individual Studies in Biomathematics",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "199. Directed Research or Senior Project in Biomathematics",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "200. Research Frontiers in Biomathematics  ",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Series of presentations by faculty members on research frontiers in biomathematics. S/U grading."
+    },
+    {
+      "course number & title": "200B. Frontiers and Methods in Mathematical Systems",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture/seminar, four hours. Introduction to cutting-edge research in mathematical biology. Imparts critical thinking through critique of research. Trains students in scientific writing and presentation skills. Short writing assignments, figure preparation, and slide development. Letter grading."
+    },
+    {
+      "course number & title": "201. Deterministic Models in Biology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours. Preparation: knowledge of linear algebra and differential equations. Examination of conditions under which deterministic approaches can be employed and conditions where they may be expected to fail. Topics include compartmental analysis, enzyme kinetics, physiological control systems, and cellular/animal population models. S/U or letter grading."
+    },
+    {
+      "course number & title": "202. Biological Systems: Structure, Function, Evolution",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Preparation: knowledge of calculus, differential equations, and partial differential equations. Introduction to concepts, equations, and approximations that describe structure and function of biological systems, evolutionary principles, and network design and dynamics. Topics include cancer initiation and progression, gene expression, epistasis, response to fluctuating environments, network structure, and functional traits. S/U or letter grading."
+    },
+    {
+      "course number & title": "M203. Stochastic Models in Biology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Human Genetics M203.) Lecture, four hours. Requisite: Mathematics 170A or equivalent experience in probability. Mathematical description of biological relationships, with particular attention to areas where conditions for deterministic models are inadequate. Examples of stochastic models from genetics, physiology, ecology, and variety of other biological and medical disciplines. S/U or letter grading."
+    },
+    {
+      "course number & title": "204. Biomedical Data Analysis  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Quantity and quality of observations have been greatly affected by present-day extensive use of computers. Problem-oriented study of latest methods in statistical data analysis and use of such arising in laboratory and clinical research. S/U or letter grading."
+    },
+    {
+      "course number & title": "205. Top Computational Algorithms",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Recommended preparation: undergraduate calculus, linear algebra, probability. Overview of most important and beautiful algorithms in numerical analysis, statistics, bioinformatics, and computer science. Emphasis on mathematical derivation, practical complexity analysis, significant applications, and coding in Julia programming language. Big data applications particularly stressed. Letter grading."
+    },
+    {
+      "course number & title": "206. Introduction to Mathematical Oncology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; computer laboratory, two hours. Preparation: ordinary partial differential equations, one computer programming course. Deterministic and stochastic modeling of cell metabolism, colony growth, and responses to radio-, chemo-, and immunotherapeutic agents applied to carcinogenesis, therapy, emergence of resistance to therapy. Simulation, optimization methods introduced. Current literature review. S/U or letter grading."
+    },
+    {
+      "course number & title": "M207A. Theoretical Genetic Modeling",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biostatistics M272 and Human Genetics M207A.) Lecture, three hours; discussion, one hour. Requisites: Mathematics 115A, 131A, Statistics 100B. Mathematical models in statistical genetics. Topics include population genetics, genetic epidemiology, gene mapping, design of genetics experiments, DNA sequence analysis, and molecular phylogeny. S/U or letter grading."
+    },
+    {
+      "course number & title": "M207B. Applied Genetic Modeling",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biostatistics M237 and Human Genetics M207B.) Lecture, three hours; laboratory, one hour. Requisites: Biostatistics 200B, 202B (may be taken concurrently) or equivalent coursework or consent of instructor. Covers basic genetic concepts (prior knowledge of human genetics not required). Topics include statistical methodology underlying genetic analysis of both quantitative and qualitative complex traits. Laboratory for hands-on computer analysis of genetic data; laboratory reports required. Course complements M207A; students may take either and are encouraged to take both. S/U or letter grading."
+    },
+    {
+      "course number & title": "208A. Modeling in Neurobiology for Mathematicians  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; laboratory, two hours. Preparation: introductory ordinary partial differential equations, programming experience. Introduction to electrochemical bases for nerve function and mathematical and computational methods for studying this, appropriate for physicists, engineers, and mathematicians. Survey of current leading research areas and software systems. S/U or letter grading."
+    },
+    {
+      "course number & title": "208B. Modeling in Neurobiology for Biologists  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; laboratory, two hours. Preparation: lower-division calculus, some elementary programming experience. Introduction to neuronal modeling, including how to formulate models and study them with existing computer software (e.g., NODUS) or one's own simple programs that use IMSL subroutines. Survey of current leading research areas. S/U or letter grading."
+    },
+    {
+      "course number & title": "209. Mechanisms and Modeling in Bioanalytical Assays",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Preparation: knowledge of basic physical chemistry and ordinary differential equations. Recommended requisite: course 201. Review of basic physical mechanisms and mathematical analyses used in common bioanalytical assays. Topics include chromatography, electrophoresis, blotting, DNA sequencing, PCR, SELEX, ChiP-sequencing, FACS, FRAP, and FISH. S/U or letter grading."
+    },
+    {
+      "course number & title": "210. Optimization Methods in Biology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Preparation: undergraduate mathematical analysis and linear algebra; familiarity with programming language such as Fortran or C. Modern computational biology relies heavily on finite-dimensional optimization. Survey of theory and numerical methods for discrete and continuous optimization, with applications from genetics, medical imaging, pharmacokinetics, and statistics. S/U or letter grading."
+    },
+    {
+      "course number & title": "M211. Mathematical and Statistical Phylogenetics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biostatistics M239 and Human Genetics M211.) Lecture, three hours; laboratory, one hour. Theoretical models in molecular evolution, with focus on phylogenetic techniques. Topics include evolutionary tree reconstruction methods, studies of viral evolution, phylogeography, and coalescent approaches. Examples from evolutionary biology and medicine. Laboratory for hands-on computer analysis of sequence data. S/U or letter grading."
+    },
+    {
+      "course number & title": "212. Nonlinear Dynamics in Biological Systems",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Required preparation: elementary knowledge of ordinary differential equations, partial differential equations, and computer programming. Mathematical bases of nonlinear dynamics and self-organization in temporal and spatial systems, with applications to biological systems. Topics range from bifurcation theory in low dimension to pattern formation in high dimension. Use of biologically important examples to illustrate applications of these dynamics, including gene regulation and protein-protein interaction networks, glycolytic and metabolic oscillations, circadian rhythms, cell cycle controls, intracellular calcium cycling, pattern formation in morphogenesis, and action potential models and electrical wave formation and propagation in nerve and cardiac systems. S/U or letter grading."
+    },
+    {
+      "course number & title": "213. Modeling Vascular Networks",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Recommended preparation: calculus, differential equations, complex analysis, elementary knowledge of partial differential equations. Introduction to equations that describe fluid flow dynamics and branching, and hierarchal networks to provide survey of models for structure and flow of vascular systems. Vascular systems are nearly ubiquitous in nature, occurring across animals, plants, and other organisms. Coverage of applications to tumor growth and angiogenesis, sleep, allometric scaling, and other phenomena. S/U or letter grading."
+    },
+    {
+      "course number & title": "220. Kinetic and Steady State Models in Pharmacology and Physiology  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Recommended preparation: knowledge of linear algebra, differential equations, statistics. Designed for biologists and theoreticians. Modeling and data analysis in pharmacokinetics, enzyme kinetics, and endocrinology. Topics include compartmental and noncompartmental approaches, steady state analysis of transport and binding processes, and optimal experiment design. S/U or letter grading."
+    },
+    {
+      "course number & title": "M230. Computed Tomography: Theory and Applications",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Physics and Biology in Medicine M230.) Lecture, four hours. Computed tomography is three-dimensional imaging technique being widely used in radiology and is becoming active research area in biomedicine. Basic principles of computed tomography (CT), various reconstruction algorithms, special characteristics of CT, physics in CT, and various biomedical applications. S/U or letter grading."
+    },
+    {
+      "course number & title": "M231. Statistical Methods for Categorical Data",
+      "Number of units": "Units: 4",
+      "Course description": ""
+    },
+    {
+      "course number & title": "M232. Statistical Analysis of Incomplete Data",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biostatistics M232.) Lecture, three hours; discussion, one hour. Requisites: Biostatistics 200C, 202B or equivalent. Sources of incomplete data, recognizing familiar methods as solutions to missing-data problems, missing-data mechanisms, weighting and imputation strategies, model-based and design-based inference, likelihood-based and Bayesian methods, statistical computing strategies, multivariate models for diverse data types, nonignorable models, review of available statistical software. Emphasis on incorporating incomplete-data perspective into broader statistical-science framework. S/U or letter grading."
+    },
+    {
+      "course number & title": "M234. Applied Bayesian Inference",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biostatistics M234.) Lecture, three hours; laboratory, one hour. Requisite: Biostatistics 200B or another substantial regression course. Bayesian approach to statistical inference, with emphasis on biomedical applications and concepts rather than mathematical theory. Topics include large sample Bayes inference from likelihoods, noninformative and conjugate priors, empirical Bayes, Bayesian approaches to linear and nonlinear regression, model selection, Bayesian hypothesis testing, and numerical methods. S/U or letter grading."
+    },
+    {
+      "course number & title": "M243. Condensed Matter Physics of Cells",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Physics M243L.) Seminar, four hours. Designed for graduate students. Basic paradigms of condensed matter physics and applications to biophysical modeling. S/U or letter grading."
+    },
+    {
+      "course number & title": "259. Controversies in Clinical Trials",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; discussion, one hour. Preparation: completion of professional health sciences or M.D. degree. Required of all M.S. in Clinical Research students. Discussion and analysis of eight published and well-known trials with students, one invited clinical faculty member, and course director. Development of critical ability to evaluate trial design and pitfalls. S/U or letter grading."
+    },
+    {
+      "course number & title": "M260A. Methodology in Clinical Research I",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Medicine M260A.) Lecture, four hours. Recommended preparation: MD, PhD, or dental degree. Requisites: courses 170A, 265A. Course M260A is requisite to M260B. Presentation of principles and practices of major disciplines underlying clinical research methodology, such as biostatistics, epidemiology, pharmacokinetics. S/U or letter grading."
+    },
+    {
+      "course number & title": "M260B. Methodology in Clinical Research II",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Medicine M260B.) Lecture, four hours. Recommended preparation: MD, PhD, or dental degree. Requisites: courses 170A, M260A, 265A. Presentation of principles and practices of major disciplines underlying clinical research methodology, such as biostatistics, epidemiology, pharmacokinetics. S/U or letter grading."
+    },
+    {
+      "course number & title": "M260C. Methodology in Clinical Research III",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Medicine M260C.) Discussion, four hours. Recommended preparation: MD, PhD, or dental degree. Presentation of principles and practices of major disciplines underlying clinical research methodology, such as biostatistics, epidemiology, pharmacokinetics. S/U or letter grading."
+    },
+    {
+      "course number & title": "M261. Responsible Conduct of Research Involving Humans",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Medicine M261.) Lecture, two hours; discussion, two hours. Preparation: completion of one basic course in protection of human research subjects through Collaborative Institutional Training Initiative. Discussion of current issues in responsible conduct of clinical research, including reporting of research, basis for authorship, issues in genetic research, principles and practice of research on humans, conflicts of interest, Institutional Review Board (IRB), and related topics. S/U or letter grading."
+    },
+    {
+      "course number & title": "M262. Communication of Science",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Psychiatry M230.) Lecture, two hours; discussion, one hour. Presentation of various types of scientific writings and their good practice. Details of writing specific articles: methods, results, discussion. Writing of review article. Grant submissions: aims, background, results, design. Role of appendices. Communication with lay public. S/U or letter grading."
+    },
+    {
+      "course number & title": "M263. Clinical Pharmacology",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Medicine M263 and Psychiatry M263.) Lecture, two hours. Preparation: completion of professional health sciences degree (MD, DDS, DNSc, or PhD). Overview of principles of clinical pharmacology, especially as they relate to clinical and translational medicine and to advances in contemporary medicine such as targeting, gene therapy, and genomics. Letter grading."
+    },
+    {
+      "course number & title": "264. Applied Data Collection and Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Presentation of research project development, including protocol development, data collection, quality control, clinical/electronic health record (EHR) data, structuring data for analysis, and data archival. Lectures, in-class practicums using actual studies and datasets, and student presentations. Letter grading."
+    },
+    {
+      "course number & title": "265A. Data Analysis Strategies I",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, two hours. Preparation: MD or PhD degree. Requisite: course 170A. Designed to provide students with hands-on experience developing and testing hypotheses using various types of databases. Topics include developing testable hypothesis, data management, and analysis strategies and written presentation of findings. Experience with full process of hypothesis generation, operationalization of variables, selection of analysis techniques, and presentation of findings so students are better prepared to complete data analysis, interpretation of results, and written presentation of their findings (e.g., for master's thesis and subsequent articles). Students encouraged to provide their own data. Databases provided for use in completing exercises for those without available data. Letter grading."
+    },
+    {
+      "course number & title": "266A. Applied Regression Analysis in Medical Sciences",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, one hour. Requisite: course 170A. Proficiency in applied regression analysis, with focus on interpretation of results and performing computation. Primary topics include simple linear regression, multiple regression, regression model selection, analysis of variance, logistic regression, and survival analysis. Letter grading."
+    },
+    {
+      "course number & title": "266B. Advanced Biostatistics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: course 266A. Continuation of course 266A. Some traditional multivariate methods, such as principle components, factor analysis, cluster analysis, and more contemporary methods, including recursive partitioning and missing data. Multilevel and longitudinal analysis. Letter grading."
+    },
+    {
+      "course number & title": "M270. Optimal Parameter Estimation and Experiment Design for Biomedical Systems",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Bioengineering M296B, Computer Science M296B, and Medicine M270D.) Lecture, four hours; outside study, eight hours. Requisite: course 220 or Bioengineering CM286 or M296A. Estimation methodology and model parameter estimation algorithms for fitting dynamic system models to biomedical data. Model discrimination methods. Theory and algorithms for designing optimal experiments for developing and quantifying models, with special focus on optimal sampling schedule design for kinetic models. Exploration of PC software for model building and optimal experiment design via applications in physiology and pharmacology. Letter grading."
+    },
+    {
+      "course number & title": "M271. Statistical Methods in Computational Biology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Bioinformatics M223 and Statistics M254.) Lecture, three hours; discussion, one hour. Preparation: elementary probability concepts. Requisite: Bioinformatics M221 or Statistics 100A or 200A. Introduction to statistical methods developed and widely applied in several branches of computational biology, such as gene expression, sequence alignment, motif discovery, comparative genomics, and biological networks, with emphasis on understanding of basic statistical concepts and use of statistical inference to solve biological problems. Letter grading."
+    },
+    {
+      "course number & title": "273. Stochastic Modeling in Molecular Cellular Biophysics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: Mathematics 170A or equivalent experience in probability, lower-division physics, or physical chemistry. Most molecular systems are large collections of molecules; behavior of such systems is stochastic. Mathematical descriptions of biochemical reactions with and without energy dissipation, molecular structures, and biophysical techniques that measure various biological processes. S/U or letter grading."
+    },
+    {
+      "course number & title": "M280. Statistical Computing",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biostatistics M280 and Statistics M230.) Lecture, three hours. Requisites: Mathematics 115A, Statistics 100C. Introduction to theory and design of statistical programs: computing methods for linear and nonlinear regression, dealing with constraints, robust estimation, and general maximum likelihood methods. Letter grading."
+    },
+    {
+      "course number & title": "M281. Survival Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biostatistics M215). Lecture, three hours; discussion, one hour. Requisite: Biostatistics 202B or Statistics 100C. Statistical methods for analysis of survival data. S/U or letter grading."
+    },
+    {
+      "course number & title": "M282. Longitudinal Data",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biostatistics M236.) Lecture, three hours; laboratory, one hour. Requisite: Biostatistics 200B or another substantial regression course. Analysis of continuous responses for which multivariate normal model may be assumed. Students learn how to think about longitudinal data, plot data, and how to specify mean and variance of longitudinal response. Advanced topics include introductions to clustered, multivariate, and discrete longitudinal data. S/U or letter grading."
+    },
+    {
+      "course number & title": "M284. Methodology of Clinical Trials",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biostatistics M238.) Lecture, three hours; discussion, one hour. Requisite: Biostatistics 200B. Introductory material on design and analysis of clinical trials, including adaptive methods for early and late randomized trials. S/U or letter grading."
+    },
+    {
+      "course number & title": "285. Introduction to High-Throughput Data Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Requisites: courses M260A, M260B. Introduction to high-throughput data analysis, including DNA microarray technologies and next-generation sequencing technology. Presentation of statistical methods and software for handling complex data produced by experiments using these technologies. Some hands-on training on data analysis provided. S/U or letter grading."
+    },
+    {
+      "course number & title": "296A. Advanced Topics in Clinical Pharmacology",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; discussion, one hour. Review of pharmacokinetics, drug metabolism and transport, assessment of drug effects, drug therapy in special populations, and contemporary drug development. S/U or letter grading."
+    },
+    {
+      "course number & title": "296B. Advanced Topics in Clinical Pharmacology",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; discussion, one hour. Review of pharmacokinetics, drug metabolism and transport, assessment of drug effects, drug therapy in special populations, and contemporary drug development. S/U or letter grading."
+    },
+    {
+      "course number & title": "299. Special Topics in Clinical Research",
+      "Number of units": "Units: 2 to 6",
+      "Course description": "Seminar, three hours. Requisites: courses M260A, M260B. Advanced study and analysis of current topics in clinical research. Discussion of current research and literature in research specialty of faculty member teaching course. Content varies from term to term and may include lectures from visiting scientists. May be repeated for credit with consent of instructor. S/U or letter grading."
+    },
+    {
+      "course number & title": "501. Cooperative Program",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Preparation: consent of UCLA department chair and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading."
+    },
+    {
+      "course number & title": "596. Directed Individual Study or Research in Biomathematics",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Individual study on topics not yet covered by offerings of department. May be repeated for credit with topic change. S/U or letter grading."
+    },
+    {
+      "course number & title": "597. Preparation for MS or PhD Comprehensive Examination or PhD Qualifying Examinations",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. Individual study. S/U grading."
+    },
+    {
+      "course number & title": "599. Research for and Preparation of PhD Dissertation",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. S/U grading."
+    }
+  ]
+}

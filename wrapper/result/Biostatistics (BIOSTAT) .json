@@ -1,0 +1,330 @@
+{
+  "subject": "Biostatistics (BIOSTAT) ",
+  "course": [
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "100A. Introduction to Biostatistics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Preparation: one biological or physical sciences course. Suitable for juniors/seniors. Students who have completed courses in statistics may enroll only with consent of instructor. Not open for credit to students with credit for course 110A. Introduction to methods and concepts of statistical analysis. Sampling situations, with special attention to those occurring in biological sciences. Topics include distributions, tests of hypotheses, estimation, types of error, significance and confidence levels, sample size. P/NP or letter grading."
+    },
+    {
+      "course number & title": "100B. Introduction to Biostatistics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Requisite: course 100A. Not open for credit to students with credit for course 110B. Introduction to analysis of variance, linear regression, and correlation analysis. P/NP or letter grading."
+    },
+    {
+      "course number & title": "197. Individual Studies in Biostatistics",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "200A. Methods in Biostatistics A",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; laboratory, one hour. First course in biostatistical methods intended for graduate students in biostatistics to prepare students pursuing careers as practicing biostatisticians. Prior knowledge of probability or statistics not assumed. Students should have working knowledge of calculus and be very comfortable with mathematical and algebraic reasoning. Introduction to basic concepts in analysis, presentation of data, and statistical aspects of design of studies. Special emphasis is given to application of statistical methods to public health, medical, biological, and health sciences. Interpretation and communication of statistical findings is stressed. Focus on methodology, applications, and concepts rather than mathematical statistics or probability theory. S/U or letter grading."
+    },
+    {
+      "course number & title": "200B. Methods in Biostatistics B",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Preparation: linear algebra. Requisite: course 200A. Designed for students pursuing graduate degrees in biostatistics. Theory and practice of linear regression analysis and analysis of variance (ANOVA). S/U or letter grading."
+    },
+    {
+      "course number & title": "200C. Methods in Biostatistics C",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Preferred preparation: courses 200A, 200B, and previous coursework in linear algebra. Designed for students pursuing graduate degrees in biostatistics. Generalized linear models, description, and analysis of discrete data with applications to public health. Students are trained to identify different types of discrete data; use statistical software package STATA to manage, summarize, and analyze data; use appropriate statistical techniques for analyzing public health data using generalized linear models; apply generalized estimating equations for analyzing longitudinal data; and write formal statistical report of data analysis for public health researcher. S/U or letter grading."
+    },
+    {
+      "course number & title": "201A. Topics in Applied Regression",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Requisites: courses 100A and 100B, or 200A and 200B. Designed for master's and doctoral students in fields outside biostatistics. Topics in linear regression and other related methods. When and how to use linear regression and related methods and how to properly interpret results. Heavy emphasis on practical application as opposed to theoretical development. S/U or letter grading."
+    },
+    {
+      "course number & title": "201B. Topics in Applied Regression",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour; laboratory, one hour. Requisite: course 201A. Further studies in multiple linear regression, including applied multiple regression models, regression diagnostics and model assessment, factorial and repeated measure analysis of variance models, nonlinear regression, logistic regression, propensity scores, matching versus stratification, Poisson regression, and classification trees. Applications to biomedical and public health scientific problems. Letter grading."
+    },
+    {
+      "course number & title": "202A. Mathematical Statistics A",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Designed primarily for students pursuing DrPh, MS, and PhD degrees in biostatistics. Introduction to main principles of probability, random variables, discrete and continuous distributions, multivariate distributions, and distributions of functions of random variables. S/U or letter grading."
+    },
+    {
+      "course number & title": "202B. Mathematical Statistics B",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: course 202A. Designed primarily for students pursuing DrPh, MS, and PhD degrees in biostatistics. Introduction to main principles of probability, random variables, discrete and continuous distributions, multivariate distributions, and distributions of functions of random variables. S/U or letter grading."
+    },
+    {
+      "course number & title": "202C. Theory of Bayesian Statistics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 200A, 200B, 202A, 202B, or equivalent, or consent of instructor. Mathematical underpinnings of Bayesian approach to statistical inference; closed form computations; computation; hierarchical models; model selection; hypothesis testing; prior specification; comparative inference; nonparametric methods. S/U or letter grading."
+    },
+    {
+      "course number & title": "203A. Introduction to Data Management and Statistical Computing",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 403A.) Lecture, three hours; laboratory, two hours. Prior knowledge of programming not assumed. Coverage of mechanics of converting data from whatever form it may arrive and preparing it for processing by statistical software. Letter grading."
+    },
+    {
+      "course number & title": "M208. Introduction to Demographic Methods",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Community Health Sciences M208, Economics M208, and Sociology M213A.) Lecture, four hours. Preparation: one introductory statistics course. Introduction to methods of demographic analysis. Topics include demographic rates, standardization, decomposition of differences, life tables, survival analysis, cohort analysis, birth interval analysis, models of population growth, stable populations, population projection, and demographic data sources. Letter grading."
+    },
+    {
+      "course number & title": "M210. Statistical Methods for Categorical Data",
+      "Number of units": "Units: 4",
+      "Course description": ""
+    },
+    {
+      "course number & title": "212. Distribution Free Methods",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: course 200B or Statistics 100B. Theory and application of distribution free methods in biostatistics. S/U or letter grading."
+    },
+    {
+      "course number & title": "213. Introduction to Computational Methods in Biostatistics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: course 110B, Statistics 100B. Introduction to computational methods for biostatistical inference: simulation techniques, numerical integration, numerical optimization. S/U or letter grading."
+    },
+    {
+      "course number & title": "214. Finite Population Sampling",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 200A, 200B, 202B. Theory and methods for sampling finite populations and estimating population characteristics. S/U or letter grading."
+    },
+    {
+      "course number & title": "M215. Survival Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M281.) Lecture, three hours; discussion, one hour. Requisite: course 202B or Statistics 100C. Statistical methods for analysis of survival data. S/U or letter grading."
+    },
+    {
+      "course number & title": "219. Special Topics: Supplemental Topics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: course 202B. Topics in biostatistics not covered in other courses. Letter grading."
+    },
+    {
+      "course number & title": "230. Statistical Graphics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, one hour. Requisite: course 200A (may be taken concurrently). Graphical data analysis emphasizes use of visual displays of quantitative data to gain insight into data structure by exploring patterns and relationships, and to enhance classical numerical analyses, especially assumption validity checking. Principles of graph construction, graphical methods, and perception issues. S/U or letter grading."
+    },
+    {
+      "course number & title": "231. Statistical Power and Sample Size Methods for Health Research",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, one hour. Requisites: courses 200A, 200B. Strongly recommended: variety of other graduate coursework. Sample size and power analysis methods for common study designs, including comparison s of means and proportions, ANOVA, time-to-event data, group sequential trials, linear regression, cluster randomized trials and multilevel data, with emphasis on designing randomized trials. Discussion also of multiple endpoints. S/U or letter grading."
+    },
+    {
+      "course number & title": "M232. Statistical Analysis of Incomplete Data",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M232.) Lecture, three hours; discussion, one hour. Requisites: courses 200C, 202B or equivalent. Sources of incomplete data, recognizing familiar methods as solutions to missing-data problems, missing-data mechanisms, weighting and imputation strategies, model-based and design-based inference, likelihood-based and Bayesian methods, statistical computing strategies, multivariate models for diverse data types, nonignorable models, review of available statistical software. Emphasis on incorporating incomplete-data perspective into broader statistical-science framework. S/U or letter grading."
+    },
+    {
+      "course number & title": "233. Statistical Issues in Global Health",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 200C. Recommended requisite or corequisite: course M215. Consideration of statistical issues in addressing contemporary global health challenges. Topics include statistical methods for analyzing public health surveillance data, methods and models for measuring and forecasting health of populations, epidemic modeling, agent-based modeling, evaluating and addressing sampling issues in public health data, and design and analysis of large-scale public health interventions such as vaccine trials and cancer screening programs. Applications to both infectious and noninfectious diseases. Case studies include HIV/AIDS, cancer, pandemic flu, and topical global health challenges such as recent outbreaks of emerging pathogens. S/U or letter grading."
+    },
+    {
+      "course number & title": "M234. Applied Bayesian Inference",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M234.) Lecture, three hours; laboratory, one hour. Requisite: course 200B or another substantial regression course. Bayesian approach to statistical inference, with emphasis on biomedical applications and concepts rather than mathematical theory. Topics include large sample Bayes inference from likelihoods, noninformative and conjugate priors, empirical Bayes, Bayesian approaches to linear and nonlinear regression, model selection, Bayesian hypothesis testing, and numerical methods. S/U or letter grading."
+    },
+    {
+      "course number & title": "M235. Causal Inference",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Psychiatry M232.) Lecture, three hours; discussion, one hour. Requisites: courses 200C, 202B, or equivalent. Philosophical foundations, logical paradoxes, decision analysis, selection bias, confounding, ecological paradox, historical development, potential outcomes, Rubin causal model, propensity scores, competing perspectives on path analysis and graphical/structural-equation models, experiments with noncompliance, principal stratification, decision making when causality is disputed, role of ethics in decision making. S/U or letter grading."
+    },
+    {
+      "course number & title": "M236. Longitudinal Data",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M282.) Lecture, three hours; laboratory, one hour. Requisite: course 200B or another substantial regression course. Analysis of continuous responses for which multivariate normal model may be assumed. Students learn how to think about longitudinal data, plot data, and how to specify mean and variance of longitudinal response. Advanced topics include introductions to clustered, multivariate, and discrete longitudinal data. S/U or letter grading."
+    },
+    {
+      "course number & title": "M237. Applied Genetic Modeling",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M207B and Human Genetics M207B.) Lecture, three hours; laboratory, one hour. Requisites: courses 200B, 202B (may be taken concurrently) or equivalent coursework or consent of instructor. Covers basic genetic concepts (prior knowledge of human genetics not required). Topics include statistical methodology underlying genetic analysis of both quantitative and qualitative complex traits. Laboratory for hands-on computer analysis of genetic data; laboratory reports required. Course complements M272; students may take either and are encouraged to take both. S/U or letter grading."
+    },
+    {
+      "course number & title": "M238. Methodology of Clinical Trials",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M284.) Lecture, three hours; discussion, one hour. Requisite: course 200B. Introductory material on design and analysis of clinical trials, including adaptive methods for early and late randomized trials. S/U or letter grading."
+    },
+    {
+      "course number & title": "M239. Mathematical and Statistical Phylogenetics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M211 and Human Genetics M211.) Lecture, three hours; laboratory, one hour. Theoretical models in molecular evolution, with focus on phylogenetic techniques. Topics include evolutionary tree reconstruction methods, studies of viral evolution, phylogeography, and coalescent approaches. Examples from evolutionary biology and medicine. Laboratory for hands-on computer analysis of sequence data. S/U or letter grading."
+    },
+    {
+      "course number & title": "241. Spatial Modeling and Data Analysis for Health Sciences",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 200A, 200B, 202A, 202B. Introduction of various methods for exploring, modeling, and analyzing spatially referenced datasets, with emphasis on environmental/natural sciences and public health. Statistical theory and foundations for carrying out principled and scientifically rigorous inference on spatially referenced datasets and computational methods and algorithms for executing statistical modeling in practice. Practical examples and applications demonstrated using open-source statistical software environment R and datasets from diverse fields, such as public health, environmental health, natural sciences, and economics. Letter grading."
+    },
+    {
+      "course number & title": "244. Master's Seminar and Research Resources for Graduating Biostatistics MS Students",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 240.) Seminar, three hours. Introduction to resources for finding statistical literature. Discussion of principles of making statistical presentations and how to write statistical reports, including writing abstracts and choice of key words. Discussion of journal article preparation and submission format and refereeing process to help students make progress on their master's reports. Letter grading."
+    },
+    {
+      "course number & title": "245. Advanced Seminar: Biostatistics",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Requisites: courses 200C, 202B. Current research in biostatistics. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "250A. Linear Statistical Models",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Recommended preparation: statistical theory and linear algebra. Designed for students pursuing graduate degrees in biostatistics. Theoretical foundation for linear models with applications to different types of problems in biomedical field. Emphasis on mathematical training and understanding of theory and applications of linear models. Letter grading."
+    },
+    {
+      "course number & title": "250B. Linear Statistical Models",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 200A, 200B, 200C, 250A. Theoretical foundation for linear models with applications to different types of problems in biomedical field. Emphasis on mathematical training and understanding of theory of linear models, including linear mixed models and topics that may include theory and tests for various types of model misspecification, such as heteroscedasticity and outliers. Other selected topics may include ridge regression, Bayesian estimation in linear models, REML, prediction, and model selection issues. Some data analysis, instructions for STATA provided. Letter grading."
+    },
+    {
+      "course number & title": "250C. Multivariate Biostatistics",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 251.) Lecture, three hours; discussion, one hour. Requisites: courses 250A, 250B. Recommended requisites: courses 255A, 255B. Theory and methods for multivariate analysis with non-exclusive focus on biomedical applications. Topics from multivariate linear models, graphical models, component analysis, factor analysis, clustering, discriminant analysis, models for longitudinal and clustered data. S/U or letter grading."
+    },
+    {
+      "course number & title": "255A. Advanced Probability and Statistics",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 255.) Lecture, three hours; discussion, one hour. Requisites: course 202A or equivalent, Mathematics 131A or consent of instructor. Survey of probability theory, with special emphasis on applications to biostatistics. Topics include probability spaces and random variables, generating functions, conditioning, discrete-time martingales, applications to finite sample analysis of statistical procedures. S/U or letter grading."
+    },
+    {
+      "course number & title": "255B. Advanced Probability and Statistics",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 256.) Lecture, three hours; discussion, one hour. Requisites: course 255A or consent of instructor, Mathematics 131A. Survey of advanced topics in probability and mathematical statistics, with special emphasis on applications to biostatistics. Topics include laws of large numbers, central limit theorems, basic concepts from stochastic processes, and applications to large sample theory in biostatistics. S/U or letter grading."
+    },
+    {
+      "course number & title": "270. Stochastic Processes  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Preparation: upper-division mathematics (including statistics and probability). Stochastic processes applicable to medical and biological research. Letter grading."
+    },
+    {
+      "course number & title": "M272. Theoretical Genetic Modeling",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M207A and Human Genetics M207A.) Lecture, three hours; discussion, one hour. Requisites: Mathematics 115A, 131A, Statistics 100B. Mathematical models in statistical genetics. Topics include population genetics, genetic epidemiology, gene mapping, design of genetics experiments, DNA sequence analysis, and molecular phylogeny. S/U or letter grading."
+    },
+    {
+      "course number & title": "273. Classification and Regression Trees (CART) and Other Algorithms",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 200C. Instruction in use of statistical tools in analysis of large datasets. Classification and regression trees as well as other adaptive algorithms. Implementation of CART software and other programs to real datasets. S/U or letter grading."
+    },
+    {
+      "course number & title": "275. Advanced Survival Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 250A, 255. Time-to-event data arise in many fields, such as medicine, reliability theory, demography, sociology, economics, and astronomy. Overview of common stochastic process models and methods for analysis of such data. Examples include continuous-time Markov chain and semi-Markov models, and frailty and copula models. S/U or letter grading."
+    },
+    {
+      "course number & title": "276. Inferential Techniques that Use Simulation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: Statistics 200A, 200B. Recommended: course 213. Theory and application of recently developed techniques for statistical inference that use computer simulation. Topics include bootstrap, multiple imputation, data augmentation, stochastic relaxation, and sampling/importance resampling algorithm. S/U or letter grading."
+    },
+    {
+      "course number & title": "277. Robustness and Modern Nonparametrics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: Statistics 200A. Topics include M-estimation, influence curves, breakdown point, bootstrap, jackknife, smoothing, nonparametric regression, generalized additive models, density estimation. S/U or letter grading."
+    },
+    {
+      "course number & title": "279. Optimal Design Theory and Application",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Preparation: basic programming skills. Requisite: Statistics 200B. Presentation of design methodology for regression problems, with applications to biostatistical problems. Letter grading."
+    },
+    {
+      "course number & title": "M280. Statistical Computing",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M280 and Statistics M230.) Lecture, three hours. Requisites: Mathematics 115A, Statistics 100C. Introduction to theory and design of statistical programs: computing methods for linear and nonlinear regression, dealing with constraints, robust estimation, and general maximum likelihood methods. Letter grading."
+    },
+    {
+      "course number & title": "285. Advanced Topics: Recent Developments",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Advanced topics and developments in biostatistics not covered in Biostatistics M210 through 219 or 270 through 276 or in other courses. Possible topics include time-series analysis, classification procedures, correspondence analysis, etc. S/U or letter grading."
+    },
+    {
+      "course number & title": "296. Seminar: Research Topics in Biostatistics",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Seminar, two hours. Advanced study and analysis of current topics in biostatistics. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "375. Teaching Apprentice Practicum",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Seminar, to be arranged. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. Apprentices meet with faculty and other apprentice teachers to discuss both substance of curriculum and appropriate approaches to teaching, learning, and evaluation. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "400. Field Studies in Biostatistics",
+      "Number of units": "Units: 4",
+      "Course description": "Fieldwork, to be arranged. Field observation and studies in selected community organizations for health promotion or medical care. Students must file field placement and program training documentation on form available from Student Affairs Office. May not be applied toward M.S. minimum course requirement; 4 units may be applied toward 44-unit minimum total required for M.P.H. degree. Letter grading."
+    },
+    {
+      "course number & title": "402A. Principles of Biostatistical Consulting  ",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; discussion, one hour. Requisite: course 100B or 110B. Presentation of structural format for statistical consulting. Role of statistician and client. Reviews of actual statistician/client interactions and case studies. S/U or letter grading."
+    },
+    {
+      "course number & title": "402B. Biostatistical Consulting  ",
+      "Number of units": "Units: 4",
+      "Course description": "Discussion, two hours; laboratory, two hours. Requisite: course 402A. Principles and practices of biostatistical consulting. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "M403B. Computer Management and Analysis of Health Data Using SAS",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Epidemiology M403.) Lecture, two hours; laboratory, two hours. Requisites: courses 100A, 100B (100B may be taken concurrently). Introduction to practical issues in management and analysis of health data using SAS programming language. Cross-sectional and longitudinal population-based data sets to be used throughout to illustrate principles of data management and analysis for addressing biomedical and health-related hypotheses. Letter grading."
+    },
+    {
+      "course number & title": "406. Applied Multivariate Biostatistics  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, one hour. Preparation: at least two upper-division research courses. Requisite: course 100B. Use of multiple regression, principal components, factor analysis, discriminant function analysis, logistic regression, and canonical correlation in biomedical data analysis. S/U (optional only for nondivision majors) or letter grading."
+    },
+    {
+      "course number & title": "409. Doctoral Statistical Consulting Seminar",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, one hour; laboratory, four hours. Designed for doctoral students. Development of experience and expertise in collaborating with faculty in Schools of Public Health and Medicine. Students meet with investigators and develop design and protocol for data analysis, implement data protocol when data is obtained, and write up study with lead investigators. S/U grading."
+    },
+    {
+      "course number & title": "410. Statistical Methods in Clinical Trials  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours. Requisites: courses 100A, 100B. Design of studies in animals to assess antitumor response; randomization, historical controls, p-values, size of study, and stratification in human experimentation; various types of controls; prognostic factors, survivorship studies, and design of prognostic studies; organization of clinical trials--administration, comparability, protocols, clinical standards, data collection and management. S/U (optional only for nonmajors) or letter grading."
+    },
+    {
+      "course number & title": "411. Analysis of Correlated Data",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 200A. Statistical techniques designed for analysis of correlated data, including cluster samples, multilevel models, and longitudinal studies. Computations done on SAS and STATA. Mixed models and generalized estimation equations (GEE). Emphasis on application, not theory. S/U or letter grading."
+    },
+    {
+      "course number & title": "413. Introduction to Pharmaceutical Statistics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: courses 100A, 100B. Exploration of various types of statistical techniques used in pharmaceutical and related industries. Topics include bioassay and other assay techniques (e.g., ELISAs and FACs analysis), quality control techniques, and pharmacokinetic and pharmacodynamic modeling. S/U or letter grading."
+    },
+    {
+      "course number & title": "414. Principles of Sampling  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: course 100B, Epidemiology 100. Statistical aspects of design and implementation of sample survey. Techniques for analysis of data, including estimates and standard errors. Avoiding improper use of survey data. Letter grading."
+    },
+    {
+      "course number & title": "495. Teacher Preparation in Biostatistics",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Preparation: 18 units of cognate courses in area of specialization. May not be applied toward master's degree minimum total course requirement. May be repeated for credit. S/U grading.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "course number & title": "595. Effective Integration of Biostatistical Concepts in Public Health Research",
+      "Number of units": "Units: 4",
+      "Course description": "Tutorial, to be arranged. Enforced requisites: courses 110A, 110B, 400, 402A. Students meet weekly with their adviser and also work independently on their proposed projects. Course fosters ability of students to select relevant design and analysis techniques, synthesize knowledge, and apply insights to address public health problems. Oral examination and written report describing how students have used biostatistical methods to assess data from public health study required. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "596. Directed Individual Study or Research  ",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. Limited to graduate students. Individual guided studies under direct faculty supervision. Only 4 units may be applied toward M.P.H. and M.S. minimum total course requirement. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "597. Preparation for Master's Comprehensive or Doctoral Qualifying Examinations  ",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Limited to graduate students. May not be applied toward any degree course requirements. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "599. Doctoral Dissertation Research  ",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. May not be applied toward any degree course requirements. May be repeated for credit. S/U grading."
+    }
+  ]
+}

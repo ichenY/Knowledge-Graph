@@ -1,0 +1,575 @@
+{
+  "subject": "Musicology (MUSCLG) ",
+  "course": [
+    {
+      "course number & title": "3. Introduction to Classical Music",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 3.) Lecture, four hours; discussion, one hour. Survey of music of Western classical tradition, with emphasis on historical context, musical meanings, and creation of tradition itself. P/NP or letter grading."
+    },
+    {
+      "course number & title": "5. History of Rock and Roll",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 5.) Lecture, four hours; discussion, one hour. Analysis of forms, practices, and meanings of rock and roll music, broadly conceived, from its origin to present. Emphasis on how this music has reflected and influenced changes in sexual, racial, and class identities and attitudes. Credit for both courses 5 and 185 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "M6A. Introduction to Musicianship",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History M6A.) (Same as Ethnomusicology M6A and Music M6A.) Laboratory, four hours. Preparation: placement examination. Course M6A is enforced requisite to M6B, which is enforced requisite to M6C. Students must receive grade of C- or better to proceed to next course in sequence. Introduction to musicianship through in-depth exploration of basic common musical elements and training in aural recognition, sight singing, dictation, and keyboard skills. Focus on topics such as tonal and modal harmony, rhythm, improvisation, composition, notation, and ear training to prepare students for later theory courses, participation in music ensembles, advanced study in music, and professional careers. Letter grading."
+    },
+    {
+      "course number & title": "M6B. Introduction to Musicianship",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History M6B.) (Same as Ethnomusicology M6B and Music M6B.) Laboratory, four hours. Preparation: placement examination. Enforced requisite: course M6A with grade of C- or better. Introduction to musicianship through in-depth exploration of basic common musical elements and training in aural recognition, sight singing, dictation, and keyboard skills. Focus on topics such as tonal and modal harmony, rhythm, improvisation, composition, notation, and ear training to prepare students for later theory courses, participation in music ensembles, advanced study in music, and professional careers. Letter grading."
+    },
+    {
+      "course number & title": "M6C. Introduction to Musicianship",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History M6C.) (Same as Ethnomusicology M6C and Music M6C.) Laboratory, four hours. Preparation: placement examination. Enforced requisite: course M6B with grade of C- or better. Introduction to musicianship through in-depth exploration of basic common musical elements and training in aural recognition, sight singing, dictation, and keyboard skills. Focus on topics such as tonal and modal harmony, rhythm, improvisation, composition, notation, and ear training to prepare students for later theory courses, participation in music ensembles, advanced study in music, and professional careers. Letter grading."
+    },
+    {
+      "course number & title": "7. Film and Music",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 7.) Lecture, four hours; discussion, one hour. History of music and cinema, particularly ways music is used to produce meanings in conjunction with visual image. Credit for both courses 7 and 177 not allowed. P/NP or letter grading."
+    },
+    {
+      "course number & title": "8. History of Electronic Dance Music",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 8.) Lecture, four hours; discussion, one hour. Survey of groove-based electrified dance music from its origins in 1960s pop and soul to present, covering disco, house, techno, ambient, rave, and jungle. Emphasis on interaction of technology, musical structures, psychoactive drugs, and club cultures to induce altered states of musical consciousness; promise (versus reality of) political and spiritual transformation; electronic dance music as new art music. P/NP or letter grading."
+    },
+    {
+      "course number & title": "9. American Popular Song",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 9.) Lecture, four hours; discussion, one hour. American popular music before advent of rock and roll in 1950s, with special emphasis on song tradition of Tin Pan Alley. P/NP or letter grading."
+    },
+    {
+      "course number & title": "12W. Writing about Music",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 12W.) Lecture, four hours; laboratory, one hour. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Emphasis on learning specific skills, incorporating technical description, historical contextualization, subjective reaction, and certain stylistic conventions necessary in writing about music. Satisfies Writing II requirement. Letter grading."
+    },
+    {
+      "course number & title": "13. Punk: Music, History, Subculture",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 13.) Lecture, four hours; discussion, one hour. Developments in punk music in their historical and subcultural contexts. Survey of prepunk and musical antecedents in 1960s, rise of punk in 1970s, and tracing of its expressive trajectories to present day. P/NP or letter grading."
+    },
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "28A. Collegium Musicum: Medieval Period",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History 28A.) Lecture, three hours. Preparation: ability to read music. Group performance of Western vocal and instrumental music. P/NP or letter grading."
+    },
+    {
+      "course number & title": "28B. Collegium Musicum: Renaissance Period",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History 28B.) Lecture, three hours. Preparation: ability to read music. Group performance of Western vocal and instrumental music. P/NP or letter grading."
+    },
+    {
+      "course number & title": "28C. Collegium Musicum: 17th and 18th Centuries",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History 28C.) Lecture, three hours. Preparation: ability to read music. Group performance of Western vocal and instrumental music. P/NP or letter grading."
+    },
+    {
+      "course number & title": "35. Introduction to Opera",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 35.) Lecture, four hours; discussion, one hour. Exploration of history of opera from its origins in Florentine Camerata in Italy in early 17th century, through ages of Enlightenment and Romanticism, and ending with modern era of early 20th century. History of opera, biography of composers and singers, operatic conventions, dramaturgy, plot, stagings, hermeneutics of opera, and musical style, with focus on learning appreciation of music of opera within rich context of its compelling history. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60. American Musical",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 60.) Lecture, four hours; discussion, 90 minutes. Survey of American musical in 20th century, beginning with its roots in operetta, vaudeville, and Gilbert and Sullivan, and focusing on its connections to politics, technology, film, opera, and variety of popular musical styles, including Tin Pan Alley, jazz, and rock. Credit for both courses 60 and 160 not allowed. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61. Music in Los Angeles",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 61.) Lecture, four hours; discussion, one hour. Exploration of history of music in Los Angeles. From Spanish missions and history of Los Angeles to greater emphasis on music in 20th century, with special focus on European \u00e9migr\u00e9s, internment and postwar history of Japanese American community, Chicano and Mexican American music to present, African American traditions including jazz on Central Avenue, 1960s Laurel Canyon and rock scene, and more recent history that includes developments in punk and hip-hop. P/NP or letter grading."
+    },
+    {
+      "course number & title": "62. Mozart",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 62.) Lecture, four hours; discussion, one hour. Designed for students who do not read music. Life, works, and mythology of Wolfgang Amadeus Mozart, in context of both his age and our own. Credit for both courses 62 and 162 not allowed. P/NP or letter grading."
+    },
+    {
+      "course number & title": "63. Bach",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 63.) Lecture, four hours; discussion, one hour. Designed for undergraduate students. Life and works of Johann Sebastian Bach. Credit for both courses 63 and 163 not allowed. P/NP or letter grading."
+    },
+    {
+      "course number & title": "64. Motown and Soul: African American Popular Music of 1960s",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 64.) Lecture, four hours; discussion, one hour. Survey of developments in post-World War II African American popular music, with special attention to musical achievements of Motown Records, Stax, and other rhythm and blues, funk, and soul music centers of production. Relationships between musical forms and cultural issues of 1960s, including Civil Rights Movement, counterculture, black nationalism, capitalism, and separatism, and larger dimensions of African American experience as mediated through groove-based music. Credit for both courses 64 and 164 not allowed. P/NP or letter grading."
+    },
+    {
+      "course number & title": "65. Blues in American Music",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 65.) Lecture, four hours; discussion, one hour. History of blues, both as specific genre and as range of techniques and approaches that have been at center of American music and culture, from 19th-century roots to present. Exploration of commonly accepted blues mainstream exemplified by figures like Bessie Smith, Robert Johnson, and B.B. King, but also central role blues has played in jazz, folk, country, gospel, rock, soul, and rap. While following evolution of music through 20th century, examination of how blues has served as metaphor for African American culture as it permeates American traditions. Credit for both courses 65 and 165 not allowed. P/NP or letter grading."
+    },
+    {
+      "course number & title": "66. Getting Medieval",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 66.) Lecture, four hours; discussion, one hour. Exploration of idea of medievalism in music and culture from Wagner to video games. Music covered includes film scores, opera, Gregorian chant, early music revival, folk songs, progressive rock, and Goth. Credit for both courses 66 and 166 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "M67. Popular Jewish and Israeli Music",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History M67.) (Same as Jewish Studies M67.) Lecture, four hours; discussion, one hour. Music of Jews is diverse. With history of several thousand years and series of developments in modernity, music in Jewish life covers variety of styles found in many contexts. Exploration of music of Jews within last 100 years, with focus on popular music of Jews in America and Israel. Examination of music in Israel, with focus on songs of land of Israel, Israeli rock, and Muzika Mizrachit (Middle Eastern popular music). P/NP or letter grading."
+    },
+    {
+      "course number & title": "68. Beatles",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 68.) Lecture, four hours; discussion, one hour. Examination of life and music of Beatles within social and historical context of 1960s. Credit for both courses 68 and 168 not allowed. P/NP or letter grading."
+    },
+    {
+      "course number & title": "69. Music and Politics",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 69.) Lecture, four hours; discussion, one hour. Exploration and demonstration of various ways in which music is informed by and informs politics. From individual performances to mass demonstrations, music is recognizable as a political act and tool that is not simply representative, but also constitutive, meaning that music creates belief systems (politics). Examination of development and use of music by social movements, political parties, and nations, and critical listening practices to better hear world around us and sounds that compose its futures. P/NP or letter grading."
+    },
+    {
+      "course number & title": "70. Beethoven",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 70.) Lecture, four hours; discussion, one hour. Designed for undergraduate students. Life and works of Ludwig van Beethoven. Credit for both courses 70 and 170 not allowed. P/NP or letter grading."
+    },
+    {
+      "course number & title": "71. Listening",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 71.) Lecture, four hours; discussion, one hour. Introduction to humanistic study of listening, as perceptual modality for engaging others and world, with focus on experience, history, politics, and ethics of listening. Hearing is shared perceptive faculty among able-bodied people, but listening practices are shaped by history, society, and culture. Hearing people listen differently depending on when, where, and how they live, as well as who they are as individuals. P/NP or letter grading."
+    },
+    {
+      "course number & title": "72. Sacred Music",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 72.) Lecture, four hours; discussion, one hour. Study of forms and liturgies of Western church music. Credit for both courses 72 and 172 not allowed. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M73. Music and Religion in Popular Culture",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History M73.) (Same as Ethnomusicology M73.) Lecture, four hours; discussion, one hour. Survey of popular music in religious traditions since the 1970s. Growth of music in Jewish denominations, including Orthodox, Reform, and Conservative, and Christian contemporary music, from evangelical to cross-over artists performing in mainstream. Credit for both courses M73 and M173 not allowed. P/NP or letter grading."
+    },
+    {
+      "course number & title": "75. History of Jazz",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 75.) Lecture, four hours; discussion, one hour. History and analysis of variety of jazz styles, from late 19th-century forerunners to present, with emphasis on social meanings of musical practices. Letter grading."
+    },
+    {
+      "course number & title": "79. Dancehall, Rap, Reggaeton: Beats, Rhymes, and Routes in African Diaspora",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 79.) Lecture, four hours; discussion, one hour. Survey of histories of three closely connected music genres: Jamaican dancehall, U.S. rap, and Puerto Rican/Panamanian reggaeton. Introduction to major performers in each genre, comparison of stylistic traits associated with each music, and exploration of technologies associated with contemporary music production. P/NP or letter grading."
+    },
+    {
+      "course number & title": "88. Sophomore Seminars: Music History",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History 88.) Seminar, two hours. Designed for sophomore Music History majors or students interested in pursuing Music History major. Introduction to music history as academic discipline, with particular emphasis on musicology at UCLA. Study of music and its history and consideration of theoretical issues central to musicology as it is practiced today, including gender and sexuality, music and politics, race, popular music studies, and jazz studies. Letter grading."
+    },
+    {
+      "course number & title": "89. Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "CM90T. Early Music Ensemble",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History CM90T.) (Same as Music M90T.) Activity, four hours. Preparation: audition. Group performance of Western vocal and instrumental music from historical periods prior to 1800. Early instruments may be used at instructor's discretion. May be repeated for credit without limitation. May be concurrently scheduled with course C490T. P/NP or letter grading."
+    },
+    {
+      "course number & title": "94. Music and Internet",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 94.) Lecture, four hours; discussion, one hour. Survey of changes undergone by music in digital environment. As music becomes increasingly pervasive--found everywhere, yet living nowhere special--what social, economic, political, and aesthetic forces are determining centers of attention? Examination of formative force of Internet on sounds themselves. What kinds of noises develop logically within digital context, where creative freedoms and public disinterest are equally apparent? What does Internet sound like? P/NP or letter grading."
+    },
+    {
+      "course number & title": "98T. Prince and (1980s U.S. Cultural) Revolution",
+      "Number of units": "Units: 5",
+      "Course description": "Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. Freshmen/sophomores preferred. Examination of life and music of Prince within social, historical, and cultural context of 1980s U.S. Emphasis on using musical output as lens into issues such as generational difference, race, gender, sexuality, religion, censorship, health, and capitalism. Focus on writing component. Letter grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "101. Issues and Methods in Musicology",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 101.) Seminar, three hours. Introduction for music history minors to practical aspects and fundamental issues of musicology as academic discipline. How musicologists go about establishing, editing, performing, analyzing, and interpreting musical texts. Exposure to kinds of activities, philosophies, and styles of scholarship that continue to shape field of musicology. Letter grading."
+    },
+    {
+      "course number & title": "M103. Creating Musical Community",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Ethnomusicology M103, Global Jazz Studies M103, and Music M103.) Seminar, four hours; discussion, one hour. Limited to school of music majors. Faculty and students make music together in different modes. Students learn certain repertoire, refine it, and bring it to concert performance. Students critically engage musical literacies and notion of social contract that forms basis of musical notation. Drawing from American music folk game traditions, highlights complex history of this country and way in which entire body is used as resource when instruments are unavailable. Letter grading."
+    },
+    {
+      "course number & title": "125A. History of Western Music: Era of Church and Patron",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 125A.) Lecture, four hours; discussion, one hour. Requisite: course M6A (may be taken concurrently). Course 125A is requisite to 125B, which is requisite to 125C. Students must receive grade of C or better to proceed to next course in sequence. Introduction to history, culture, and structure of Western music, in era of church and court patronage, through selected topics, repertoires, and analytical techniques. Letter grading."
+    },
+    {
+      "course number & title": "125B. History of Western Music: Era of Empires and Marketplaces",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 125B.) Lecture, four hours; discussion, one hour. Requisite: course M6B (may be taken concurrently), 125A. Course 125A is requisite to 125B, which is requisite to 125C. Students must receive grade of C or better to proceed to next course in sequence. Introduction to history, culture, and structure of Western music, in era of empires and marketplaces, through selected topics, repertoires, and analytical techniques. Letter grading."
+    },
+    {
+      "course number & title": "125C. History of Western Music: Modern and Postmodern Era",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 125C.) Lecture, four hours; discussion, one hour. Requisite: course M6C (may be taken concurrently), 125B. Course 125A is requisite to 125B, which is requisite to 125C. Students must receive grade of C or better to proceed to next course in sequence. Introduction to history, culture, and structure of Western music, in modern and postmodern eras, through selected topics, repertoires, and analytical techniques. Letter grading."
+    },
+    {
+      "course number & title": "126. Musics, Cultures, and Their Interpretation",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 126.) Lecture, four hours; discussion, one hour. Requisite or corequisite: M6A. Designed to supplement broad historical survey in Music History 125 series by focusing on interlocking questions of how cultures make music, and how music makes cultures. Letter grading."
+    },
+    {
+      "course number & title": "127. Music, Sound, and Structure",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 127.) Lecture, four hours; discussion, one hour. Requisite or corequisite: M6A. Designed to supplement broad historical survey in Music History 125 series by focusing on interlocking questions of musical structure and meaning. Letter grading."
+    },
+    {
+      "course number & title": "128. History of Popular Music",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 128.) Lecture, four hours; discussion, one hour. Requisite or corequisite: M6A. Introduction to study of popular music through American history, with emphasis on music of Americas, Afro-diasporic music, and socioeconomic structure of music making in industrial society. Letter grading."
+    },
+    {
+      "course number & title": "135A. History of Opera: Baroque and Classical Periods",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 135A.) Lecture, four hours; discussion, one hour. Designed for undergraduate students. P/NP or letter grading."
+    },
+    {
+      "course number & title": "135B. History of Opera: Romantic Period",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 135B.) Lecture, four hours; discussion, one hour. Designed for undergraduate students. P/NP or letter grading."
+    },
+    {
+      "course number & title": "135C. History of Opera: 20th Century",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 135C.) Lecture, four hours; discussion, one hour. Designed for undergraduate students. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M136. Music and Gender",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History M136.) (Same as Gender Studies M136.) Lecture, four hours; discussion, one hour. Analysis of gender ideologies in several musical cultures; representations of gender, body, and sexuality by both male and female musicians; contributions of women to Western art and popular musics; methods in feminist and gay/lesbian theory and criticism. Letter grading."
+    },
+    {
+      "course number & title": "M137. Lesbian, Gay, Bisexual, Transgender, and Queer Perspectives in Pop Music",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History M137.) (Same as Lesbian, Gay, Bisexual, Transgender, and Queer Studies M137.) Lecture, four hours; discussion, one hour. Survey of English-language popular music in 20th century, with focus on lesbians, gay men, and members of other sexual minorities as creators, performers, and audience members. Letter grading."
+    },
+    {
+      "course number & title": "140. Music, Media, and Consumer Society",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 140.) Lecture, four hours. Consideration of impact of recording technologies (gramophone, tape recorder, Walkman, sampler), broadcast media (radio, television, MTV, Internet), and global capitalism (record labels, advertising, Muzak) on way we consume and are consumed by music. How music functions and malfunctions on records, under movies, behind ads, and in semiotic fabric of everyday life. Letter grading."
+    },
+    {
+      "course number & title": "160. Selected Topics in American Musical",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 160.) Seminar, 90 minutes. Enforced corequisite: attendance, but not enrollment, in course 60 lecture. Exploration of connections and disconnects between American musical on stage and American film musicals. Credit for both courses 60 and 160 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "162. Selected Topics in Music of Mozart",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 162.) Seminar, two hours. Preparation: ability to read music and engage in melodic, harmonic, and formal analysis. Enforced corequisite: attendance, but not enrollment, in course 62 lecture. Limited to Music History majors and minors. Intensive discussion of selected pieces by Mozart and of certain topics important to fuller understanding of his contributions to musical culture of Enlightenment, as well as to contemporary culture. Credit for both courses 62 and 162 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "163. Bach: Study of Selected Works",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 163.) Seminar, two hours. Enforced corequisite: attendance, but not enrollment, in course 63 lecture. Limited to Music History majors and minors. Examination of Bach's music in greater depth. Credit for both courses 63 and 163 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "164. Selected Topics in African American Popular Music of 1960s",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 164.) Seminar, two hours. Enforced corequisite: attendance, but not enrollment, in course 64 lecture. Intensive discussion of developments in post-World War II African American popular music, with special attention to musical achievements of Motown Records, Stax, and other rhythm and blues, funk, and soul music centers of production. Relationships between musical forms and cultural issues of 1960s, including Civil Rights Movement, counterculture, black nationalism, capitalism, and separatism, and larger dimensions of African American experience as mediated through groove-based music. Credit for both courses 64 and 164 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "165. Blues and Individual Expression",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 165.) Seminar, two hours. Enforced corequisite: attendance, but not enrollment, in course 65 lecture. Limited to Music History majors and minors. In-depth look at specific blues artists, with special attention to issues of authenticity, biography, personal and group identity, commercialism, musical style, and evolving history of American music and culture in 20th century. Credit for both courses 65 and 165 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "166. Medievalism and Music History",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 166.) Seminar, two hours. Enforced corequisite: attendance, but not enrollment, in course 66 lecture. Exploration of ways in which specific approaches and attitudes to past shape music history, composition, and performance, with special focus on folk music and early music revivals. Credit for both courses 66 and 166 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "168. Selected Topics on Beatles",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 168.) Seminar, two hours. Enforced corequisite: attendance, but not enrollment, in course 68 lecture. Intensive discussion in seminar setting of selected topics associated with Beatles. Credit for both courses 68 and 168 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "170. Beethoven: Study of Selected Works",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 170.) Seminar, 90 minutes. Corequisite: attendance, but not enrollment, in course 70 lecture. Designed to meet needs of students who read music and wish to examine Beethoven's music in greater depth. Credit for both courses 70 and 170 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "172. Selected Topics in Sacred Music",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 172.) Seminar, two hours. Enforced corequisite: attendance, but not enrollment, in course 72 lecture. Introduction to some ways that music has been held to embody, support, and enact sacredness, including experience of god(s), sense of transcendental, work of liturgy, and intersections of music, politics, and religion. Credit for both courses 72 and 172 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "M173. Selected Topics in Music and Religion in Popular Culture",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History M173.) (Same as Ethnomusicology M173.) Seminar, two hours. Enforced corequisite: attendance, but not enrollment, in course M73 lecture. Exploration of connections of music, religion, and popular culture among American Jews and Christians. Credit for both courses M73 and M173 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "177. Selected Topics in Film and Music",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 177.) Seminar, two hours. Enforced corequisite: attendance, but not enrollment, in course 7 lecture. Limited to Music History majors and minors. In-depth exploration of issues in analysis and criticism of music in film. Credit for both courses 7 and 177 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "185. Selected Topics in Rock and Roll",
+      "Number of units": "Units: 5",
+      "Course description": "(Formerly numbered Music History 185.) Seminar, two hours. Enforced corequisite: attendance, but not enrollment, in course 5 lecture. Intensive discussion in seminar setting of selected topics in rock and roll. Credit for both courses 5 and 185 not allowed. Letter grading."
+    },
+    {
+      "course number & title": "CM186. Music Industry",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History CM186.) (Same as Ethnomusicology CM182, Music CM182, and Music Industry M182.) Lecture, four hours; discussion, one hour; outside study, seven hours. Limited to Ethnomusicology, Music, and Music History majors. Examination of influence of music industry on way music is created, performed, listened to, evaluated, and used today. Historical approach taken, beginning with music published in 18th century and continuing through development of audio recordings to MTV and popular music today. Concurrently scheduled with Musicology CM288. Letter grading."
+    },
+    {
+      "course number & title": "187A. Capstone Seminar I: Developing the Project",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History 187A.) Seminar, three hours. Limited to Music History majors in their final year of academic studies. Preparation, creation, and presentation of senior capstone project. Taken in Fall Quarter of senior year. Letter grading."
+    },
+    {
+      "course number & title": "187B. Capstone Seminar II: Creating the Project",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 187B.) Seminar, three hours. Limited to Music History majors in their final year of academic studies. Requisite: course 187A. Preparation, creation, and presentation of senior capstone project. Taken in Winter Quarter of senior year. Letter grading."
+    },
+    {
+      "course number & title": "187C. Capstone Seminar III: Presenting the Project",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History 187C.) Seminar, three hours. Limited to Music History majors in their final year of academic studies. Requisite: course 187B. Preparation, creation, and presentation of senior capstone project. Taken in Spring Quarter of senior year. Letter grading."
+    },
+    {
+      "course number & title": "188. Special Courses in Music History",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 188.) Lecture, four hours. Special topics in music history for undergraduate students taught on temporary basis. Consult Schedule of Classes for topics and instructors. May be repeated for credit. P/NP or letter grading."
+    },
+    {
+      "course number & title": "188SA. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SB. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SC. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 2",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "189. Advanced Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "190. Research Colloquia in Music History",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History 190.) Seminar, two hours. Designed for senior Music History majors. Designed to bring together students undertaking supervised tutorial research in seminar setting with one or more faculty members to complete their capstone projects and share their work with their peers, as well as act as interlocutors for other course members. Students expected to present their work and to discuss and help critique work of others at similar stage of development. They may elect to showcase their work before academic publics (e.g., through organizing one conference or one special publication). Letter grading."
+    },
+    {
+      "course number & title": "191A. Junior Variable Topics Research Seminars: History of Music--Middle Ages",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 191A.) Seminar, three hours. Designed for junior Music History majors. Special aspects of music of each period studied in depth. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "191B. Junior Variable Topics Research Seminars: History of Music--Renaissance",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 191B.) Seminar, three hours. Designed for junior Music History majors. Special aspects of music of each period studied in depth. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "191C. Junior Variable Topics Research Seminars: History of Music--Baroque",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 191C.) Seminar, three hours. Designed for junior Music History majors. Special aspects of music of each period studied in depth. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "191D. Junior Variable Topics Research Seminars: History of Music--Classic",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 191D.) Seminar, three hours. Designed for junior Music History majors. Special aspects of music of each period studied in depth. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "191E. Junior Variable Topics Research Seminars: History of Music--Romantic",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 191E.) Seminar, three hours. Designed for junior Music History majors. Special aspects of music of each period studied in depth. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "191F. Junior Variable Topics Research Seminars: History of Music--20th Century",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 191E.) Seminar, three hours. Designed for junior Music History majors. Special aspects of music of each period studied in depth. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "191G. Junior Variable Topics Research Seminars: History of Music--Other Topics",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 191G.) Seminar, three hours. Designed for junior Music History majors. Special aspects of music of each period studied in depth. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "191P. Junior Variable Topics Seminars: History of Music--Performance Practice",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered Music History 191P.) Seminar, three hours. Designed for junior Music History majors. Special aspects of music of each period studied in depth. Practical issues in performance practice, specific questions of how musical performance intersects with cultural and political performance, and/or general issues of theory of performance in Western musics; proportion of each to be determined by repertory and historical context selected by instructor. Reading, discussion, and development of culminating project. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "193C. Music History Journal Club Seminars for Majors",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History 193C.) Seminar, two hours. Limited to Music History majors. Introduction to discipline through discussion of readings and lectures on current topics in field, with focus especially on its practice at UCLA, and addressing research methodologies and development of bibliographic control. Normally taken in junior year. P/NP grading."
+    },
+    {
+      "course number & title": "193D. Music History Performance/Analysis Seminars for Majors",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered Music History 193D.) Seminar, two hours. Recommended requisite: course 193C. Limited to Music History majors. Introduction to how music historians engage with issues of musical performance. and of how historical concerns, theoretical issues, and methodologies can inform music as practice, especially as it is performed, recorded, listened to, danced to, and otherwise consumed. Continued attention to issues of bibliographic control. Normally taken in senior year. P/NP grading."
+    },
+    {
+      "course number & title": "195. Community Internships in Music",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "(Formerly numbered Music History 195.) Tutorial, one hour; fieldwork, 10 hours. Limited to juniors/seniors. Internship in supervised setting in community agency or business related to music or music history. Students meet on regular basis with instructor and provide periodic reports of their experiences and final project. May be repeated for credit. Individual contract with supervising faculty member required. P/NP grading."
+    },
+    {
+      "course number & title": "197. Individual Studies in Music History",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "(Formerly numbered Music History 197.) Tutorial, two hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "198. Honors Research in Music History",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "(Formerly numbered Music History 198.) Tutorial, two hours. Preparation: completion of minimum of four upper-division music history courses with departmental grade-point average of 3.5 or better and overall GPA of 3.0. Limited to junior/senior Music History majors. One- to two-term independent research study project under supervision of appropriate faculty member, culminating in department honors thesis of approximately 25 pages. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "199. Directed Research in Music History",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "(Formerly numbered Music History 199.) Tutorial, one hour. Preparation: 3.0 grade-point average. Limited to junior/senior Music History majors. Supervised individual research under guidance of faculty mentor. Culminating paper or project required. May be repeated for maximum of 8 units. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "200A. Introduction to Music Scholarship",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours. Designed for graduate musicology, ethnomusicology, and music students. Introduction to history of different fields of music scholarship (with strong focus on musicology) and to selected debates in those fields. Practical tools for research, logic and structure of arguments, evidence, critical thinking and critique, historiography, rhetoric and voice, and archival and ethnographic research. Introduction to practical written forms such as abstract, grant proposal, paper/book proposal, and review. Letter grading."
+    },
+    {
+      "course number & title": "200B. Critical, Cultural, and Social Theory",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours. Designed for graduate musicology, ethnomusicology, and music students. Introduction to issues surrounding music as social, cultural, and historical practice, with strong emphasis on critical, cultural, and social theory. May include introduction to social theory, materialist theories of culture, postcolonialism, critical theory, or overview of cultural theory or of group of theories selected by instructor, including feminism, performance studies, sociology, historiography, urban studies, anthropology, philosophy, psychoanalysis, poststructuralism, gender, race, and sexuality studies, lesbian, gay, bisexual, transgender, and queer studies, disability studies, and so on. Introduction to set body of theory in its relation to study of music. Letter grading."
+    },
+    {
+      "course number & title": "200C. Music Aesthetics, Analysis, and Philosophy",
+      "Number of units": "Units: 6",
+      "Course description": "Seminar, three hours. Designed for graduate musicology, ethnomusicology, and music students. Exploration of selected philosophical, aesthetic, and/or analytical perspectives on music to gain insight into selected analytical and philosophical approaches to phenomenon of music and to acquire skills in analyzing and interpreting variety of repertoires. Letter grading."
+    },
+    {
+      "course number & title": "M201. Repertory and Analysis",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Music M201.) Seminar, two hours. Requisite or corequisite: course 200A. Exploration of defined repertory through readings and analysis. Specific topics vary. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "245. Seminar: Analytical/Repertoire Topics",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Designed for graduate musicology students. Coverage of analytical topics that vary from year to year. May be repeated for credit. Meets with course 246; concurrent enrollment in both courses not allowed. Letter grading."
+    },
+    {
+      "course number & title": "246. Audit Seminar: Analytical/Repertoire Topics",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Requisite or corequisite: course 200A. Specific topics vary from year to year. May not be applied toward MA or PhD degree requirements. May be repeated for credit. Meets with course 245; concurrent enrollment in both courses not allowed. S/U grading."
+    },
+    {
+      "course number & title": "248. Seminar: Special Topics in Musicology",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Exploration of topics in musicology through variety of approaches that may include historical, theoretical, or analytical approaches to subjects within musicology. Topics announced in advance. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "250. Seminar: Theoretical Topics",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Designed for graduate musicology students. Coverage of theoretical topics that vary from year to year. May be repeated for credit. Meets with course 251; concurrent enrollment in both courses not allowed. Letter grading."
+    },
+    {
+      "course number & title": "251. Audit Seminar: Theoretical Topics",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Requisite or corequisite: course 200A. Specific topics vary from year to year. May not be applied toward MA or PhD degree requirements. May be repeated for credit. Meets with course 250; concurrent enrollment in both courses not allowed. S/U grading."
+    },
+    {
+      "course number & title": "255. Seminar: Historical Topics",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Designed for graduate musicology students. Coverage of historical topics that vary from year to year. May be repeated for credit. Meets with course 256; concurrent enrollment in both courses not allowed. Letter grading."
+    },
+    {
+      "course number & title": "256. Audit Seminar: Historical Topics",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Requisite or corequisite: course 200A. Specific topics vary from year to year. May not be applied toward MA or PhD degree requirements. May be repeated for credit. Meets with course 255; concurrent enrollment in both courses not allowed. S/U grading."
+    },
+    {
+      "course number & title": "259. Audit Seminar: Mapping Sonic Urban Geography of Los Angeles in 1940s",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, three hours. Limited to departmental graduate students and those in Urban Humanities Certificate Program. Exploration of methodologies and conceptual frameworks for mapping sonic urban geography of Los Angeles in 1940s. In-depth critical discussion of current theories of music and space and of most recently developed methodologies for undertaking ethnographic or anthropological study of sound, including recording and mapping soundscapes. May not be applied toward MA or PhD degree requirements. May be repeated for credit. Meets with course 260; concurrent enrollment in both courses not allowed. S/U grading."
+    },
+    {
+      "course number & title": "260. Mapping Sonic Urban Geography of Los Angeles in 1940s",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Limited to departmental graduate students and those in Urban Humanities Certificate Program. Exploration of methodologies and conceptual frameworks for mapping sonic urban geography of Los Angeles in 1940s. In-depth critical discussion of current theories of music and space and of most recently developed methodologies for undertaking ethnographic or anthropological study of sound, including recording and mapping soundscapes. Letter grading."
+    },
+    {
+      "course number & title": "261. Topics in Performance Practice",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Designed for graduate students. Investigation of primary source readings in performance practices across history of Western music; analytical reports and practical applications in class demonstrations. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "CM288. Music Industry",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Ethnomusicology CM288 and Music CM282.) Lecture, four hours; discussion, one hour; outside study, seven hours. Limited to Ethnomusicology, Music, and Musicology majors. Examination of influence of music industry on way music is created, performed, listened to, evaluated, and used today. Historical approach taken, beginning with music published in 18th century and continuing through development of audio recordings to MTV and popular music today. Concurrently scheduled with course CM186. Letter grading."
+    },
+    {
+      "course number & title": "291. Teaching Western Musical Canon",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Workshop series designed to prepare graduate musicology students to teach Western musical canon at undergraduate level. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "296. Research Topics in Musicology",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Seminar, two to four hours. Preparation: consultation with instructor. Designed for graduate musicology students. Advanced study and analysis of current topics in musicology. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "298. Seminar: Research Methods",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Limited to second-year graduate musicology students and students with master's degrees. Development of advanced knowledge and bibliographic control in three historically separate areas of musicological specialization. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "299. Dissertation Research Colloquium",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Preparation: advancement to Ph.D. candidacy. Presentation of ongoing dissertation research. Analysis and discussion of presentations. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "375. Teaching Apprentice Practicum",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "C490T. Early Music Ensemble",
+      "Number of units": "Units: 4",
+      "Course description": "Activity, four hours. Preparation: audition. Group performance of Western vocal and instrumental music from historical periods prior to 1800. Early instruments may be used at instructor's discretion. May be repeated for credit without limitation. May be concurrently scheduled with course CM90T. S/U or letter grading."
+    },
+    {
+      "course number & title": "495. Introductory Practicum for Teaching Apprentices in Musicology",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Preparation: appointment as teaching apprentice in Music or Musicology Department. Required of all new teaching apprentices. Special course dealing with problems and practices of teaching music at college level. May not be applied toward degree requirements. S/U grading."
+    },
+    {
+      "course number & title": "596. Directed Individual Studies in Musicology",
+      "Number of units": "Units: 2 to 6",
+      "Course description": "Tutorial, to be arranged. Limited to graduate students. S/U or letter grading."
+    },
+    {
+      "course number & title": "597. Preparation for MA Comprehensive Examination or PhD Qualifying Examinations",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Tutorial, to be arranged. Preparation: completion of all MA or PhD course and language requirements. Limited to graduate students. S/U grading."
+    },
+    {
+      "course number & title": "599. Guidance of PhD Dissertation",
+      "Number of units": "Units: 4 to 12",
+      "Course description": "Tutorial, to be arranged. Preparation: advancement to Ph.D. candidacy. Limited to graduate students. May be repeated for credit. S/U grading."
+    }
+  ]
+}

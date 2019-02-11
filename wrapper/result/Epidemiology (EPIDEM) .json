@@ -1,0 +1,340 @@
+{
+  "subject": "Epidemiology (EPIDEM) ",
+  "course": [
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "100. Principles of Epidemiology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours. Preparation: one full biological sciences course. Not open for credit to students with credit for course 200A, 200B, or 200C. Introduction to epidemiology, including factors governing health and disease in populations. Letter grading."
+    },
+    {
+      "course number & title": "CM175. Terrorism, Counterterrorism, and Weapons of Mass Destruction: Practical Approach",
+      "Number of units": "Units: 5",
+      "Course description": "(Same as Honors Collegium M175.) Seminar, three hours. Terrorism, its origins, and ways of addressing terrorism at local, national, and global levels. Guest speakers from variety of UCLA departments and from Los Angeles. Concurrently scheduled with course C275. P/NP or letter grading."
+    },
+    {
+      "course number & title": "188SA. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SB. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SC. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 2",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "197. Individual Studies in Epidemiology",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, four hours. Limited to juniors/seniors. Individual intensive study, with scheduled meetings to be arranged between faculty member and student. Assigned reading and tangible evidence of mastery of subject matter required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "200A. Methods I: Basic Concepts and Study Designs",
+      "Number of units": "Units: 6",
+      "Course description": "Lecture, six hours; discussion, four hours. Enforced requisite or corequisite: Biostatistics 100A. Introduction to basic concepts, principles, and methods of chronic and infectious disease epidemiology. Letter grading."
+    },
+    {
+      "course number & title": "200B. Methods II: Prediction and Validity",
+      "Number of units": "Units: 6",
+      "Course description": "Lecture, six hours; discussion, four hours. Enforced requisites: course 200A, Biostatistics 100A, 100B. Introduction to basic concepts, principles, and methods of chronic and infectious disease epidemiology. Letter grading."
+    },
+    {
+      "course number & title": "200C. Methods III: Analysis",
+      "Number of units": "Units: 6",
+      "Course description": "Lecture, four hours; laboratory, two hours. Enforced requisites: courses 200A, 200B. Introduction to basic concepts, principles, and methods of epidemiologic data analysis. Letter grading."
+    },
+    {
+      "course number & title": "203. Topics in Theoretical Epidemiology  ",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Selected topics from current research areas in epidemiologic theory and quantitative methods. Topics selected from biologic models, epidemiologic models, problems in inference, model specification problems, design issues, analysis issues, and confounding. May be repeated for credit with consent of instructor. S/U grading."
+    },
+    {
+      "course number & title": "M204. Logic, Causation, and Probability",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Statistics M243.) Lecture, four hours. Preparation: two terms of statistics or probability and statistics. Recommended requisite: course 200C. Principles of deductive logic and causal logic using counterfactuals. Principles of probability logic and probabilistic induction. Causal probability logic using directed acyclic graphs. S/U or letter grading."
+    },
+    {
+      "course number & title": "M211. Statistical Methods for Epidemiology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Statistics M250.) Lecture, four hours. Preparation: two terms of statistics (such as Biostatistics 100A, 100B). Enforced requisites: courses 200B, 200C. Concepts and methods tailored for analysis of epidemiologic data, with emphasis on tabular and graphical techniques. Expansion of topics introduced in courses 200B and 200C and introduction of new topics, including principles of epidemiologic analysis, trend analysis, smoothing and sensitivity analysis. S/U or letter grading."
+    },
+    {
+      "course number & title": "212. Statistical Modeling in Epidemiology",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered M212.) Lecture, four hours. Preparation: two terms of statistics (three terms recommended). Recommended: course M204 or M211. Principles of modeling, including meanings of models, a priori model specification, translation of models into explicit population assumptions, model selection, model diagnostics, hierarchical (multilevel) modeling. S/U or letter grading."
+    },
+    {
+      "course number & title": "215. Systematic Review and Meta-Analysis",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Requisites: courses 200A, 200B, Biostatistics 100A. Offers theoretical and practical understanding of systematic reviews and meta-analysis of clinical trials and observational studies. Students learn how to conduct systematic literature search, assess quality of selected studies, identify sources of heterogeneity, conduct meta-analysis, and understand standards of reporting on meta-analyses. Offers practical training in meta-analyses and meta-regression using STATA software. Letter grading."
+    },
+    {
+      "course number & title": "M216. Applied Sampling",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Statistics CM248.) Lecture, three hours; discussion, one hour. Designed for upper-division and graduate students in social or life sciences and those who plan to major in Statistics. Topics include methods of sampling from finite populations, sources of sampling and estimation bias, and methods of generating efficient and precise estimates of population characteristics. Practical applications of sampling methods via lectures and hands-on laboratory exercises. S/U or letter grading."
+    },
+    {
+      "course number & title": "M218. Questionnaire Design and Administration",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Community Health Sciences M218.) Lecture, four hours. Requisites: courses 200B and 200C, or Community Health Sciences 211A and 211B. Design, testing, field use, and administration of data collection instruments, with particular emphasis on questionnaires. Letter grading."
+    },
+    {
+      "course number & title": "220. Principles of Infectious Disease Epidemiology  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100 or 200A. Ascertainment of infection, transmission, and epidemiological parameters rather than clinical and pathological aspects. Specific diseases discussed in depth to illustrate epidemiologic principles. S/U or letter grading."
+    },
+    {
+      "course number & title": "M226. Global Health Measures for Biological Emergencies",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Ecology and Evolutionary Biology M226.) Lecture, four hours. Requisite: course 220. Mitigation of bioterrorism falls outside traditional public health programs and public health graduate education. Because of seriousness of such threats, it is important that individuals trained in public health understand problems and responses. Letter grading."
+    },
+    {
+      "course number & title": "227. AIDS: Major Public Health Challenge",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Requisites: courses 200A, 200B, and 200C (or 100), Biostatistics 100A. Presentation of epidemiologic, biologic, psychological, and clinical characteristics of AIDS and HIV-1 infection. Discussion of policy implications and intervention strategies. S/U or letter grading."
+    },
+    {
+      "course number & title": "228. Biology of HIV  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Preparation: two biology courses. Requisites: course 100, Biostatistics 100A. Overview of virologic and immunologic aspects of HIV disease for epidemiology or other health disciplines. Brief discussion of clinical manifestations and biosafety in laboratory. Letter grading."
+    },
+    {
+      "course number & title": "M229. Epidemiology of Foodborne Illnesses",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 229.) (Same as Environmental Health Sciences M229.) Lecture, four hours. Requisites: courses 200A, 200B, and 200C (or 100), Biostatistics 100A. Food poisoning is significant cause of morbidity and mortality in both developing and developed world. Examination of etiologic agents of food poisoning and factors specific to foods that allow them to become agents of disease transmission. S/U or letter grading."
+    },
+    {
+      "course number & title": "230. Epidemiology of Sexually Transmitted Diseases  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Requisites: courses 200A, 200B, and 200C (or 100). Sexually transmitted diseases; medical/biological aspects, epidemiology and control in developed and developing countries. S/U or letter grading."
+    },
+    {
+      "course number & title": "231. Principles of Control of Infectious Diseases",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Comprehensive study of tools for control of infectious diseases and application of these tools in public health programs to achieve epidemiologic impact on disease reduction, elimination, or eradication. Letter grading."
+    },
+    {
+      "course number & title": "232. Methods in Research of Marginalized and Hidden Populations",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Requisites: courses 200A, 200B, and 200C (or 100). Introduction to range of different methodologies used to collect data and conduct analysis on reproductive epidemiology topics, including methods that produce quantitative data and methods that produce qualitative data, with emphasis on use of methods appropriate for challenging and sensitive research topics such as sexual behavior, abortion use, and sexual abuse. Letter grading."
+    },
+    {
+      "course number & title": "233. Communicable Disease Epidemiology in Corrections",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Requisites: courses 200A and 200B (or 100). Overview of communicable disease epidemiology, public health program, and research issues specific to correctional population in U.S., including factors that contribute to transmission of communicable pathogens such as mental health, homelessness, and community reintegration. Legal and ethical issues related to healthcare among incarcerated and potential effects on community health. S/U or letter grading."
+    },
+    {
+      "course number & title": "240. Cardiovascular Epidemiology  ",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Topics include definition, pathogenesis, descriptive epidemiology, magnitude of risk factors, strategies for prevention, lipoprotein metabolism, and epidemiology of diabetes, hypertension, and chronic lung disease. Letter grading."
+    },
+    {
+      "course number & title": "242. Cancer Epidemiology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Requisites: courses 200A, 200B, and 200C (or 100). Introduction to basic concepts of cancer and molecular and genetic epidemiology. Review of current epidemiologic research in cancer in recent medical and epidemiological literature. Research proposal on cancer-related topic required. S/U or letter grading."
+    },
+    {
+      "course number & title": "243. Molecular Epidemiology of Cancer",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Requisite: course 242 or 295. Introduction to basic concepts and methodology of molecular epidemiology of cancer and review of current molecular epidemiologic research of cancer in recent medical and epidemiological literature. S/U or letter grading."
+    },
+    {
+      "course number & title": "244. Research Methods in Cancer Epidemiology  ",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Requisites: courses 200A, 200B, and 200C (or 100), Biostatistics 100A. Biologic, quantitative, philosophical, and administrative considerations in epidemiologic cancer research. Hypothesis specification and choice of study design. Uses of descriptive epidemiology, cohort studies, case control studies. Clustering, screening, and cancer control. Means of identifying subjects and controls. Design of instruments. Sources of bias and confounding. S/U or letter grading."
+    },
+    {
+      "course number & title": "245. Epidemiology of Infections and Cancer",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Enforced requisite: course 100 or 200A. Recommended: courses 220, 242, 243. Introduction to best documented associations between infectious agents and human cancer. Topics include burden of disease, biology and natural history of infectious agents, carcinogenic mechanisms, environmental and genetic cofactors, prevention and methodological issues. S/U or letter grading."
+    },
+    {
+      "course number & title": "246. Epidemiology of Aging",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Epidemiologic methods of estimating present and future burdens of aging: morbidity, disability, and dependency. Epidemiology of major disabling conditions affecting elderly. Evaluation of possible intervention strategies. Methodologic issues in geriatric epidemiology. S/U or letter grading."
+    },
+    {
+      "course number & title": "247. Lifecourse Epidemiology",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Requisites: course 100 or 200A, Biostatistics 100A, 100B, or equivalent, or consent of instructor. Introduction to concepts and methods for studying lifecourse determinants of health and disease. Consideration of how exposures at one stage of human lifespan influence health outcomes at multiple life stages. Analytical approaches to research on lifecourse determinants of health. S/U or letter grading."
+    },
+    {
+      "course number & title": "249. Genetic Epidemiology I",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Preparation: at least one course in epidemiology, biostatistics, and genetics. Basic concepts in emerging field of genetic epidemiology, with principal focus on genetic study of complex diseases, determining genetic contributions to disease, identifying genes, and characterizing their main effects and interactions with environmental factors. S/U or letter grading."
+    },
+    {
+      "course number & title": "M252. Epidemiologic Methods in Violent Injury",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Environmental Health Sciences M211.) Lecture, four hours. Requisites: courses 200A, 200B, and 200C (or 100). Description and critical evaluation of epidemiologic methods in approaches to understanding incidence risk factors and prevention strategies of violence and violence-related injury. Letter grading."
+    },
+    {
+      "course number & title": "M254. Nutritional Epidemiology I",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Community Health Sciences M251.) Lecture, two hours; discussion/laboratory exercise, one hour. Preparation: introductory biostatistics and epidemiology courses. Review of all aspects of contemporary nutrition sciences that require application of epidemiologic principles and methods, ranging from food-borne outbreak investigation to evidence-based regulatory assessment of health claims for foods. Experience in actual world of collecting, analyzing, and interpreting data related to nutrition and health or disease outcomes. S/U or letter grading."
+    },
+    {
+      "course number & title": "260. Environmental Epidemiology  ",
+      "Number of units": "Units: 2 or 4",
+      "Course description": "Lecture, three hours. Requisites: courses 200A, 200B, and 200C (or 100). Epidemiologic methods applied to evaluation of human health consequences of environmental hazards. Topics include air pollution, pesticides, drinking water contaminants, use of GIS. Review of recently completed environmental studies published in peer-reviewed literature. S/U or letter grading."
+    },
+    {
+      "course number & title": "M261. Occupational Epidemiology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Environmental Health Sciences M260.) Lecture, three hours. Requisites for majors: courses 200A, 200B, 200C; for nonmajors: course 100. Methodological considerations, approaches, and limitations in epidemiological studies of occupational groups and environments. S/U or letter grading."
+    },
+    {
+      "course number & title": "265. Epidemiologic Methods in Occupational and Environmental Health",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Introduction to epidemiologic methods applied to evaluation of human health consequences of occupational and environmental hazards, including study design, exposure assessment, and statistical techniques commonly encountered in research focused on assessing adverse health effects resulting from occupational and environmental exposures. Topics include clusters, meta-analysis, risk assessment, and policy development. Illustrated by case studies, with focus on techniques to critically evaluate and interpret current literature. Letter grading."
+    },
+    {
+      "course number & title": "266. Global Health and Tropical Medicine",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Introduction to tropical diseases and global health. How humanitarian health issues, maternal-child health, research in tropics, World Health Organizations, and political/medical constraints all are related with respect to health on worldwide scale. Letter grading."
+    },
+    {
+      "course number & title": "267. Methodologic Issues in Reproductive Epidemiology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. General discussion of methodologic issues important to epidemiologic studies of reproductive outcomes, including fertility, low birth weight, prematurity, birth defects, pregnancy loss, and perinatal mortality. Approaches to study design and exposure assessment and identification of potential sources of bias illustrated through review of recent studies published in literature and with particular focus on occupational and environmental exposures and birth cohorts. S/U or letter grading."
+    },
+    {
+      "course number & title": "268. Introduction to Pharmacoepidemiology",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Requisites: courses 200A, 200B, 200C. Pharmacoepidemiology is application of epidemiologic knowledge, reasoning, and methods to study of effects and uses of drugs. Survey of contemporary roles of pharmacoepidemiology in drug development and public health, with historical background of its evolution and projections of future prospects. S/U or letter grading."
+    },
+    {
+      "course number & title": "270. Behavioral Epidemiology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Requisite: course 100 or 200A. Introduction to range of different methodologies used to collect data and conduct analyses on behaviors studied in epidemiology research. How to collect, analyze, and interpret data on behaviors that can be associated with disease outcomes, including methods to collect survey data (i.e., design of questionnaires, interviewing techniques, use of technology to collect data) and methods to collect and analyze qualitative data (e.g., ethnographic interviews, focus groups, systematic observations). Overview information on epidemiology of key behavioral factors affecting human health, including sexual risk behaviors, substance use, physical activity, and healthcare utilization. S/U or letter grading."
+    },
+    {
+      "course number & title": "M272. Social Epidemiology  ",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Community Health Sciences M272.) Lecture, two hours; discussion, one hour. Requisite: course 100. Relationship between sociological, cultural, and psychosocial factors in etiology, occurrence, and distribution of morbidity and mortality. Emphasis on lifestyles and other socioenvironmental factors associated with general susceptibility to disease and subsequent mortality. Letter grading."
+    },
+    {
+      "course number & title": "M273. Responsible Conduct of Research in Global Health",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Public Health M273.) Lecture, two hours. Requisite: Community Health Sciences 200. Introduction to fundamental principles of public health ethics, current ethical procedures, guidelines, and requirements, and ethical issues facing public health professionals working in developing countries. History of public health issues, unique ethical issues of research in developing countries, analysis of ethical implications of informed consent, responsibility to study community, mechanisms of study approval, role of funders, and role and responsibilities of review boards. S/U or letter grading."
+    },
+    {
+      "course number & title": "C275. Terrorism, Counterterrorism, and Weapons of Mass Destruction: Practical Approach",
+      "Number of units": "Units: 5",
+      "Course description": "Seminar, three hours. Terrorism, its origins, and ways of addressing terrorism at local, national, and global levels. Guest speakers from variety of UCLA departments and from Los Angeles. Concurrently scheduled with course CM175. S/U or letter grading."
+    },
+    {
+      "course number & title": "291. Seminar: Special Topics in Epidemiology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Requisites: courses 200A, 200B, and 200C (or 100). Review of current epidemiologic research contained in recent medical literature. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "292. Advanced Seminar: Epidemiology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Requisites: courses 200A, 200B, 200C. Current research in epidemiology. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "293. International HIV/AIDS Seminar  ",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Ongoing discussion of worldwide pandemic of HIV/AIDS, with emphasis on problems of surveillance, reporting, and intervention. Discussion of recent literature. Presentations by fellows from other countries. S/U grading."
+    },
+    {
+      "course number & title": "295. Seminar: Epidemiology--Cancer",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Requisites: courses 200A, 200B, and 200C (or 100). Introduction of basic concepts of cancer epidemiology and review of current epidemiological research in cancer in recent medical and epidemiological literature. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "375. Teaching Apprentice Practicum",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "400. Field Studies in Epidemiology",
+      "Number of units": "Units: 4",
+      "Course description": "Fieldwork, to be arranged. Field observation and studies in selected community organizations for health promotion or medical care. Students must file field placement and program training documentation on form available from Student Affairs Office. May not be applied toward M.S. minimum course requirement; 4 units may be applied toward 44-unit minimum total required for M.P.H. degree. Letter grading."
+    },
+    {
+      "course number & title": "M403. Computer Management and Analysis of Health Data Using SAS",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biostatistics M403B.) Lecture, two hours; laboratory, two hours. Requisites: Biostatistics 100A, 100B (100B may be taken concurrently). Introduction to practical issues in management and analysis of health data using SAS programming language. Cross-sectional and longitudinal population-based data sets to be used throughout to illustrate principles of data management and analysis for addressing biomedical and health-related hypotheses. Letter grading."
+    },
+    {
+      "course number & title": "404. Advanced SAS Techniques for Management and Analysis of Epidemiologic Data",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, three hours. Requisite: course M403 or 410. Hands-on experience with SAS 9.2/9.3, with focus on using SAS data and PROC steps efficiently to manage, clean, analyze, and tabulate epidemiologic data from data collection systems. Common issues and solutions in data management, including lack of documentation, data definitions, unique subject identifiers, and nonstandard data formats. S/U or letter grading."
+    },
+    {
+      "course number & title": "407A. Epidemiologic Research Using R",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours; discussion, one hour. Requisites: courses 200A, 200B, 200C or consent of instructor. Designed to broadly offer R coding experience, with emphasis on data management, visualization, and analysis. Introduction of new concepts each week through guided interactive tutorials with working examples. S/U or letter grading."
+    },
+    {
+      "course number & title": "407B. Applied Epidemiologic Research Using R",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Requisite: course 407A. Designed to broadly offer R coding experience, with emphasis on data management, data description using tables and figures, and data analysis. Introduction of various concepts with data to facility interactive learning each week through guided R programming tutorials. Weekly R data analysis, in which students present their research and data analysis progress using real data. Each student performs secondary data analysis and prepares abstract, brief introduction, methods, and results part of submittable brief communication paper. S/U or letter grading."
+    },
+    {
+      "course number & title": "410. Management of Epidemiologic Data  ",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Data management for various epidemiologic study designs, confidentiality concerns; data management systems; introduction to mainframe computer. S/U or letter grading."
+    },
+    {
+      "course number & title": "412. Public Health Surveillance",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Requisites: courses 200A, 200B, and 200C (or 100), Biostatistics 100A. Overview of public health surveillance methodology, including (1) design, implementation, and evaluation of surveillance systems, (2) analysis and interpretation of surveillance data, and (3) application of surveillance methods to specific health-related outcomes. S/U or letter grading."
+    },
+    {
+      "course number & title": "413. Methods of Scientific Communication",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Requisite: course 100 or 200A. Principles of scientific writing and communication. Approaches to developing effective written, oral, and visual presentations of epidemiologic research findings. Communication issues arising in conduct of research, including informed consent process. S/U or letter grading."
+    },
+    {
+      "course number & title": "420. Field Trials of Health Interventions in Low-Resource Settings",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Requisite: course 100, or 200A and 200B. Introduction to practical concepts and issues in conducting epidemiologic field research in developing countries, including formulating research questions, study site selection, ethical considerations, and logistics of data and specimen collection. S/U or letter grading."
+    },
+    {
+      "course number & title": "495. Teacher Preparation in Epidemiology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Preparation: 18 units of cognate courses in area of specialization. May not be applied toward master's degree minimum total course requirement. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "501. Cooperative Program",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. Preparation: consent of UCLA graduate adviser and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. No more than 8 units may be applied toward master's degree minimum total course requirement; may not be applied toward minimum graduate course requirement. S/U grading."
+    },
+    {
+      "course number & title": "596. Directed Individual Study or Research  ",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. Limited to graduate students. Individual guided studies under direct faculty supervision. Only 4 units may be applied toward M.P.H. and M.S. minimum total course requirement. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "597. Preparation for Master's Comprehensive or Doctoral Qualifying Examinations",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Limited to graduate students. May not be applied toward any degree course requirements. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "598. Master's Thesis Research",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. Only 4 units may be applied toward M.P.H. and M.S. minimum total course requirement; may not be applied toward minimum graduate course requirement. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "599. Doctoral Dissertation Research  ",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. May not be applied toward any degree course requirements. May be repeated for credit. S/U grading."
+    }
+  ]
+}

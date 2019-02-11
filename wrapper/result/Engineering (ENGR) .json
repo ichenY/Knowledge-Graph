@@ -1,0 +1,315 @@
+{
+  "subject": "Engineering (ENGR) ",
+  "course": [
+    {
+      "course number & title": "10A. Introduction to Complex Systems Science",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, four hours; outside study, eight hours. How macroscopic patterns emerge dynamically from local interactions of large number of interdependent (often heterogeneous) entities, without global design or central control. Such emergent order, whose explanation cannot be reduced to explanations at level of individual entities, is ubiquitous in biology and human social collectives, but also exists in certain physical processes such as earthquakes and some chemical reactions. Complexity also deals with how such systems undergo sudden changes, including catastrophic breakdowns, in absence of external force or central influence. Key aspect of biological and social collectives is their nature as complex adaptive systems, where individuals and groups adjust their behavior to external conditions. In biological and social systems, complexity science goes beyond traditional mathematics and statistics in its use of multiagent computational models that better capture these complex, adaptive, and self-organizing phenomena. Letter grading."
+    },
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "20. First-Year Engineering Transition Bridge",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, 32 hours. Designed primarily for new students to help them understand UCLA, its culture, structure, and academic policies and to facilitate their transition from high school to college. Examination of research on first-year experience of college students, studying at UCLA versus high school, policies and procedures, and campus resources. Advanced preparation and early exposure to Fall Quarter mathematics, chemistry, and computer science curricula. Collaborative learning techniques and community-building activities are integral processes to both day and evening programs. Intensive classroom instruction and collaborative learning workshops. Offered in summer only. P/NP grading."
+    },
+    {
+      "course number & title": "21. Computing Immersion Summer Experience",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, 32 hours. Designed primarily for new students to help them understand UCLA, its culture, structure, and academic policies and to facilitate their transition from high school to college. Examination of research on first-year experience of college students, studying at UCLA versus high school, policies and procedures, and campus resources. Designed to immerse incoming computing students in foundation concepts and principles of computer science, with focus on fundamental computer programming principles, methodologies, and techniques. Basic concepts of programming and C++ computing language. Offered in summer only. P/NP grading."
+    },
+    {
+      "course number & title": "22. Summer Bridge Review for Enhancing Engineering Students",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, 32 hours. Designed primarily for new students to help them understand UCLA, its culture, structure, and academic policies and to facilitate their transition from high school to college. Examination of research on first-year experience of college students, studying at UCLA versus high school, policies and procedures, and campus resources. Intensive introduction of advanced topics covered in upper-division engineering courses. Offered in summer only. P/NP grading."
+    },
+    {
+      "course number & title": "87. Introduction to Engineering Disciplines  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, four hours; outside study, four hours. Introduction to engineering as professional opportunity for freshman students by exploring difference between engineering disciplines and functions engineers perform. Development of skills and techniques for academic excellence through team process. Investigation of national need underlying current effort to increase participation of historically underrepresented groups in U.S. technological work force. Letter grading."
+    },
+    {
+      "course number & title": "95. Internship Studies in Engineering",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, two to four hours. Limited to freshmen/sophomores. Internship studies course supervised by associate dean or designated faculty members. Further supervision to be provided by organization for which students are doing internship. Students may be required to meet on regular basis with instructor and provide periodic reports of their experience. May not be applied toward major requirements. May be repeated for credit. Individual contract with associate dean required. P/NP grading."
+    },
+    {
+      "course number & title": "96A. Introduction to Engineering Design",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered 96.) Lecture, one hour; laboratory, one hour; outside study, four hours. Introduction to engineering design while building teamwork and communication skills and examination of engineering majors offered at UCLA and of engineering careers. Completion of hands-on engineering design projects, preparation of short report describing projects, and presentation of results. Specific project details and relevant majors explored vary with instructor. Letter grading."
+    },
+    {
+      "course number & title": "96B. Introduction to Engineering Design: Digital Imaging",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; laboratory, one hour; outside study, four hours. Recommended for undergraduate Aerospace Engineering, Bioengineering, Computer Science, Electrical Engineering, and Mechanical Engineering majors. Introduction to engineering design while building teamwork and communication skills and examination of engineering majors offered at UCLA and of engineering careers. Hands-on experience with state-of-art solid-state imaging devices. How to focus, expose, record, and manipulate telescopic images. Development of photographic technology from early chemical experiments to wide spread use of cell phone camera. Completion of hands-on engineering design projects, preparation of short report describing projects, and presentation of results. Letter grading."
+    },
+    {
+      "course number & title": "96C. Introduction to Engineering Design: Internet of Things",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, one hour; laboratory, one hour; outside study, four hours. Recommended for undergraduate Aerospace Engineering, Bioengineering, Computer Science, Electrical Engineering, and Mechanical Engineering majors. Introduction to engineering design while building teamwork and communication skills and examination of engineering majors offered at UCLA and of engineering careers. Hands-on experience with state-of-art Internet of things (IoT) technology to offer students opportunity to rapidly develop innovative and inspiring systems that provide ideal introduction to computing systems and IoT applications specific to their major field. IoT technology has become one of most important advances in technology history with applications ranging from wearable devices for healthcare to residential monitoring systems, natural resource protection and management, intelligent vehicles and transportation systems, robotics systems, and energy conservation. Completion of hands-on engineering design projects, preparation of short report describing projects, and presentation of results. Letter grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "M101. Principles of Nanoscience and Nanotechnology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Materials Science M105.) Lecture, four hours; discussion, one hour; outside study, seven hours. Enforced requisites: Chemistry 20A, 20B, Physics 1C. Introduction to underlying science encompassing structure, properties, and fabrication of technologically important nanoscale systems. New phenomena that emerge in very small systems (typically with feature sizes below few hundred nanometers) explained using basic concepts from physics and chemistry. Chemical, optical, and electronic properties, electron transport, structural stability, self-assembly, templated assembly and applications of various nanostructures such as quantum dots, nanoparticles, quantum wires, quantum wells and multilayers, carbon nanotubes. Letter grading."
+    },
+    {
+      "course number & title": "102. Synthetic Biosystems and Nanosystems Design",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: course M101, Life Sciences 3. Introduction to current progress in engineering to integrate biosciences and nanosciences into synthetic systems, where biological components are reengineered and rewired to perform desirable functions in both intracellular and cell-free environments. Discussion of basic technologies and systems analysis that deal with dynamic behavior, noise, and uncertainties. Design project in which students are challenged to design novel biosystems and nanosystems for nontrivial task required. Letter grading."
+    },
+    {
+      "course number & title": "M103. Environmental Nanotechnology: Implications and Applications",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Civil Engineering M165.) Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: course M101. Introduction to potential implications of nanotechnology to environmental systems as well as potential application of nanotechnology to environmental protection. Technical contents include three multidisciplinary areas: (1) physical, chemical, and biological properties of nanomaterials, (2) transport, reactivity, and toxicity of nanoscale materials in natural environmental systems, and (3) use of nanotechnology for energy and water production, plus environmental protection, monitoring, and remediation. Letter grading."
+    },
+    {
+      "course number & title": "110. Introduction to Technology Management and Economics for Engineers",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Fundamental principles of micro-level (individual, firm, and industry) and macro-level (government, international) economics as they relate to technology management. How individuals, firms, and governments impact successful commercialization of high technology products and services. Letter grading."
+    },
+    {
+      "course number & title": "111. Introduction to Finance and Marketing for Engineers",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Critical components of finance and marketing research and practice as they impact management of technology commercialization. Internal (within firm) and external (in marketplace) marketing and financing of high-technology innovation. Concepts include present value, future value, discounted cash flow, internal rate of return, return on assets, return on equity, return on investment, interest rates, cost of capital, and product, price, positioning, and promotion. Use of market research, segmentation, and forecasting in management of technological innovation. Letter grading."
+    },
+    {
+      "course number & title": "112. Laboratory to Market, Entrepreneurship for Engineers",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Critical components of entrepreneurship, finance, marketing, human resources, and accounting disciplines as they impact management of technology commercialization. Topics include intellectual property management, team building, market forecasting, and entrepreneurial finance. Students work in small teams studying technology management plans to bring new technologies to market. Students select from set of available technology concepts, many generated at UCLA, that are in need of plans for movement from laboratory to market. Letter grading."
+    },
+    {
+      "course number & title": "113. Product Strategy",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour; outside study, seven hours. Designed for juniors/seniors. Introduction to current management concept of product development. Topics include product strategy, product platform, and product lines; competitive strategy, vectors of differentiation, product pricing, first-to-market versus fast-follower; growth strategy, growth through acquisition, and new ventures; product portfolio management. Case studies, class projects, group discussions, and guest lectures by speakers from industry. Letter grading."
+    },
+    {
+      "course number & title": "116. Statistics for Management Decisions",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Management as well as engineering decisions nearly always take place in environment characterized by uncertainty. Probability provides mathematical framework for understanding how to make rational decisions when outcomes of actions are uncertain. Application of probability to problem of reasoning from sample data, encompassing estimation, hypothesis testing, and regression analysis. Discussion of specific analytical techniques needed in later courses in program. Development of basic understanding of statistical analysis. Letter grading."
+    },
+    {
+      "course number & title": "120. Entrepreneurship for Scientists and Engineers",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours; outside study, four hours. Designed for seniors and graduate students. Identification of business opportunities and outline of basic requisites for viable business plans, followed by specific topics related to securing basic assets and resources needed to execute those plans. P/NP grading."
+    },
+    {
+      "course number & title": "180. Engineering of Complex Systems",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Designed for junior/senior engineering majors. Holistic view of engineering discipline, covering lifecycle of engineering, processes, and techniques used in industry today. Multidisciplinary systems engineering perspective in which aspects of electrical, mechanical, material, and software engineering are incorporated. Three specific case studies in communication, sensor, and processing systems included to help students understand these concepts. Special attention paid to link material covered to engineering curriculum offered by UCLA to help students integrate and enhance their understanding of knowledge already acquired. Motivation of students to continue their learning and reinforce lifelong learning habits. Letter grading."
+    },
+    {
+      "course number & title": "181EW. Ethics and Impact of Technology on Society",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, five hours; discussion, three hours; outside study, four hours. Requisite: English Composition 3. Not open for credit to students with credit for course 182EW, 183EW, or 185EW. Focuses on changing nature of technology and complex ethical issues that emerge as result in areas such as biotechnology, information technology, nanotechnology, and energy technology. Discussion of nature of these issues; their ethical, legal, and social ramifications; and what society values in relation to these issues. Exploration of philosophy, religion, and natural and social sciences in relation to these issues. Emphasis on research and writing within engineering environments. Writing and revision of about 20 pages total, including two individual technical essays and one team-written research report. Readings address technical issues and writing form. Satisfies engineering writing requirement. Letter grading."
+    },
+    {
+      "course number & title": "182EW. Technology and Society",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, three hours; outside study, five hours. Requisite: English Composition 3, and one course from Civil Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170, Mechanical and Aerospace Engineering 174, or Statistics 100A. Not open for credit to students with credit for course 182EW, 183EW, or 185EW. Places engineering in broader societal context through examination of some of key ethical, legal, and regulatory issues and frameworks relevant to design and deployment of emerging technology products and services. Historical examination of ethical and legal frameworks generally and in relation to technology. Exploration of series of specific contemporary technology-related topics to examine their broader ramifications. Topics include driverless cars, algorithms and artificial intelligence, global supply chain for engineering products, cryptocurrencies and blockchain, net neutrality, and impact of technology on employment. Offers students tools enabling them to think more proactively and holistically about ethical and societal dimensions of their work as technology creators. Satisfies engineering writing requirement. Letter grading."
+    },
+    {
+      "course number & title": "183EW. Engineering and Society",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, three hours; outside study, five hours. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Not open for credit to students with credit for course 185EW. Limited to sophomore/junior/senior engineering students. Professional and ethical considerations in practice of engineering. Impact of technology on society and on development of moral and ethical values. Contemporary environmental, biological, legal, and other issues created by new technologies. Emphasis on research and writing within engineering environments. Writing and revision of about 20 pages total, including two individual technical essays and one team-written research report. Readings address technical issues and writing form. Satisfies engineering writing requirement. Letter grading."
+    },
+    {
+      "course number & title": "185EW. Art of Engineering Endeavors",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, three hours; outside study, five hours. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Not open for credit to students with credit for course 183EW. Designed for junior/senior engineering students. Nontechnical skills and experiences necessary for engineering career success. Importance of group dynamics in engineering practice. Teamwork and effective group skills in engineering environments. Organization and control of multidisciplinary complex engineering projects. Forms of leadership and qualities and characteristics of effective leaders. How engineering, computer sciences, and technology relate to major ethical and social issues. Societal demands on practice of engineering. Emphasis on research and writing in engineering environments. Satisfies engineering writing requirement. Letter grading."
+    },
+    {
+      "course number & title": "188. Special Courses in Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, four hours; outside study, eight hours. Special topics in engineering for undergraduate students taught on experimental or temporary basis, such as those taught by resident and visiting faculty members. May be repeated for credit with topic or instructor change. Letter grading."
+    },
+    {
+      "course number & title": "191. Seminar Series in Engineering Research",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Seminar series in cutting-edge engineering research at UCLA. Each seminar is given by UCLA graduate student researcher or post-doctoral scholar. Designed to be accessible to undergraduate students in any science, technology, engineering, and mathematics (STEM) major. Offers undergraduate students window into excitement of graduate student research experience. Also offers opportunity for graduate students to learn about what their peers are doing. P/NP grading."
+    },
+    {
+      "course number & title": "192. Fundamentals of Engineering Mentorship",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours; outside study, four hours. Principles and practical techniques for instruction of hands-on engineering design projects in high school outreach programs. Curriculum planning, project preparation, classroom management, team collaboration, diversity awareness, fostering of group cohesion, and emergency procedures. Preparation of lessons and project for summer outreach program, with practice presentations. P/NP grading."
+    },
+    {
+      "course number & title": "195. Internship Studies in Engineering",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, two to four hours. Limited to juniors/seniors. Internship studies course supervised by associate dean or designated faculty members. Further supervision to be provided by organization for which students are doing internship. Students may be required to meet on regular basis with instructor and provide periodic reports of their experience. May not be applied toward major requirements. May be repeated for credit. Individual contract with associate dean required. P/NP grading."
+    },
+    {
+      "course number & title": "199. Directed Research in Engineering",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit with school approval. Individual contract required; enrollment petitions available in Office of Academic and Student Affairs. Letter grading."
+    },
+    {
+      "course number & title": "200. Program Management Principles for Engineers and Professionals",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Designed for graduate students. Practical review of necessary processes and procedures to successfully manage technology programs. Review of fundamentals of program planning, organizational structure, implementation, and performance tracking methods to provide program manager with necessary information to support decision-making process that provides high-quality products on time and within budget. Letter grading."
+    },
+    {
+      "course number & title": "201. Systems Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Designed for graduate students. Practical review of major elements of system engineering process. Coverage of key elements: system requirements and flow down, product development cycle, functional analysis, system synthesis and trade studies, budget allocations, risk management metrics, review and audit activities and documentation. Letter grading."
+    },
+    {
+      "course number & title": "202. Reliability, Maintainability, and Supportability",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 201. Designed for graduate students with one to two years work experience. Integrated logistic support (ILS) is major driver of system life-cycle cost and one key element of system engineering activities. Overview of engineering disciplines critical to this function--reliability, maintainability, and supportability--and their relationships, taught using probability theory. Topics also include fault detections and isolations and parts obsolescence. Discussion of 6-sigma process, one effective design and manufacturing methodology, to ensure system reliability, maintainability, and supportability. Letter grading."
+    },
+    {
+      "course number & title": "203. System Architecture",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 201. Designed for graduate students with B.S. degrees in engineering or science and one to two years work experience in selected domain. Art and science of architecting. Introduction to architecting methodology--paradigm and tools. Principles of architecting through analysis of architecture designs of major existing systems. Discussion of selected elements of architectural practices, such as representation models, design progression, and architecture frameworks. Examination of professionalization of system architecting. Letter grading."
+    },
+    {
+      "course number & title": "204. Trusted Systems Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Trust is placed in information systems to behave properly, but cyber threats and breaches have become routine, including penetration of financial, medical, government, and national security systems. To build systems that can protect confidentiality, integrity, and availability involves more than composing systems from network security, computer security, data security, cryptography, etc. One can use most secure components, and resulting system could still be vulnerable. Skills learned ensure that systems are architected, designed, implemented, tested, and operated for specific levels of trust. Aspects include assessing vulnerability and risk for systems, establishing protection principles, and using them as guide to formulate system architectures; translating architecture into system design and verifying correctness of design; and constructing and following trusted development and implementation process. Letter grading."
+    },
+    {
+      "course number & title": "205. Model-Based Systems Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Model-based systems engineering (MBSE) and systems modeling language (SysML) taught through lectures and readings, individual projects, and one group project. Lectures and readings to provide students with conceptual framework and vocabulary. Individual projects enable students to develop basic skills for creating SysML requirements and structural and behavioral diagrams. In group project students learn how to package, compartmentalize, and integrate smaller efforts while being constrained to meet schedules. Industry-recognized credentials may be obtained, as course covers Object Management Group (OMG) Certified Systems Modeling Professional (OCSMP) tests, such as Model User and Model Builder Fundamentals and Model Builder Intermediate. Letter grading."
+    },
+    {
+      "course number & title": "206. Engineering for Systems Assurance",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Recommended requisites: course 204, Computer Science 236. Systems are constructed to perform complex functions and services. How to understand needs of users, analysis of requirements and derived requirements, creation of various system architecture products, and design and integration of various components into systems that perform these functions and services. System assurance addresses confidence that systems meet specified operational requirements based on evidence provided by applying assurance techniques. Introduction, investigation, and analysis of framework of assurance to accomplish total system assurance. Development of secure, reliable, and dependable systems that range from commercial realm such as air traffic control, Supervisory Control and Data Acquisition (SCADA), and autonomous vehicles to military realm such as command, control, communication, intelligence, and cyber. Letter grading."
+    },
+    {
+      "course number & title": "210. Operations and Supply Chain Management",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Introduction to strategic and operating issues and decisions involved in managing enterprises. Operational processes use organization's resources to transform inputs into goods and utilizes them to provide service, or does both. Conceptual framework and set of analytical tools provided to enable students to better understand why processes behave as they do. Given this understanding, students are able to involve themselves in organization's defining strategic decisions, those related to key processes affecting organizational unit's performance. Letter grading."
+    },
+    {
+      "course number & title": "211. Financial Management",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Introduction to concepts reflecting material generally covered in certain MBA core and elective courses. Integration of both theory--to introduce essential conceptual building blocks in accounting and finance--and empirical practice--to emphasize how these theories are actually implemented in real world. Cases, comprehensive problems, and recent events presented to provide students with as much hands-on experience in applying material presented as possible. Letter grading."
+    },
+    {
+      "course number & title": "212. Intellectual Property Law and Strategy",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Prior knowledge of legal doctrines or materials not required. Intellectual property law is not just topic for lawyers. Engineers who have design responsibilities must understand how legal system in some instances protects their designs and in other instances stands as obstacle to what would otherwise be most efficient design choice. Engineers with management responsibilities must understand intellectual property law implications for everything from pricing to strategic partnerships. Examination of intellectual property law, not only by learning fundamental rules associated with patent, copyright, trademark, and trade secret protection, but by studying business strategies that these rules support. Examples and case studies to be taken from across content, technology, and pharmaceutical industries. Letter grading."
+    },
+    {
+      "course number & title": "213. Data and Business Analytics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Coverage of wide variety of spreadsheet models that can be used to solve business and engineering problems, with emphasis on mastery of Excel spreadsheet modeling as integral part of analytic decision making. Managerial models include data modeling, regression and forecasting, linear programming, network and distribution models, integer programming, nonlinear programming, and Monte Carlo simulation. Problems from operations, finance, and marketing taught by spreadsheet examples and describe general managerial situations from various industries and disciplines. Development of spreadsheet models to facilitate decision making. Letter grading."
+    },
+    {
+      "course number & title": "214. Management Communication",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Exploration of knowledge, attributes, skills, and strategies necessary to succeed communicatively in workplace, with focus on business presentation skills, visual and verbal persuasion skills, and interpersonal communication skills. Letter grading."
+    },
+    {
+      "course number & title": "215. Entrepreneurship for Engineers",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Limited to graduate engineering students. Topics in starting and developing high-tech enterprises and intended for students who wish to complement their technical education with introduction to entrepreneurship. Letter grading."
+    },
+    {
+      "course number & title": "299. Capstone Project",
+      "Number of units": "Units: 4",
+      "Course description": "Activity, 10 hours. Preparation: completion of minimum of four 200-level courses in online M.S. program. Project course that satisfies UCLA final comprehensive examination requirement of M.S. online degree in Engineering. Project is completed under individual guidance from UCLA Engineering faculty member and incorporates advanced knowledge learned in M.S. program of study. Letter grading."
+    },
+    {
+      "course number & title": "375. Teaching Apprentice Practicum",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "470A. Engineer in Technical Environment",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours; outside study, six hours. Limited to Engineering Executive Program students. Theory and application of quantitative methods in analysis and synthesis of engineering systems for purpose of making management decisions. Optimization of outputs with respect to dollar costs, time, material, energy, information, and manpower. Case studies and individual projects. S/U or letter grading."
+    },
+    {
+      "course number & title": "470B. Engineer in Technical Environment",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours; outside study, six hours. Limited to Engineering Executive Program students. Theory and application of quantitative methods in analysis and synthesis of engineering systems for purpose of making management decisions. Optimization of outputs with respect to dollar costs, time, material, energy, information, and manpower. Case studies and individual projects. S/U or letter grading."
+    },
+    {
+      "course number & title": "470C. Engineer in Technical Environment",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours; outside study, six hours. Limited to Engineering Executive Program students. Theory and application of quantitative methods in analysis and synthesis of engineering systems for purpose of making management decisions. Optimization of outputs with respect to dollar costs, time, material, energy, information, and manpower. Case studies and individual projects. S/U or letter grading."
+    },
+    {
+      "course number & title": "470D. Engineer in Technical Environment",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours; outside study, six hours. Limited to Engineering Executive Program students. Theory and application of quantitative methods in analysis and synthesis of engineering systems for purpose of making management decisions. Optimization of outputs with respect to dollar costs, time, material, energy, information, and manpower. Case studies and individual projects. S/U or letter grading."
+    },
+    {
+      "course number & title": "471A. Engineer in General Environment",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours. Limited to Engineering Executive Program students. Influences of human relations, laws, social sciences, humanities, and fine arts on development and utilization of natural and human resources. Interaction of technology and society past, present, and future. Change agents and resistance to change. S/U or letter grading."
+    },
+    {
+      "course number & title": "471B. Engineer in General Environment",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours. Limited to Engineering Executive Program students. Influences of human relations, laws, social sciences, humanities, and fine arts on development and utilization of natural and human resources. Interaction of technology and society past, present, and future. Change agents and resistance to change. In Progress grading (credit to be given only on completion of course 471C)."
+    },
+    {
+      "course number & title": "471C. Engineer in General Environment",
+      "Number of units": "Units: 1",
+      "Course description": "Lecture, 90 minutes. Limited to Engineering Executive Program students. Influences of human relations, laws, social sciences, humanities, and fine arts on development and utilization of natural and human resources. Interaction of technology and society past, present, and future. Change agents and resistance to change. S/U or letter grading."
+    },
+    {
+      "course number & title": "472A. Engineer in Business Environment",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours. Limited to Engineering Executive Program students. Language of business for engineering executive. Accounting, finance, business economics, business law, and marketing. Laboratory in organization and management problem solving. Analysis of actual business problems of firm, community, and nation, provided through cooperation and participation with California business corporations and government agencies. In Progress grading (credit to be given on completion of course 472B)."
+    },
+    {
+      "course number & title": "472B. Engineer in Business Environment",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours. Limited to Engineering Executive Program students. Language of business for engineering executive. Accounting, finance, business economics, business law, and marketing. Laboratory in organization and management problem solving. Analysis of actual business problems of firm, community, and nation, provided through cooperation and participation with California business corporations and government agencies. S/U or letter grading."
+    },
+    {
+      "course number & title": "472C. Engineer in Business Environment",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours. Limited to Engineering Executive Program students. Language of business for engineering executive. Accounting, finance, business economics, business law, and marketing. Laboratory in organization and management problem solving. Analysis of actual business problems of firm, community, and nation, provided through cooperation and participation with California business corporations and government agencies. In Progress grading (credit to be given on completion of course 472D)."
+    },
+    {
+      "course number & title": "472D. Engineer in Business Environment",
+      "Number of units": "Units: 1",
+      "Course description": "Lecture, 90 minutes. Limited to Engineering Executive Program students. Language of business for engineering executive. Accounting, finance, business economics, business law, and marketing. Laboratory in organization and management problem solving. Analysis of actual business problems of firm, community, and nation, provided through cooperation and participation with California business corporations and government agencies. S/U or letter grading."
+    },
+    {
+      "course number & title": "473A. Analysis and Synthesis of Large-Scale System",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, two and one half hours; outside study, six hours. Limited to students in Engineering Executive Program. Problem area of modern industry or government is selected as class project, and its solution is synthesized using quantitative tools and methods. Project also serves as laboratory in organization for goal-oriented technical group. In Progress grading (credit to be given only on completion of course 473B)."
+    },
+    {
+      "course number & title": "473B. Analysis and Synthesis of Large-Scale System",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, two and one half hours; outside study, six hours. Limited to students in Engineering Executive Program. Problem area of modern industry or government is selected as class project, and its solution is synthesized using quantitative tools and methods. Project also serves as laboratory in organization for goal-oriented technical group. S/U grading."
+    },
+    {
+      "course number & title": "495A. Teaching Assistant Training Seminar  ",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, four hours; outside study, eight hours. Preparation: appointment as teaching assistant. Limited to graduate engineering students. Seminar on communication of engineering principles, concepts, and methods, preparation, organization of material, presentation, use of visual aids, grading, advising, and rapport with students. S/U grading."
+    },
+    {
+      "course number & title": "M495I. Teaching Preparation Seminar: Writing for Engineers",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered M495B.) (Same as English Composition M495I.) Seminar, two and one half hours; outside study, nine and one half hours. Limited to graduate students. Required of all teaching assistants for Engineering writing courses not exempt by appropriate departmental or program training. Training and mentoring, with focus on composition pedagogy, assessment of student writing, guidance of revision process, and specialized writing problems that may occur in engineering writing contexts. Practical concerns of preparing students to write course assignments, marking and grading essays, and conducting peer reviews and conferences. S/U grading."
+    },
+    {
+      "course number & title": "M495J. Supervised Teaching of Writing for Engineers",
+      "Number of units": "Units: 2",
+      "Course description": "(Formerly numbered M495C.) (Same as English Composition M495J.) Seminar, one hour; outside study, five hours. Enforced requisite: course M495I. Required of all teaching assistants in their initial term of teaching Engineering writing courses. Mentoring in group and individual meetings. Continued focus on composition pedagogy, assessment of student writing, guidance of revision process, and specialized writing problems that may occur in engineering writing contexts. Practical concerns of preparing students to write course assignments, marking and grading essays, and conducting peer reviews and conferences. S/U grading."
+    },
+    {
+      "course number & title": "501. Cooperative Program  ",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. Preparation: consent of UCLA graduate adviser and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading."
+    }
+  ]
+}

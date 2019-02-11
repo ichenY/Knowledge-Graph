@@ -1,0 +1,2730 @@
+{
+  "subject": "Law ",
+  "course": [
+    {
+      "course number & title": "100. Contracts",
+      "Number of units": "Units: 5",
+      "Course description": ""
+    },
+    {
+      "course number & title": "101. Introduction to Legal Analysis",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "108A. Lawyering Skills",
+      "Number of units": "Units: 0",
+      "Course description": ""
+    },
+    {
+      "course number & title": "108B. Lawyering Skills",
+      "Number of units": "Units: 0",
+      "Course description": ""
+    },
+    {
+      "course number & title": "120. Criminal Law",
+      "Number of units": "Units: 4",
+      "Course description": ""
+    },
+    {
+      "course number & title": "130. Property",
+      "Number of units": "Units: 5",
+      "Course description": ""
+    },
+    {
+      "course number & title": "140. Torts",
+      "Number of units": "Units: 5",
+      "Course description": ""
+    },
+    {
+      "course number & title": "145. Civil Procedure",
+      "Number of units": "Units: 5",
+      "Course description": ""
+    },
+    {
+      "course number & title": "148. Constitutional Law I",
+      "Number of units": "Units: 4",
+      "Course description": ""
+    },
+    {
+      "course number & title": "150. First Year Epstein Program Workshop",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "155. Lawyer-Client Relationship",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "165. MODES OF LEGAL INQUIRY",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "199. Academic Support",
+      "Number of units": "Units: 0",
+      "Course description": ""
+    },
+    {
+      "course number & title": "200. Separation of Powers",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "201. Constitutional Law II",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "202. Constitutional Criminal Procedure",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "204. Arbitration Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "205. Wills and Trusts",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "207. Community Property",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "208. Taxation of Property Transactions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "209. Real Estate Finance Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "210. Complex Litigation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "211. Evidence",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "212. Federal Courts",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "213. Advertising and E-Commerce Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "214. Civil Rights",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "216. Administrative Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "217. Introduction to Legal Philosophy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "219. Tax Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "220. Introduction to Federal Income Tax",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "222. Estate and Gift Tax",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "223. Corporate Taxation Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "224. Tax and the Global Economy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "228. Mergers and Acquisitions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "229. Tax and Development",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "230. Business Associations",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "231. Advanced Corporation Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "232. Cybersecurity Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "234. Accounting for Lawyers",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "236. Securities Regulation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "238. Executive Compensation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "239. Elements of Economic Organization",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "240. Antitrust Law I",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "242. Insurance Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "M243A. High School Reform: Persisting Failure, Urgent Challenges",
+      "Number of units": "Units: 1",
+      "Course description": "(Same as Education M294A.) Seminar, four hours. Course M243A is enforced requisite to M243B. Research seminar with focus on what is probably most serious and neglected problem in American educational reform. In past half century real progress has been made in preschool, gains in achievement in early grades have been produced, and very well-regarded system of higher education has been established--but reform of high school has failed. Exploration of institutional and policy roots of these problems and assessment of available research on key dimensions to help students launch original research studies in one related area. Presentations by experts actively involved in high school reform efforts included. In Progress grading (credit to be given only on completion of course M243B)."
+    },
+    {
+      "course number & title": "M243B. High School Reform: Persisting Failure, Urgent Challenges",
+      "Number of units": "Units: 1",
+      "Course description": "(Same as Education M294B.) Seminar, four hours. Enforced requisite: course M243A. Research seminar with focus on what is probably most serious and neglected problem in American educational reform. In past half century real progress has been made in preschool, gains in achievement in early grades have been produced, and very well-regarded system of higher education has been established--but reform of high school has failed. Exploration of institutional and policy roots of these problems and assessment of available research on key dimensions to help students launch original research studies in one related area. Presentations by experts actively involved in high school reform efforts included. Letter grading."
+    },
+    {
+      "course number & title": "244. Television Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "245. Drug and Medical Device Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "247. Introduction to Law and Economics",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "248. Business Bankruptcy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "249. Tax Aspects of Mergers & Acquisitions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "250. Secured Transactions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "252. Business Torts",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "256. Employment Law Survey",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "257. Transition to Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "258. professional responsibility issues in sophisticated business transactions, litigations, and reorganizations",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "259. International Commercial Arbitration",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "260. Labor Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "261. Employment Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "263. Employment Discrimination Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "266. Critical Race Theory",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "267. Federal Indian Law I",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "269. National Security Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "270. Public International Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "271. International Business Transactions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "272. International Trade Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "273. International Human Rights Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "274. Trademark Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "277. Comparative Constitutional Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "278. Comparative Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "279. Empirical Legal Studies: Theory and Methods",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "282. Education and the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "285. Local Government Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "286. Land use",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "M287. Urban Housing",
+      "Number of units": "Units: 1",
+      "Course description": "(Same as Urban Planning M276A-276B.) Lecture, three hours. Examination of past 40 years of federal and state programs to stem urban decline and improve housing in U.S.; comparison and contrast of legal and policy initiatives in areas of public housing, housing segregation, mortgage subsidies, landlord/tenant law, urban renewal, and community organizing. Research paper required. Letter grading."
+    },
+    {
+      "course number & title": "290. Environmental Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "291. Taxation of Business Enterprises",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "292. Water Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "293. Public Natural Resources Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "295. Advanced Criminal Procedure",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "298. International and Transnational Criminal Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "299. Federal Criminal Law Enforcement",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "300. Remedies",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "301. Art & Cultural Property Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "302. Copyright Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "303. Music Industry Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "304. International IP",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "305. Entertainment Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "306. Patent Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "307. Intellectual Property Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "308. Animals and the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "312. Professional Responsibility",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "313. Conflict of Laws",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "314. Issues in Legal Philosophy: Free Speech",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "315. Asian American Jurisprudence",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "316. Disability Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "317. Family Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "318. Law and Sexuality",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "319. Election Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "321. Legislation and Regulation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "322. Taxation and Distributive Justice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "324. Philosophy of Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "325. Public Benefits Law & Antipoverty Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "326. Health Law & Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "327. Communications Law & Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "328. Sports and the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "329. Women and the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "331. Immigration Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "332. Immigrants' Rights",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "335. Religious Legal Systems: Jewish Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "336. Legal Philosophy Meets the Israeli Legal System",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "338. Islamic Jurisprudence (Sharia Law)",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "340. Individual Research",
+      "Number of units": "Units: 1 to 5",
+      "Course description": ""
+    },
+    {
+      "course number & title": "341A. Yearlong Individual Research",
+      "Number of units": "Units: 1 to 5",
+      "Course description": ""
+    },
+    {
+      "course number & title": "341B. Yearlong Individual Research",
+      "Number of units": "Units: 1 to 5",
+      "Course description": ""
+    },
+    {
+      "course number & title": "343. Complex Financial Transactions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "345. Individual Project",
+      "Number of units": "Units: 1 to 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "346A. Individual Project",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "346B. Individual Project",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "348. European Union Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "349. Foundations of Jewish Ethics",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "350. Energy Law, Policy, and Climate Change",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "351. California Civil Procedure",
+      "Number of units": "Units: 0",
+      "Course description": ""
+    },
+    {
+      "course number & title": "352. Chinese Legal Theory",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "356. Doing Business in China",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "357. Law and Practice with the Hollywood Guilds",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "358. Financial Analysis",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "360. Environmental Policy for Science, Engineering & Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "361. Environmental Policy and Politics",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "362. Investment Companies & Investment Advisors",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "363. Tax-Exempt Organizations: Law and Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "364. Motion Picture Distribution",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "365. ADVANCED CRIMINAL LAW",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "367. Law and Terrorism",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "369. Anti-Terrorism and Criminal Enforcement",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "370. International Finance",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "372. Motion Picture Financing Transactions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "375. Latinos and the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "376. Law and Dissent",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "379. Work and Gender",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "380. State & Local Tax",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "M382. Federal Indian Law II: Advanced Topics in Indian Law",
+      "Number of units": "Units: 1",
+      "Course description": "(Formerly numbered M267A.) (Same as American Indian Studies M267A-267B.) Lecture, three hours. Requisite: course M267 or M728. Examination in-depth of principles and doctrines of federal Indian law as applied to property rights in land, cultural resources, hunting and fishing rights, water rights, and economic development. Special jurisdictional regimes established by federal statutes, such as Indian Child Welfare Act and Indian Gaming Regulatory Act, addressed. Letter grading."
+    },
+    {
+      "course number & title": "383. Political Asylum and Refugee Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "386. Digial Technologies and the Constitution",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "389. Prison Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "391. Venture Capital & the Start-Up Company",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "392. Lifecycle of a Corporation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "393. Written Legal Analysis",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "394. Quantitative Methods in the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "396. International & Foreign Legal Research",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "397. Advanced Legal Research",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "399. Advanced Real Estate Transactions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "401. Animal Law Selected Topics",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "403. Contracts for Foreign Lawyers",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "406. Legal Research, Writing, and Analysis for LLMs",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "407. Intellectual Property: Law and Strategy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "408. Civil Rights Litigation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "409. Leadership and the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "411. Expert and Scientific Evidence",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "412. Law and Neuroscience",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "413. Advanced U.S. Contract Law for Foreign Lawyers",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "416. Supreme Court of the United States",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "417. Special Topics in Family Law: Children of LGBT Parents",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "418. Contemporary Philosophy of Law: The Cutting Edge",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "420. Statutory Interpretation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "421. Cross Border Intellectual Property Litigation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "422. Feminist Legal Theory: Public Violence and Private Violence",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "426. Transition to Small and Mid-Sized Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "427. The Law & Your Life: Aligning Personal Values with the Practice of Law/Fundamentals of Professional Development",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "428. Persuasion: The Science and Art of Effective Influence",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "429. Capital Punishment in America",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "430. Immigration Law and Crimes",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "431. Immigration Court Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "432. International and Comparative Sports Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "433. Income Taxation of Entertainers, Athletes, and Artists",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "434. Accounting and Financial Skills for Lawyers",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "435. Law and Entrepreneurship",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "436. International Migration",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "437. Telecommunications Regulation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "438. International Environmental Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "440. Introduction to Food Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "441. Elder Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "442. Public Health Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "443. Comparative Environmental Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "445. Social Entrepreneurship, Housing and Sustainability",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "446. Entrepreneurism and Venture Initiation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "447. Corporate Finance: Securities Markets and Corporate Value",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "448. Reentry, Work and Race",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "451. Spanish for Lawyers",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "452. Class Actions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "455. Politics, Policy and Congress: 40 Years as a U.S. Representative",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "457. Comparative Governance and Constitutional Rights",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "458. Law of the Sea",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "464. Human Trafficking",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "465. Prospects for International Justice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "467. Human Rights Beyond Borders",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "470. American Law in a Global Context",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "475. U.S. Constitutional Law for Foreign Lawyers",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "480. Motion Picture / Television Special Issues",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "491. Transactional Lawyering: A Competitive Approach",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "500. Constitutional Law Theory",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "501. Tax Policy: Tax & Democracy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "502. Copyright Intensive",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "503. Current Topics in Criminal Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "504. Seminar: Current Issues in Intellectual Property and Biotechnology",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "506. Corporate Law & Securities Regulations",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "507. Labor and Social Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "510. Rebellious Lawyering Workshop & Speaker Series",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "513. Topics in California Environmental Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "514. Cultural Property Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "515. Seminar: Redesigning the Administrative State",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "516. International Justice Debates in Context",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "517. Taxation and Development",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "521. Seminar: Topics in Corporate Governance",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "522. Land Disposition and Displacement",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "523. International Human Rights Colloquium",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "524. Legal Philosophy: Children's Rights, Parental Rights and Circumcision",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "525. Seminar: Patent Intensive",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "526. Housing Segregation, Housing Discrimination & the Evolution of Public Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "528. Tribal Legal Systems",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "531. Philosophy of Contract Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "532. Youth and Justice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "535. Negotiation & Conflict Resolution Workshop",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "538. Disability Rights",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "539. Disability Law, Community, and Identity",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "541. Seminar: Problem Solving in the Public Interest",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "542. Comparative Sexual Orientation Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "543. Seminar: Colloquium on Tax Policy and Public Finance",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "546A. Colloquium: Entertainment, Media, and Intellectual Property",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "546B. Seminar: Entertainment, Media, and Intellectual Property Colloquium",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "547. Entertainment Law Studies",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "548. Legal Analysis",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "549. Islamic Jurisprudence",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "550. The Theory and Practice of Constitutional Interpretation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "551. Seminar: Philosophy of Punishment",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "553. Intersectionalities: Theorizing Multiple Discrimination, Identiy and Power",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "555. Legal Theory Workshop",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "556. Animals in Agriculture and the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "557. Seminar: Contemporary Philosophy of Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "558. Political Crimes and Legal Systems",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "560. REGULATION OF THE BUSINESS FIRM",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "561. Perspectives on Law and Lawyering",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "561A. Perspectives on Law and Lawyering",
+      "Number of units": "Units: 0",
+      "Course description": ""
+    },
+    {
+      "course number & title": "561B. Perspectives on Law and Lawyering",
+      "Number of units": "Units: 0",
+      "Course description": ""
+    },
+    {
+      "course number & title": "565. Seminar: Special Topics in American Constitutional History",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "566. Seminar: Law of War & War(s) on Terror",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "569A. Advanced Seminar: Academic Legal Writing (Yearlong)",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "569B. Advanced Seminar: Academic Legal Writing",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "570. Introduction to United States Law",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "571. National Security and Civil Liberties",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "572A. Seminar: Lawyering Skills Writing Advisor/Lawyering Skills",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "572B. Seminar: Lawyering Skills Writing Advisor/Lawyering Skills",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "574. Public Interest Procedure",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "575A. Seminar: Bankrupcty & Commercial Law Empiricism (yearlong)",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "575B. Seminar: Bankrupcty & Commercial Law Empiricism (yearlong)",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "578. Digital Wars",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "579. Empirical Legal Studies: Research & Composition",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "583. Foreign Relations Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "584. Human Rights and Sexual Politics",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "585. Law & Literature",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "586. Special Topics in Critical Race Studies",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "587. Seminar: Asian American Jurisprudence",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "590. Disruptive Technology",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "591. Seminar: Climate Change",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "592. Sexual Orientation Workshop",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "594. Seminar: Quantitative Methods",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "595. Seminar: Law & Popular Culture",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "596. International Exchange Program",
+      "Number of units": "Units: 12 to 16",
+      "Course description": ""
+    },
+    {
+      "course number & title": "599. Seminar: SJD Thesis",
+      "Number of units": "Units: 1 to 12",
+      "Course description": ""
+    },
+    {
+      "course number & title": "601. Seminar: Non-Monetary Remedies",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "602. Judicial Decision-making: Remedies",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "604. Accounting, Finance, and the law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "605. Regulation of the Securities Market Structure",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "606. Seminar: Mergers & Acquisitions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "607. Digital Surveillance & the 4th Amendment",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "608. Intersection of Law, Health, and Public Policy: Medical-Legal Partnerships",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "609. HOW WOULD YOU CHANGE LEGAL EDUCATION?",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "610. Seminar: Political Theory of the Founders",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "611. Climate Change & Energy Law Colloquium",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "611A. Climate Change and Energy Law (Yearlong)",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "611B. Climate Change and Energy Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "612. Medical Ethics, Reproduction, and the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "613. The Criminal (in) Justice System",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "614. Global Perspectives on Criminal Procedure",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "615. Ocean and Coastal Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "616. Theories of International Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "617. Special Topics in Family Law - Children of Lesbian, Gay, Bisexual, and Transgedner (LGBT) Parents",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "619. Environmental Justice Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "620. Legal Constraints on California's Budget Options",
+      "Number of units": "Units: 3",
+      "Course description": ""
+    },
+    {
+      "course number & title": "621. Market Mechanisms for Environmental Regulation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "622. Hedge Funds and Private Equity Funds",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "623. Topics in Non-Profit Law",
+      "Number of units": "Units: 3",
+      "Course description": ""
+    },
+    {
+      "course number & title": "624. Seminar: Feminist Legal Philosophy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "625. Community Lawyering: Low Wage Worker Organizing",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "626. Health Insurance Reform Seminar",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "627. Commodification Law & Public Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "628. Prison Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "629. Post-Conviction Law & Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "630. Immigration Law & Crimes",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "631. PLEA BARGAINING",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "632. Seminar: Immigrants' Rights",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "633. International Rule-of-Law Promotion",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "634. Food Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "636. Current Issues in Chinese Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "637. Good (Native) Governance",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "638. Indian Gaming Law, Policy, and Politics",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "639. Political Asylum",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "640. Higher Education Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "641. Contract Theory",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "642. SEMINAR: PROPERTY THEORY",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "643. SEMINAR: POVERTY AND HUMAN RIGHTS",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "644. Presidential Power",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "645. Seminar: Race Conscious Remedies",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "646. Nonprofit Law Drafting",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "647. Law and Economics of Contracts",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "648. Law and Economics Workshop (1 Semester)",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "648A. Law and Economics Workshop",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "648B. Law and Economics Workshop",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "649. Foundations of Jewish Ethics",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "650. The Art and Science of Rhetoric and Advocacy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "651. Complex Civil Litigation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "652. PR Issues in Business Transactions Litigations & Reorganizations",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "653. Advanced Critical Race Theory",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "654. Religious Freedom: Contemporary Free Exercise Issues: Sword or Shield?",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "655. Seminar: Legal Theory: Feminist Legal Theory",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "656. SEMINAR: CRITICAL RACE THEORY",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "657. International Criminal Court",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "658. International & Comparative Women's Human Rights",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "659. Comparative Corporate Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "660. Cities in Distress",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "661. Latinos and the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "662A. Advanced Copyright: Garcia v. Google and its Impact",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "662B. Advanced Copyright: Garcia v. Google and its Impact",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "663. Transnational CRT: Racialization and Resistance Around the Globe",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "664. California Prison to Parole",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "665. How Should We Fix the U.S. Health Care System?",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "667. Voting Rights",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "668. 8th Amendment, Cruel & Unusual Punishment",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "669. Law and Psychology: Wrongful Convictions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "670. Sociology of Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "671. Comparative Education: Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "672. HIV/AIDS Law and Public Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "673. Race, Law, and Representation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "674. The Trafficking in Human Beings: Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "675. HIV/AIDS Law and Public Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "677. Muslims, Race and Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "678. Comparative Counterrorism Law and Policy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "679. SEMINAR: SUSTAINABLE AGRICULTURE LAW",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "680A. Workshop in Law, Science, and Evidence",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "680B. Workshop in Law, Science, and Evidence",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "681. What Drives Innovation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "682. Legal Ethics in Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "683. News Media Law in the Digital Age",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "684. Ethics of Criminal Justice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "686. Human Rights and Animal Rights",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "687. Authority and Human Rights",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "688. Hidden Architecture of Legal Rules, Issues, and Arguments",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "689. Future Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "690. Race, Social Psychology, And The Legal Process",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "691. Global Justice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "692. Water Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "693. Companies, Food Systems and Public Health",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "694. Disaster Law and Climate Risks",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "695. Antitrust Analysis: Case Studies From Recent Mergers",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "696. International Exchange Program",
+      "Number of units": "Units: 12 to 16",
+      "Course description": ""
+    },
+    {
+      "course number & title": "697. Gun Control",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "699. Seminar: SJD Thesis",
+      "Number of units": "Units: 1 to 12",
+      "Course description": ""
+    },
+    {
+      "course number & title": "700. Pretrial Civil Litigation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "701A. 9th Circuit Appellate Advocacy Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "701B. 9th Circuit Appellate Advocacy Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "702. Depositions & Discovery Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "704A. IP Clinic: Counseling Emerging Technologies & Enterprises",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "704B. IP Clinic: Counseling Emerging Technologies & Enterprises",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "705. Cappello Trial Advocacy Clinic: Simulated Civil Trial Advocacy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "706. Public Policy Advocacy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "707. Mediation Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "708. Civil Rights and Policy Accountability Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "709. Negotiation Theory & Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "710A. Yearlong Trial Advocacy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "710B. Yearlong Trial Advocacy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "711. PRETRIAL CRIMINAL LITIGATION",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "712. Street Law: U.S. Legal Education",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "713. Interviewing and Counseling: HIV Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "714. Renegotiating Business Deals",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "715. Criminal Defense Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "717. International Human Rights Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "717B. International Justice Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "719. Environmental Law Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "720. Criminal Trial Advocacy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "721. Real Estate Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "721B. Real Estate Law Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "723. Fact Investigation Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "724. 1st Amendment Amicus Brief Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "725. Supreme Court Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "726. Appellate Advocacy: Practice and Procedure",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "727. Supreme Court Simulation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "728. Tribal Legal Development Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "729. Tribal Appellate Court Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "730. Veterans' Benefits Legal Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "731. EDUCATION LAW CLINIC",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "735. Asylum Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "736. Medical-Legal Partnership Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "739. Community Economic Development",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "740. Bankruptcy Transactional Clinic: Negotiating & Confirming Chapter 11 Plans",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "741. Environmental Aspects of Business Transactions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "742. Regulatory Lawyering",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "743. Corporate In-House Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "744. Mergers and Acquisition Transactions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "745. Secured Financing Transactions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "748A. Human Rights & International Criminal Law On-line Forum",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "748B. Human Rights & International Criminal Law On-line Forum",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "750. Youth and Justice Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "751. Transactional Foundational Skills",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "752. Housing and sustainability Transactions Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "753. International Business Negotiations",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "754. Criminal Justic Reform Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "755. Workers' Rights Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "756. WORKERS' RIGHTS LITIGATION CLINIC",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "757. Insurance for Litigators",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "758. SOCIAL ENTERPRISE CLINIC",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "759. Transaction Skills: Lifecycle of a Business",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "760A. Patent Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "760B. Patent Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "761. Strategizing Secured Transactions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "762. Appellate Advocacy: Moot Court Competition",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "763. Contact Drafting",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "764. Intramural Transactional LawMeet",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "765. Trademark Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "767. Music Industry Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "768. Sports Law Simulation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "769. Documentary Film Legal Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "770. Intensive Vior Dire Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "771. Sentencing Advocacy Workshop",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "773. Immigrants' Rights Policy Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "775. Food Law and Policy Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "778. Dog Adjudication Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "780. Tax Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "781. State Appellate Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "782. International Commercial Arbitration: Simulated Arbitration Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "783. Family Law Practice: A non-Litigation Approach",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "785. Introduction to Negotiation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "787. Real Property Practice Simulation for Foreign Lawyers",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "790. Evidence Objections and Arguments",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "792. Immigrant Family Legal Clinic",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "793. Human Rights in Action: Collaborative Grassroots Lawyering in Honduras",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "795. Using Real World Jury Trials to Master Trial Techniques",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "798. Trial Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "799. Advanced Clinic",
+      "Number of units": "Units: 1 to 6",
+      "Course description": ""
+    },
+    {
+      "course number & title": "801. Part-Time Externship",
+      "Number of units": "Units: 1 to 4",
+      "Course description": ""
+    },
+    {
+      "course number & title": "805. Part-Time Externship Seminar: Criminal",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "806. Part-Time Externship Seminar: Judicial",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "807. Part-Time Externship Seminar: Public Interest",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "808. Part-Time Externship Seminar: Government/Civil",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "809. Part-Time Externsip Seminar: Transactional/Entertainment/Coprporate",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "810. Practicum",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "811. Practicum",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "815A. EMPLOYMENT LAW DISCRIMINATION PRACTICUM",
+      "Number of units": "Units: 1 to 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "815B. EMPLOYMENT LAW DISCRIMINATION PRACTICUM",
+      "Number of units": "Units: 1 to 4",
+      "Course description": ""
+    },
+    {
+      "course number & title": "820. California Unfair Competition Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "825. Investment Management Law Practicum",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "826. Startup Legal Garage",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "830. Bond Advocacy Workshop",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "835. Pay or Stay: An Exploration of the Bail System in America",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "841. Client-Centered Elder Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "850A. Advanced Judicial Process",
+      "Number of units": "Units: 11",
+      "Course description": ""
+    },
+    {
+      "course number & title": "850B. Advanced Judicial Process",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "851. agency externship",
+      "Number of units": "Units: 11",
+      "Course description": ""
+    },
+    {
+      "course number & title": "851B. Variable Topics Course (Agency Externships)",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "852A. Externship: UC in DC",
+      "Number of units": "Units: 10",
+      "Course description": ""
+    },
+    {
+      "course number & title": "852B. Externship: UC in DC",
+      "Number of units": "Units: 3",
+      "Course description": ""
+    },
+    {
+      "course number & title": "853. Agency Externship: Specific Field Placement",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "853B. Variable Topics Course (Agency Externships)",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "854. Agency Externship: Specific Field Placement",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "854B. test1",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "855. Agency Externship: Specific Field Placement",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "855B. Variable Topics Course (Agency Externships)",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "856. Agency Externship: Specific Field Placement",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "857. Agency Externship: Specific Field Placement",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "857B. Variable Topics Course (Agency Externships)",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "858. Agency Externship: Specific Field Placement",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "859. Agency Externship: Specific Field Placement",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "859B. Variable Topics Course (Agency Externships)",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "860. Agency Externship: Specific Field Placement",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "861. Agency Externship: Specific Field Placement",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "862. Agency Externship: Specific Field Placement",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "863A. Variable Topics Course (Agency Externships)",
+      "Number of units": "Units: 11",
+      "Course description": ""
+    },
+    {
+      "course number & title": "863B. Variable Topics Course (Agency Externships)",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "865A. Variable Topics Course (Agency Externships)",
+      "Number of units": "Units: 11",
+      "Course description": ""
+    },
+    {
+      "course number & title": "865B. Variable Topics Course (Agency Externships)",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "900. Contract Design",
+      "Number of units": "Units: 2",
+      "Course description": ""
+    },
+    {
+      "course number & title": "901. Commercial Law in the People's Republic of China",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "902. Deals",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "903. International Human Rights; Law Beyond Borders",
+      "Number of units": "Units: 0",
+      "Course description": ""
+    },
+    {
+      "course number & title": "904. Lawyer as Peace Maker",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "905. Strategies for Social Change Lawyering",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "906. Intensive Editing Workshop",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "907. Intelligence, Testing, and the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "908. Suing the Police",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "909. Topics: Environmental Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "910. EMPIRICAL APPROACHES TO DISPARATE IMPACT LITIGATION",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "912. City Food Policy: Legislation & Advocacy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "914. ADVANCED LEGAL ISSUES IN DISTRESSED DEBT INVESTING",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "915. Law and Economics",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "916. RE-ENTRY, WORK, AND RACE",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "917. Health Law & Policy Research",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "918. Directors and Officers Liability Insurance",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "920. Syndicated Loan Transaction",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "921. International Mergers & Acquisitions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "922. Real Estate Financial Analysis",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "923. Taxation and Development",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "924. Advanced Legal Writing: Criminal Pretrial Motions",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "925. Heroes and Villans: The Lawyer's Narrative in Fact and Fiction",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "926. Rebellious Lawyering",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "927. International Human Rights Clinic: International Field Experience",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "928. RELIGIOUS LIBERTY",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "930. Digital Technologies and the Constitution",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "931. Legal Problems of the US/Mexico Border",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "932. The Blockchain: Technology, Law and Regulation",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "934. California Prison to Parole",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "935. Information Technology Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "936. Introduction to Disability Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "938A. Administrative Law in Practice: Dangerous and Nuisance Dog Regulation in Los Angeles",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "938B. Administrative Law Practice: Dangerous and Nuisance Dog Regulation in Los Angeles",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "939. Real World M&A: Intensive Introduction",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "940. Chapter 11 Overview for Law 740",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "941. Law of the United States - Mexico Border",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "942. Language in the Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "944. How Should We Fix the U.S. Health Care System?",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "945. Advanced Legal Research Intensive",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "947. Law and Your Life: Aligning Personal Values with the Practice of Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "948. Policy Analysis and Advocacy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "950. Homelessness",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "952. Reenvisioning the Lawyer's Role: Trauma Informed Lawyering and Restorative/Transformative Justice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "954. Civil Procedure in Practice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "955. Pprspects for International Justice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "956. Legal Holocaust in Hitler's Europe",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "957. Hard Cases Make Bad Human Rights Law",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "958. International Criminal Court Jurisdiction",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "960. Rights to Food and Global Food Justice",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "970. INTENSIVE VOIR DIRE CLINIC (SIMULATED)",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "972. Negotiation Theory and Practice",
+      "Number of units": "Units: 0",
+      "Course description": ""
+    },
+    {
+      "course number & title": "977. Advanced Topics in Trial Advocacy",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "988. M&A Due Diligence",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "992. Sexual Orientation Workshop",
+      "Number of units": "Units: 1",
+      "Course description": ""
+    },
+    {
+      "course number & title": "999. First Year Course Block",
+      "Number of units": "Units: 16",
+      "Course description": ""
+    }
+  ]
+}

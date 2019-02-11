@@ -1,0 +1,55 @@
+{
+  "subject": "Molecular Biology (MOL BIO) ",
+  "course": [
+    {
+      "course number & title": "252. Writing for Science",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Corequisite: Biological Chemistry 251A or 251B or 251C. Limited to first-year Molecular Biology Ph.D. students. Development of specific skills in scientific writing within context of one advanced course on mechanics of gene transcription. Letter grading."
+    },
+    {
+      "course number & title": "254A. Concepts in Molecular Biosciences",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours; discussion, two hours. Limited to human genetics and molecular biology graduate students. Five-week course covering four basic experimental approaches of biochemistry and molecular biology in context of various specific topics, including (1) structural biology, with protein and nucleic acid structure and molecular recognition, (2) use of cell-free and purified in vitro systems to dissect reaction mechanisms, (3) biochemical approaches to dissecting complex reactions/pathways in cells, and (4) enzymology and protein chemistry. Letter grading."
+    },
+    {
+      "course number & title": "254B. Concepts in Molecular Biosciences",
+      "Number of units": "Units: 3",
+      "Course description": "Five-week course. Lecture, three hours; discussion, two hours. Enforced requisite: course 254A. Important biological problems that have been genetically analyzed in different organisms or small number of related problems. Major genetic approaches used in relevant organisms, including both forward and reverse genetic approaches, genetic interactions between genes (genetic enhancers and suppressors), transgenic technology, and systematic genomic strategies. Letter grading."
+    },
+    {
+      "course number & title": "254C. Concepts in Molecular Biosciences",
+      "Number of units": "Units: 3",
+      "Course description": "Five-week course. Lecture, three hours; discussion, two hours. Enforced requisites: courses 254A, 254B. Molecular mechanisms underlying complex problems in cell biology. Experimental approaches used to define mechanisms involved in protein targeting, cell structure and subcellular organization, cell communication, and intracellular signaling. Analysis of pathways that connect these cellular processes. Letter grading."
+    },
+    {
+      "course number & title": "254D. Concepts in Molecular Biosciences",
+      "Number of units": "Units: 3",
+      "Course description": "Five-week course. Lecture, three hours; discussion, two hours. Enforced requisites: courses 254A, 254B, 254C. Application of biochemical, molecular biological, genetic, and cell biological approaches to understand specialized topics in life and biomedical sciences, including developmental disease, stem cell biology, synaptic transmission in nervous system, cancer, and heart disease. Letter grading."
+    },
+    {
+      "course number & title": "255. Scientific Writing",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, two hours; discussion, one hour. Limited to first-year Molecular Biology Ph.D. students. Improvement of academic literacy through development of specific skills in scientific writing. Review of principles of effective writing using practical examples and exercises. Topics include principles of good writing, tricks for writing faster and with less anxiety, format of scientific manuscripts, art of editing, and issues in publication and peer review. Letter grading."
+    },
+    {
+      "course number & title": "298. Current Topics in Molecular Biology",
+      "Number of units": "Units: 2",
+      "Course description": "Student presentation/seminar, two hours. Students present oral critiques and participate in discussions on assigned topics. S/U grading."
+    },
+    {
+      "course number & title": "300. Entering Mentoring Training Program",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar/discussion, one and one half hours. Limited to 25 graduate students. Offers formal training on effective mentoring of undergraduate students in science laboratories. Priority given to those who either have prior experience as mentor or are currently mentoring undergraduates; however, all are encouraged. Exploration of mentoring strategies through lecture, collaborative learning, and case studies. Topics include maintaining effective communication, aligning expectations, addressing equity and inclusion, fostering independence, cultivating ethical behavior, and articulating mentoring philosophy. S/U grading."
+    },
+    {
+      "course number & title": "596. Directed Individual Studies",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Directed individual research or study. May be repeated for maximum of 12 units. S/U grading."
+    },
+    {
+      "course number & title": "599. PhD Dissertation Research and Writing",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Directed individual studies for students who have advanced to candidacy. May be repeated for maximum of 12 units. S/U grading."
+    }
+  ]
+}

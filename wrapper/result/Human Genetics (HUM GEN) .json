@@ -1,0 +1,145 @@
+{
+  "subject": "Human Genetics (HUM GEN) ",
+  "course": [
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "CM124. Computational Genetics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Computer Science CM124.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, Mathematics 33A, and one course from Civil Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, or Statistics 100A. Designed for engineering students as well as students from biological sciences and medical school. Introduction to computational analysis of genetic variation and computational interdisciplinary research in genetics. Topics include introduction to genetics, identification of genes involved in disease, inferring human population history, technologies for obtaining genetic information, and genetic sequencing. Focus on formulating interdisciplinary problems as computational problems and then solving those problems using computational techniques from statistics and computer science. Concurrently scheduled with course CM224. Letter grading."
+    },
+    {
+      "course number & title": "C144. Genomic Technology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: Life Sciences 4. Survey of key technologies that have led to successful application of genomics to biology, with focus on theory behind specific genome-wide technologies and their current applications. Concurrently scheduled with course C244. P/NP or letter grading."
+    },
+    {
+      "course number & title": "188SA. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to discuss selected USIE seminar topic, conduct preparatory research, and begin preparation of syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SB. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SA. Enforced corequisite: Honors Collegium 101E. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor to finalize course syllabus. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "188SC. Individual Studies for USIE Facilitators",
+      "Number of units": "Units: 2",
+      "Course description": "Tutorial, to be arranged. Enforced requisite: course 188SB. Limited to junior/senior USIE facilitators. Individual study in regularly scheduled meetings with faculty mentor while facilitating USIE 88S course. Individual contract with faculty mentor required. May not be repeated. Letter grading."
+    },
+    {
+      "course number & title": "189. Advanced Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "199. Special Studies in Human Genetics",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. Students select instructor among eligible research faculty and carry out independent research project under instructor supervision. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M203. Stochastic Models in Biology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M203.) Lecture, four hours. Requisite: Mathematics 170A or equivalent experience in probability. Mathematical description of biological relationships, with particular attention to areas where conditions for deterministic models are inadequate. Examples of stochastic models from genetics, physiology, ecology, and variety of other biological and medical disciplines. S/U or letter grading."
+    },
+    {
+      "course number & title": "M207A. Theoretical Genetic Modeling",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M207A and Biostatistics M272.) Lecture, three hours; discussion, one hour. Requisites: Mathematics 115A, 131A, Statistics 100B. Mathematical models in statistical genetics. Topics include population genetics, genetic epidemiology, gene mapping, design of genetics experiments, DNA sequence analysis, and molecular phylogeny. S/U or letter grading."
+    },
+    {
+      "course number & title": "M207B. Applied Genetic Modeling",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M207B and Biostatistics M237.) Lecture, three hours; laboratory, one hour. Requisites: Biostatistics 200B, 202B (may be taken concurrently) or equivalent coursework or consent of instructor. Covers basic genetic concepts (prior knowledge of human genetics not required). Topics include statistical methodology underlying genetic analysis of both quantitative and qualitative complex traits. Laboratory for hands-on computer analysis of genetic data; laboratory reports required. Course complements M207A; students may take either and are encouraged to take both. S/U or letter grading."
+    },
+    {
+      "course number & title": "210. Topics in Genomics",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Survey of current biological theory and technology used in genomic research. Topics include genomic technologies, functional genomics, proteomics, statistical genetics, bioinformatics, and ethical issues in human genetics. S/U grading."
+    },
+    {
+      "course number & title": "M211. Mathematical and Statistical Phylogenetics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biomathematics M211 and Biostatistics M239.) Lecture, three hours; laboratory, one hour. Theoretical models in molecular evolution, with focus on phylogenetic techniques. Topics include evolutionary tree reconstruction methods, studies of viral evolution, phylogeography, and coalescent approaches. Examples from evolutionary biology and medicine. Laboratory for hands-on computer analysis of sequence data. S/U or letter grading."
+    },
+    {
+      "course number & title": "CM224. Computational Genetics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Bioinformatics M224 and Computer Science CM224.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, Mathematics 33A, and one course from Civil Engineering 110, Electrical and Computer Engineering 131A, Mathematics 170A, or Statistics 100A. Designed for engineering students as well as students from biological sciences and medical school. Introduction to computational analysis of genetic variation and computational interdisciplinary research in genetics. Topics include introduction to genetics, identification of genes involved in disease, inferring human population history, technologies for obtaining genetic information, and genetic sequencing. Focus on formulating interdisciplinary problems as computational problems and then solving those problems using computational techniques from statistics and computer science. Concurrently scheduled with course CM124. Letter grading."
+    },
+    {
+      "course number & title": "M226. Machine Learning in Bioinformatics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Bioinformatics M226 and Computer Science M226.) Lecture, four hours; outside study, eight hours. Enforced requisite: Computer Science 32 or Program in Computing 10C with grade of C- or better. Recommended: one course from Biostatistics 100A, 110A, Civil Engineering 110, Electrical Engineering 131A, Mathematics 170A, or Statistics 100A. Familiarity with probability, statistics, linear algebra, and algorithms expected. Designed for engineering students as well as students from biological sciences and medical school. Biology has become data-intensive science. Bottleneck in being able to make sense of biological processes has shifted from data generation to statistical models and inference algorithms that can analyze these datasets. Statistical machine learning provides important toolkit in this endeavor. Biological datasets offer new challenges to field of machine learning. Examination of statistical and computational aspects of machine learning techniques and their application to key biological questions. Letter grading."
+    },
+    {
+      "course number & title": "M229S. Seminar: Current Topics in Bioinformatics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Biological Chemistry M229S and Computer Science M229S.) Seminar, four hours; outside study, eight hours. Designed for graduate engineering students as well as students from biological sciences and medical school. Introduction to current topics in bioinformatics, genomics, and computational genetics and preparation for computational interdisciplinary research in genetics and genomics. Topics include genome analysis, regulatory genomics, association analysis, association study design, isolated and admixed populations, population substructure, human structural variation, model organisms, and genomic technologies. Computational techniques include those from statistics and computer science. May be repeated for credit with topic change. Letter grading."
+    },
+    {
+      "course number & title": "236A. Advanced Human Genetics A: Molecular Aspects",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Recommended preparation: prior knowledge of basic concepts in molecular biology and genetics. Advanced topics in human genetics related to molecular genetics and relevant technologies. Topics include genomic technologies, human genome, mapping and identification of disease-causing mutations, transcriptomics, proteomics, functional genomics, epigenetics, and stem cells. Reading materials include original research articles and reviews or book chapters. Letter grading."
+    },
+    {
+      "course number & title": "236B. Advanced Human Genetics B: Statistical Aspects",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; computer laboratory, one hour. Recommended preparation: introductory statistics knowledge equivalent to Biostatistics 100A or Statistics 13 and general genetics knowledge equivalent to Ecology and Evolutionary Biology 121, Human Genetics 236A, or Molecular, Cell, and Developmental Biology 144. Statistical and population genetics related to analysis of complex human genetic traits. Reading materials include original research papers and reviews. Letter grading."
+    },
+    {
+      "course number & title": "C244. Genomic Technology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: Life Sciences 4. Survey of key technologies that have led to successful application of genomics to biology, with focus on theory behind specific genome-wide technologies and their current applications. Concurrently scheduled with course C144. S/U or letter grading."
+    },
+    {
+      "course number & title": "M255. Mapping and Mining Human Genome",
+      "Number of units": "Units: 3",
+      "Course description": "(Same as Pathology M255.) Lecture, three hours. Basic molecular genetic and cytogenetic techniques of gene mapping. Selected regions of human genomic map scrutinized in detail, particularly gene families and clusters of genes that have remained linked from mouse to human. Discussion of localizations of disease genes. S/U or letter grading."
+    },
+    {
+      "course number & title": "M260A. Introduction to Bioinformatics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Bioinformatics M221, Chemistry CM260A, and Computer Science CM221.) Lecture, four hours; discussion, two hours. Requisites: Computer Science 32 or Program in Computing 10C with grade of C- or better, and one course from Biostatistics 100A, Civil Engineering 110, Electrical Engineering 131A, Mathematics 170A, or Statistics 100A. Prior knowledge of biology not required. Designed for engineering students as well as students from biological sciences and medical school. Introduction to bioinformatics and methodologies, with emphasis on concepts and inventing new computational and statistical techniques to analyze biological data. Focus on sequence analysis and alignment algorithms. S/U or letter grading."
+    },
+    {
+      "course number & title": "M265. Computational Methods in Genomics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Bioinformatics M225 and Computer Science M225.) Lecture, two and one half hours; discussion, two and one half hours; outside study, seven hours. Introduction to computational approaches in bioinformatics, genomics, and computational genetics and preparation for computational interdisciplinary research in genetics and genomics. Topics include genome analysis, regulatory genomics, association analysis, association study design, isolated and admixed populations, population substructure, human structural variation, model organisms, and genomic technologies. Computational techniques and methods include those from statistics and computer science. Letter grading."
+    },
+    {
+      "course number & title": "282. Topics on Scientific Careers",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours. Limited to graduate students. Covers topics related to scientific careers such as scientific writing and presentation (including to non-scientific audiences), grant writing and reviewing, curricula vitae, hiring process, social media usage, developing short- and long-term goals, and balancing career and non-work life. Exploration of differences between industry, government, teaching-college, and research-college careers. Active participation and oral and written presentations required. S/U grading."
+    },
+    {
+      "course number & title": "596. Directed Individual Study and Research",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Individual study or research for graduate students. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "597. Preparation for MS Comprehensive Examination or PhD Qualifying Examinations",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Individual study for M.S. comprehensive examination or Ph.D. qualifying examinations. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "598. MS Thesis Research and Writing",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Preparation of research data and writing of M.S. thesis. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "599. PhD Dissertation Research and Writing",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Preparation of research data and writing of Ph.D. dissertation. May be repeated for credit. S/U grading."
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "subject": "French (FRNCH) ",
+  "course": [
+    {
+      "course number & title": "1. Elementary French  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, five hours. P/NP or letter grading."
+    },
+    {
+      "course number & title": "1G. Elementary French for Graduate Students  ",
+      "Number of units": "Units: 3",
+      "Course description": "Lecture, three hours. Preparation for GSFLT or other language examinations. Passing grade does not imply satisfaction of language requirements. S/U grading."
+    },
+    {
+      "course number & title": "2. Elementary French",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, five hours. Enforced requisite: course 1 with grade of C- or better. P/NP or letter grading."
+    },
+    {
+      "course number & title": "3. Elementary French  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, five hours. Enforced requisite: course 2 with grade of C- or better. P/NP or letter grading."
+    },
+    {
+      "course number & title": "4. Intermediate French  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Enforced requisite: course 3 with grade of C- or better. P/NP or letter grading."
+    },
+    {
+      "course number & title": "5. Intermediate French  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Enforced requisite: course 4 with grade of C- or better. P/NP or letter grading."
+    },
+    {
+      "course number & title": "6. Intermediate French  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Enforced requisite: course 5 with grade of C- or better. P/NP or letter grading."
+    },
+    {
+      "course number & title": "8. Intensive First-Year French",
+      "Number of units": "Units: 12",
+      "Course description": "Lecture, 15 hours. All-in-French intensive language program equivalent to first year of college French and designed to develop basic language skills. Additional work in language and media laboratory required. Offered in summer only. P/NP or letter grading."
+    },
+    {
+      "course number & title": "9. Intensive Second-Year French",
+      "Number of units": "Units: 8",
+      "Course description": "Lecture, 10 hours; media laboratory, three hours. Enforced requisite: course 3. Intensive course equivalent to first two terms of intermediate French and designed to improve proficiency in reading, writing, and speaking. Offered in summer only. P/NP or letter grading."
+    },
+    {
+      "course number & title": "10A. French Conversation  ",
+      "Number of units": "Units: 2",
+      "Course description": "Discussion, three hours. Enforced requisite: course 3 with grade of B or better. P/NP or letter grading."
+    },
+    {
+      "course number & title": "10B. French Conversation  ",
+      "Number of units": "Units: 2",
+      "Course description": "Discussion, three hours. Enforced requisite: course 3 with grade of B or better. P/NP or letter grading."
+    },
+    {
+      "course number & title": "10C. French Conversation  ",
+      "Number of units": "Units: 2",
+      "Course description": "Discussion, three hours. Enforced requisite: course 3 with grade of B or better. P/NP or letter grading."
+    },
+    {
+      "course number & title": "10D. French Conversation  ",
+      "Number of units": "Units: 2",
+      "Course description": "Discussion, three hours. Enforced requisite: course 3 with grade of B or better. P/NP or letter grading."
+    },
+    {
+      "course number & title": "12. Introduction to Study of French and Francophone Literature",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; discussion, one hour. Enforced requisite: course 6. Principles of literary analysis as applied to selected texts in poetry, theater, and prose by French and Francophone writers. P/NP or letter grading."
+    },
+    {
+      "course number & title": "14. Introduction to French Culture and Civilization in English",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, one hour. Not open for credit to students with credit for course 14W. Study of contemporary French institutions and issues in cultural, political, and socioeconomic realms. P/NP or letter grading."
+    },
+    {
+      "course number & title": "14W. Introduction to French Culture and Civilization in English",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisite: English Composition 3 or 3H or English as a Second Language 36. Not open for credit to students with credit for course 14. Study of contemporary French institutions and issues in cultural, political, and socioeconomic realms. Satisfies Writing II requirement. Letter grading."
+    },
+    {
+      "course number & title": "16. Society And Self in Early Modern France",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, one hour. Role of religion, politics, and sociability in constructing self and understanding its relation with society in early modern France. Development of students' critical thought and knowledge of French and European intellectual tradition. P/NP or letter grading."
+    },
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "41. French Cinema and Culture",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture/screenings, five hours; discussion, one hour. Introduction to French culture and literature through study of films of cultural and literary significance. P/NP or letter grading."
+    },
+    {
+      "course number & title": "60. French and Francophone Novel",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, one hour. Study of literary masterpieces produced by writers from France and Francophone world (Canada, Africa, Caribbean, etc.) from 17th to early 21st century. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89. Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "98T. Decolonizing French Food through Literature and Film",
+      "Number of units": "Units: 5",
+      "Course description": "Seminar, three hours. Requisite: satisfaction of Entry-Level Writing requirement. Freshmen/sophomores preferred. Examination of how French culinary traditions remain rooted in legacies of colonialism by reading literature (in English or in translation) and watching films (subtitled in English), as well as using tools of feminist, critical race, and postcolonial theorists. Letter grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "100. Written Expression: Techniques of Description and Narration",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours. Requisite: course 6. Writing assignments follow close analysis of relevant texts, film, and related grammatical structures. Examination of vocabulary and structures associated with descriptive writing and French verb tense system required for narration. P/NP or letter grading."
+    },
+    {
+      "course number & title": "101. Advanced Expository Writing: Techniques of Argumentation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100. Study of rhetorical devices and revision of related grammatical structures. Writing assignments follow analysis of relevant texts. P/NP or letter grading."
+    },
+    {
+      "course number & title": "104. Theory and Correction of Diction",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 6. Study of individual sounds (vowels, consonants, and semi-vowels), including rhythm, intonation, and phrasing, and of learning sound--spelling correspondences to help sight read accurately. Thorough study of symbols of International Phonetic Alphabet (IPA) to give students tools to work on pronunciation systematically. Standard French serves as model, with examination of pronunciation changes and various dialects that are spoken in Francophone world to improve listening comprehension and pronunciation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "105. Structure of French  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Prior background in linguistics not required. Introduction to linguistic analysis of French in areas of phonology, morphology, syntax, and language variation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "107. Advanced Oral Expression  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 6. Discussion and analysis of current events and sociocultural issues; techniques of argumentation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "108. Advanced Practical Translation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 100, 101. Translation of literary, sociocultural, and journalistic texts. May include editorials, polemical issues, film subtitles, biography and interview, formal and informal reporting, advertising and idiomatic language. Comparative stylistics of translation. P/NP or letter grading."
+    },
+    {
+      "course number & title": "109. Language and Communication in Business French",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 6. Oral and written communication in commercial arena, including transactions, banking, education, job search, correspondence, and management. P/NP or letter grading."
+    },
+    {
+      "course number & title": "110. Culture of Business in France",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 100 or 109. French culture in consumer world. Analysis of mentalities, practices and customs, marketing, and advertising strategies. Discussion of changes brought about by European Union and globalization. P/NP or letter grading."
+    },
+    {
+      "course number & title": "112. Medieval Foundations of European Civilization",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion/film screenings, two hours. Medieval texts, culture, social structure, and political history as they lay bases of European modernity. P/NP or letter grading."
+    },
+    {
+      "course number & title": "114A. Survey of French Literature: Medieval and Renaissance Literature  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours. Requisite: course 12. Masterpieces of medieval and Renaissance literature, including examples of epic (\"La Chanson de Roland\"), romance (Chr\u00e9tien de Troyes' \"Yvain\"), and Renaissance prose and poetry (including Marot, Du Bellay, Ronsard, Rabelais, Marguerite de Navarre, and Montaigne). P/NP or letter grading."
+    },
+    {
+      "course number & title": "114B. Survey of French Literature: 17th and 18th Centuries  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours. Requisite: course 12. Study of selections from major works of classicism and Enlightenment, including those by Racine, Pascal, La Fayette, La Fontaine, Laclos, Diderot, Voltaire, and Rousseau. P/NP or letter grading."
+    },
+    {
+      "course number & title": "114C. Survey of French Literature: 19th and 20th Centuries  ",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours. Requisite: course 12. Study of major literary movements and writers of period, including works by Hugo, Baudelaire, Balzac, Stendhal, Flaubert, Zola, Gide, Proust, Sartre, Robbe-Grillet, and Duras. P/NP or letter grading."
+    },
+    {
+      "course number & title": "115. Studies in Medieval French Culture and Literature",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 5. Taught in French. Study of medieval French culture and literature, including lyric poetry and narrative romance, history of medieval warfare, comedy, and class structures. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "116. Studies in Renaissance French Culture and Literature",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Taught in French. Study of Renaissance French culture and literature, including la Pl\u00e9iade and 16th-century poetry, linguistic and poetic revolution, novel and early prose, and late French humanism. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "117. Studies in 17th-Century French Culture and Literature",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 5. Taught in French. Study of 17th-century French culture and literature, including theater, philosophers, moralists, novelists, and cultural, political, social, religious, and courtly aspects. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "118. Studies in 18th-Century French Culture and Literature",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Taught in French. Study of 18th-century French culture and literature, including satire, novel, theater, philosophers, and theoretical writings. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "119. Studies in 19th-Century French Culture and Literature",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 5. Taught in French. Study of 19th-century French culture and literature, including Romanticism, generation of 1848, naturalism and symbolism, and genres and trends from 1885 through World War I. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "120. Studies in 20th-Century French Culture and Literature",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Taught in French. Study of 20th-century French culture and literature, including early 20th-century writers, surrealism, literature from 1915 to 1945, post-World War II literature, existentialism, new novel, theater, and poetry. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "121. Studies in Francophone Cultures and Literatures",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 5. Taught in French. Study of Francophone cultures and literatures, including works by poets, playwrights, and novelists from Caribbean, North Africa, Quebec, and sub-Saharan Africa, immigrant narratives, and colonialism and postcolonial studies. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "130. Contemporary French and Francophone Cultures",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 12 or 100. Taught in French. Study of contemporary France and Francophone world (Africa, Asia, Caribbean, Quebec), government, institutions, and cultural, economic, social, and political issues. May be repeated for credit with topic change. Letter grading."
+    },
+    {
+      "course number & title": "131. French and Francophone Theater",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Taught in French. Through plays of 20th century, analysis of struggles of individuals and social groups in contexts that are historical, political, philosophical (existentialism, absurd), and cultural (colonialism and conformism). P/NP or letter grading."
+    },
+    {
+      "course number & title": "132. French and Francophone Poetry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Taught in French. Study of history of French and Francophone poetry and readings of major poets from 16th to 20th century. P/NP or letter grading."
+    },
+    {
+      "course number & title": "133. French and Francophone Short Story",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Taught in French. Survey of short fiction forms in France and Francophone world. P/NP or letter grading."
+    },
+    {
+      "course number & title": "134. French and Francophone Novel",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Taught in French. Study of French and Francophone novels and readings of major novelists. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "136. French and Francophone Autobiography",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Taught in French. Rhetoric of genre and its relation to broad questions of identity, gender, race, and class. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "137. French and Francophone Intellectual History",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 12 or 100. Taught in French. Exploration of themes that address particular problem of French literature, civilization, or ideas. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "138. Contemporary French Theory",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 12 or 100. Taught in French. Study of French theorists (Barthes, Baudrillard, Cixous, Derrida, Foucault, Irigaray) and major concepts in contemporary French thought, with attention to its influence on and application to literary and nonliterary texts. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "139. Paris: Study of French Capital",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Enforced requisite: course 5. Taught in French. Textual and visual exploration of historical and imaginary (re)constructions of Paris, beginning with its earliest history and gradual formation of this great urban complex in maps from Renaissance to 20th century. Study of city's streets and quarters, traffic and transportation, multiple layers of past, present, and future, and fl\u00e2neurs and insurrectionists through wide range of literary and critical texts. Readings cover mainly 19th and 20th centuries--Honor\u00e9 de Balzac, Charles Baudelaire, Emile Zola, Marcel Proust, Louis-Ferdinand C\u00e9line, and others. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M140. Women's Studies in French Literature",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Gender Studies M140.) Lecture, three hours. Exploration of selected aspect of situation of women in French literature as author, character, symbol, etc. P/NP or letter grading."
+    },
+    {
+      "course number & title": "141. French Cinema",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Study of French cinema and cinematographers in generic, thematic, and sociocultural aspects. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "142. Francophone Cinema",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Study of Francophone (Africa, Caribbean, postcolonial communities in France) cinema and cinematographers in generic, thematic, and sociocultural aspects. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "160. Francophone Cultures in English",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Study of historical, anthropological, legal, literary, or filmic texts to provide students with broad view of some main issues in field of colonial and postcolonial Francophone studies. P/NP or letter grading."
+    },
+    {
+      "course number & title": "161. French and Francophone Theater in Translation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Through plays of 20th century, analysis of struggles of individuals and social groups in contexts that are historical, political, philosophical (existentialism, absurd), and cultural (colonialism and conformism). May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "163. French and Francophone Short Story in Translation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Survey of short fiction forms in France and Francophone world. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "164. French and Francophone Novel in Translation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Study of French novels. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "166. French and Francophone Autobiography in Translation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Rhetoric of genre and its relation to broad questions of identity, gender, race, and class. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "167. French and Francophone Intellectual History in Translation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Readings of French and Francophone writers, historians, and thinkers. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "169. Paris: Study of French Capital in Translation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Textual and visual exploration of historical and imaginary (re)constructions of Paris, beginning with its earliest history and gradual formation of this great urban complex in maps from Renaissance to 20th century. Study of city's streets and quarters, traffic and transportation, multiple layers of past, present, and future, and fl\u00e2neurs and insurrectionists through wide range of literary and critical texts. Readings cover mainly 19th and 20th centuries--Victor Hugo, Charles Baudelaire, Jules Verne, Emile Zola, Andr\u00e9 Breton, Walter Benjamin, Roland Barthes, and others. P/NP or letter grading."
+    },
+    {
+      "course number & title": "171. Medieval Flix",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Examination of Middle Ages across issues such as gender, class, race, religion, sexuality, love, and death. Exploration of each of these key terms in Middle Ages and look at Middle Ages as projection screen for interrogating, contesting, and resolving contemporary debates on gender, class, race, and religion. Contrasting of medieval and modern around issue of difference and diversity; sessions to be situated in their historical cross-cultural contexts. Film screenings accompanied by medieval texts. P/NP or letter grading."
+    },
+    {
+      "course number & title": "172. Francophone Cinema and Literature in Translation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Study of Francophone (Africa, Caribbean, postcolonial communities in France) cinema and cinematographers in generic, thematic, and sociocultural aspects. May be repeated for credit with topic change. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189. Advanced Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "191A. Variable Topics Research Seminars in Translation",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Research seminars on topics to be announced each term. Topics include major writers, genres, cultural movements, or theoretical practices. Reading, discussion, and development of culminating project. May be repeated for credit with consent of major adviser. P/NP or letter grading."
+    },
+    {
+      "course number & title": "191B. Variable Topics Research Seminars: French",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Taught in French. Research seminars on topics to be announced each term. Topics include major writers, genres, cultural movements, or theoretical practices. Reading, discussion, and development of culminating project. May be repeated for credit with consent of major adviser. P/NP or letter grading."
+    },
+    {
+      "course number & title": "195. Community or Corporate Internships in French",
+      "Number of units": "Units: 4",
+      "Course description": "Tutorial, to be arranged. Limited to juniors/seniors. Internship in supervised setting in community agency or business. Students meet on regular basis with instructor and provide periodic reports of their experience. May be repeated for credit. Individual contract with supervising faculty member required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "198. Honors Research in French",
+      "Number of units": "Units: 4",
+      "Course description": "Tutorial, three hours. Limited to junior/senior French majors with 3.5 departmental and 3.25 overall grade-point averages. Development and completion of honors thesis or comprehensive research project under direct supervision of faculty member. May be repeated for credit. Individual contract required. Letter grading."
+    },
+    {
+      "course number & title": "199. Directed Research or Senior Project in French",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, three hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "200. Contemporary French Theories",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Introductory study of French structuralist and poststructuralist thought in literature, linguistics, psychoanalysis, anthropology, philosophy, and feminism, that may include texts by Althusser, Barthes, Deleuze, Derrida, Foucault, Genette, Irigaray, Kristeva, Lacan, Lyotard, and others. S/U or letter grading."
+    },
+    {
+      "course number & title": "201. Techniques of Literary Analysis  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Practice in close analysis of literary texts, including \"explication de teste.\" S/U or letter grading."
+    },
+    {
+      "course number & title": "202. Cultural Studies",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Introduction to theoretical approaches to popular and mass culture, and to postcolonial and Francophone cultures. Topics include emergent disciplines and theories such as sociology and structuralism, city, revolution, avant-garde strategies, media, diaspora during postwar modernization, Algerian War, May 68, and beyond. Theorists include Barthes, de Certeau, Bourdieu, Baudrillard, Lyotard, Ross, Rey Chow, Virilio. S/U or letter grading."
+    },
+    {
+      "course number & title": "203. Contemporary Francophone Literature",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Study of Francophone African, Caribbean, Vietnamese, or Quebec literatures and cultures, with specific attention to issues of cultural contact, language, colonialism, anticolonialism, nationalism, resistance and dissidence, and postcolonial theory. S/U or letter grading."
+    },
+    {
+      "course number & title": "204. Studies in Autobiography",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Introduction to theories of autobiography and subjectivity, and to genre of autobiography in literatures in French across centuries. Topics include early modern approaches to self-writing, Rousseau and emergence of modern self, women's autobiography in France and Francophone world. Theorists may include Georges Gusdorf, Philippe Lejeune, Paul de Man, Jacques Derrida, Helene Cixous, Michel Foucault, Pierre Bourdieu, Toril Moi. S/U or letter grading."
+    },
+    {
+      "course number & title": "205. Studies in Cinema and Literature",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Discussion of selected topics in French and Francophone cinema and literature. S/U or letter grading."
+    },
+    {
+      "course number & title": "207. Studies in History of Ideas",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Particular problems in French literature and ideas. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "208. Studies in Literary Criticism",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Readings in literary criticism, theory, and literature from any period of French literature. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "209. Studies in Literary Genre",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Advanced research and study of literary genres such as poetry, drama, fiction, autobiography, or performance and of theory of these genres. S/U or letter grading."
+    },
+    {
+      "course number & title": "M210. Paleography of Latin and Vernacular Manuscripts, 900 to 1500",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Classics M218, English M215, and History M218.) Lecture, three hours; discussion, two hours. Introduction to history of Latin and vernacular manuscript book from 900 to 1500 to (1) train students to make informed judgments with regard to place and date of origin, (2) provide training in accurate reading and transcription of later medieval scripts, and (3) examine manuscript book as witness to changing society that produced it. Focus on relationship between Latin manuscripts and vernacular manuscripts with regard to their respective presentation of written texts. S/U or letter grading."
+    },
+    {
+      "course number & title": "214. Problematics of Medieval Language and Literature  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Introduction to Old French and problematics of medieval literature. S/U or letter grading."
+    },
+    {
+      "course number & title": "215. Studies in Middle Ages",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Examination of nature of cross-cultural, crosslinguistic, and cross-confessional exchange in medieval and early modern periods and France's role in it. S/U or letter grading."
+    },
+    {
+      "course number & title": "216. Renaissance",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. French literature of 16th century studied within historical, intellectual, and cultural contexts. Letter grading."
+    },
+    {
+      "course number & title": "217. 17th Century",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Readings in 17th-century literature studied within historical, cultural, and literary contexts. S/U or letter grading."
+    },
+    {
+      "course number & title": "218. Enlightenment",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Readings in 18th-century French literature and thought: novels, satires, plays, and other key Enlightenment \"philosophies.\" Letter grading."
+    },
+    {
+      "course number & title": "219. 19th Century",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Readings in 19th-century literature, covering development of novel, lyric poetry, and theater from Romantic period to \"fin-de-siecle.\" S/U or letter grading."
+    },
+    {
+      "course number & title": "220. 20th Century",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Overview, both historical and analytical, of 20th-century French literature set in context of several key critical topics that interrogate canonical interpretation. Letter grading."
+    },
+    {
+      "course number & title": "296. Research Methods and Writing",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Advanced study of current topics in literary and cultural analysis and in critical theory. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "375. Teaching Apprentice Practicum",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "495. Teaching French at College Level",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours; discussion, one hour. Designed for graduate students. Theory and practice of language teaching. S/U grading.\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+      "course number & title": "596. Directed Individual Studies or Research  ",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, to be arranged. S/U or letter grading."
+    },
+    {
+      "course number & title": "597. Preparation for Second-Year Review or PhD Qualifying Examinations",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. May be repeated for maximum of 16 units. S/U grading."
+    },
+    {
+      "course number & title": "598. Research for and Preparation of MA Thesis",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Tutorial, to be arranged. Maximum of 4 units may be applied toward MA degree requirements. S/U grading."
+    },
+    {
+      "course number & title": "599. Research for and Preparation of PhD Dissertation",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. S/U grading."
+    }
+  ]
+}

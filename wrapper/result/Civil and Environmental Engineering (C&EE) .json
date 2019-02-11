@@ -1,0 +1,635 @@
+{
+  "subject": "Civil and Environmental Engineering (C&EE) ",
+  "course": [
+    {
+      "course number & title": "1. Civil Engineering and Infrastructure",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours; outside study, four hours. Examples of infrastructure, its importance, and manner by which it is designed and constructed. Role of civil engineers in infrastructure development and preservation. P/NP grading."
+    },
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "M20. Introduction to Computer Programming with MATLAB",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Mechanical and Aerospace Engineering M20.) Lecture, two hours; discussion, two hours; laboratory, two hours; outside study, six hours. Requisite: Mathematics 33A. Fundamentals of computer programming taught in context of MATLAB computing environment. Basic data types and control structures. Input/output. Functions. Data visualization. MATLAB-based data structures. Development of efficient codes. Introduction to object-oriented programming. Examples and exercises from engineering, mathematics, and physical sciences. Letter grading."
+    },
+    {
+      "course number & title": "58SL. Climate Change, Water Quality, and Ecosystem Functioning",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, four hours; service learning, two hours; outside study, nine hours. Science related to climate change, water quality, and ecosystem health. Topics include carbon and nutrient cycling, hydrologic cycle, ecosystem structure and services, biodiversity, basic aquatic chemistry, and impacts of climate change on ecosystem functioning and water quality. Participation in series of science education projects to elementary or middle school audience. Letter grading."
+    },
+    {
+      "course number & title": "91. Statics",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 101.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: Mathematics 31A, 31B, Physics 1A. Newtonian mechanics, vector representation, and resultant forces and moments. Free-body diagrams and equilibrium, internal loads and equilibrium in trusses, frames, and beams. Planar and nonplanar systems, distributed forces, determinate and indeterminate force systems, shear and moment diagrams, and axial force diagrams. Letter grading."
+    },
+    {
+      "course number & title": "97. Variable Topics in Civil and Environmental Engineering",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Seminar, two hours. Current topics and research methods in civil and environmental engineering. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "102. Dynamics of Particles and Bodies",
+      "Number of units": "Units: 2",
+      "Course description": "Lecture, two hours; discussion, two hours; outside study, two hours. Requisites: course 91, Physics 1B. Introduction to fundamentals of dynamics of single particles, system of particles, and rigid bodies. Topics include kinematics and kinetics of particles, work and energy, impulse and momentum, multiparticles systems, kinematics and kinetics of rigid bodies in two- and three-dimensional motions. Letter grading."
+    },
+    {
+      "course number & title": "103. Applied Numerical Computing and Modeling in Civil and Environmental Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course M20 (or Computer Science 31), Mathematics 33B or Mechanical and Aerospace Engineering 82 (either may be taken concurrently). Introduction to numerical computing with specific applications in civil and environmental engineering. Topics include error and computer arithmetic, root finding, curve fitting, numerical integration and differentiation, solution of systems of linear and nonlinear equations, numerical solution of ordinary and partial differential equations. Letter grading."
+    },
+    {
+      "course number & title": "C104. Structure, Processing, and Properties of Civil Engineering Materials",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course 91, Chemistry 20A, 20B, Mathematics 31A, 31B, 32B, Physics 1A, 1B, 1C. Corequisite: course 108. Discussion of aspects of cement and concrete materials, including manufacture of cement and production of concrete. Aspects of cement composition and basic chemical reactions, microstructure, properties of plastic and hardened concrete, chemical admixtures, and quality control and acceptance testing. Development and testing of fundamentals for complete understanding of overall response of all civil engineering materials. By end of term, successful utilization of fundamental materials science concepts to understand, explain, analyze, and describe engineering performance of civil engineering materials. Concurrently scheduled with course C204. Letter grading."
+    },
+    {
+      "course number & title": "C105. Structure and Properties of Amorphous Civil Engineering Materials",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course 101, Chemistry 20A, 20B, Mathematics 31A, 31B, 32B, Physics 1A, 1B, 1C. Corequisite: course 108. Nature and properties of amorphous civil engineering materials in fields of infrastructure and technology. Special attention to composition-structure-properties relationships and design and selection with respect to targeted civil engineering applications. Concurrently scheduled with course C205. Letter grading."
+    },
+    {
+      "course number & title": "108. Introduction to Mechanics of Deformable Solids",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course 91, Mathematics 32B, Physics 1A. Review of equilibrium principles; forces and moments transmitted by slender members. Concepts of stress and strain. Stress-strain relations with focus on linear elasticity. Transformation of stress and strain. Deformations and stresses caused by tension, compression, bending, shear, and torsion of slender members. Structural applications to trusses, beams, shafts, and columns. Introduction to virtual work principle. Letter grading."
+    },
+    {
+      "course number & title": "108L. Experimental Structural Mechanics",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 130L.) Lecture, two hours; laboratory, six hours; outside study, four hours. Requisite or corequisite: course 108. Lectures and laboratory experiments in various structural mechanics testing of metals (steel, aluminum, brass), high-strength plastics, and concrete (cylinders, beams). Direct tension. Direct compression. Ultrasonic nondestructive evaluation. Elastic buckling of columns. Fracture mechanics testing and fracture toughness. Splitting tension and flexural tension. Elastic, plastic, and fracture behavior. ASTM and RILEM. Cyclic loading. Microstructures of concrete. Size effects. Letter grading."
+    },
+    {
+      "course number & title": "110. Introduction to Probability and Statistics for Engineers",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour (when scheduled); outside study, seven hours. Requisites: Mathematics 32A, 33A. Recommended: course M20. Introduction to fundamental concepts and applications of probability and statistics in civil engineering, with focus on how these concepts are used in experimental design and sampling, data analysis, risk and reliability analysis, and project design under uncertainty. Topics include basic probability concepts, random variables and analytical probability distributions, functions of random variables, estimating parameters from observational data, regression, hypothesis testing, and Bayesian concepts. Letter grading."
+    },
+    {
+      "course number & title": "120. Principles of Soil Mechanics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 108. Soil as foundation for structures and as material of construction. Soil formation, classification, physical and mechanical properties, soil compaction, earth pressures, consolidation, and shear strength. Letter grading."
+    },
+    {
+      "course number & title": "121. Design of Foundations and Earth Structures  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 120. Design methods for foundations and earth structures. Site investigation, including evaluation of soil properties for design. Design of footings and piles, including stability and settlement calculations. Design of slopes and earth retaining structures. Letter grading."
+    },
+    {
+      "course number & title": "123. Advanced Geotechnical Design",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 121. Analysis and design of earth dams, including seepage, piping, and slope stability analyses. Case history studies involving landslides, settlement, and expansive soil problems, and design of repair methodologies for those problems. Within context of above technical problems, emphasis on preparation of professional engineering documents such as proposals, work acknowledgements, figures, plans, and reports. Letter grading."
+    },
+    {
+      "course number & title": "125. Fundamentals of Earthquake Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 135A. Overview of engineering seismology, including plate tectonics, faults, wave propagation, and earthquake strong ground motion. Development and selection of design ground motions using both probabilistic seismic hazard analysis and code-based methods. Overview of seismic design regulation and California PE examination's seismic component. Code-based seismic design for new buildings using current International Building Code seismic code provisions. Overview of seismic design of bridges, dams, and other non-building structures. Letter grading."
+    },
+    {
+      "course number & title": "128L. Soil Mechanics Laboratory",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, one hour; laboratory, six hours; outside study, five hours. Requisite or corequisite: course 120. Laboratory experiments to be performed by students to obtain soil parameters required for assigned design problems. Soil classification, grain size distribution, Atterberg limits, specific gravity, compaction, expansion index, consolidation, shear strength determination. Design problems, laboratory report writing. Letter grading."
+    },
+    {
+      "course number & title": "129L. Engineering Geomatics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, four hours; outside study, six hours. Collection, processing, and analysis of geospatial data. Ellipsoid and geoid models of shape of Earth. Sea level, height, and geopotential surfaces. Elements and usage of topographic data and maps. Advanced global positioning systems (GPS) for high-precision mapping. Advanced laser-based light detection and ranging (LIDAR) mapping. Quantitative terrain analysis and change detection. Hydrogeomatics: seafloor mapping. Letter grading."
+    },
+    {
+      "course number & title": "130. Elementary Structural Mechanics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 108. Analysis of stress and strain, phenomenological material behavior, extension, bending, and transverse shear stresses in beams with general cross-sections, shear center, deflection of beams, torsion of beams, warping, column instability and failure. Letter grading."
+    },
+    {
+      "course number & title": "135A. Elementary Structural Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisites: courses M20 (or Computer Science 31), 108. Introduction to structural analysis; classification of structural elements; analysis of statically determinate trusses, beams, and frames; deflections in elementary structures; virtual work; analysis of indeterminate structures using force method; introduction to displacement method and energy concepts. Letter grading."
+    },
+    {
+      "course number & title": "135B. Intermediate Structural Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 135A. Analysis of truss and frame structures using matrix methods; matrix force methods; matrix displacement method; analysis concepts based on theorem of virtual work; moment distribution. Letter grading."
+    },
+    {
+      "course number & title": "M135C. Introduction to Finite Element Methods",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Mechanical and Aerospace Engineering M168.) Lecture, four hours; discussion, one hour; outside study, seven hours. Requisite: course 130 or Mechanical and Aerospace Engineering 156A or 166A. Introduction to basic concepts of finite element methods (FEM) and applications to structural and solid mechanics and heat transfer. Direct matrix structural analysis; weighted residual, least squares, and Ritz approximation methods; shape functions; convergence properties; isoparametric formulation of multidimensional heat flow and elasticity; numerical integration. Practical use of FEM software; geometric and analytical modeling; preprocessing and postprocessing techniques; term projects with computers. Letter grading."
+    },
+    {
+      "course number & title": "135L. Structural Design and Testing Laboratory",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, five hours; outside study, five hours. Requisites: courses M20, 135A. Limited enrollment. Computer-aided optimum design, construction, instrumentation, and test of small-scale model structure. Use of computer-based data acquisition and interpretation systems for comparison of experimental and theoretically predicted behavior. Letter grading."
+    },
+    {
+      "course number & title": "C137. Elementary Structural Dynamics",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 137.) Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 135B. Basic structural dynamics course for civil engineering students. Elastic free and forced vibrations of single degree of freedom systems, introduction to response history and response spectrum analysis approaches for single and multidegree of freedom systems. Axial, bending, and torsional vibration of beams. Concurrently scheduled with course C239. Letter grading."
+    },
+    {
+      "course number & title": "137L. Structural Dynamics Laboratory",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, six hours; outside study, four hours. Requisite or corequisite: course 137. Calibration of instrumentation for dynamic measurements. Determination of natural frequencies and damping factors from free vibrations. Determination of natural frequencies, mode shapes, and damping factors from forced vibrations. Dynamic similitude. Letter grading."
+    },
+    {
+      "course number & title": "140L. Structural Components and Systems Testing Laboratory",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, six hours; outside study, four hours. Enforced requisite: course 142. Comparison of experimental results with analytical results and code requirements to assess accuracies and limitations of calculation procedures used in structural design. Tests include quasi-static tests of structural elements (beams, columns) and systems (slab-column, beam-column) and dynamic tests of simple building systems. Quasi-static tests focus on assessment of element or subsystem stiffness, strength, and deformation capacity, whereas dynamic tests focus on assessment of periods, mode shapes, and damping. Development of communication skills through preparation of laboratory reports and oral presentations. Letter grading."
+    },
+    {
+      "course number & title": "141. Steel Structures",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 135A. Introduction to building codes. Fundamentals of load and resistance factor design of steel elements. Design of tension and compression members. Design of beams and beam columns. Simple connection design. Introduction to computer modeling methods and design process. Letter grading."
+    },
+    {
+      "course number & title": "142. Design of Reinforced Concrete Structures",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 135A. Beams, columns, and slabs in reinforced concrete structures. Properties of reinforced concrete materials. Design of beams and slabs for flexure, shear, anchorage of reinforcement, and deflection. Design of columns for axial force, bending, and shear. Ultimate strength design methods. Letter grading."
+    },
+    {
+      "course number & title": "142L. Reinforced Concrete Structural Laboratory",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, six hours; outside study, four hours. Requisites: courses 135B, 142. Limited enrollment. Design considerations used for reinforced concrete beams, columns, slabs, and joints evaluated using analysis and experiments. Links between theory, building codes, and experimental results. Students demonstrate accuracies and limitations of calculation procedures used in design of reinforced concrete structures. Development of skills for written and oral presentations. Letter grading."
+    },
+    {
+      "course number & title": "143. Design of Prestressed Concrete Structures",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses 135A, 142. Equivalent loads and allowable flexural stresses in determinate and indeterminate systems. Flexural and shear strength design, including secondary effects in indeterminate systems. Design of indeterminate post-tensioned beam using both hand calculations and commercially available computer program. Discussion of external post-tensioning, one- and two-way slab systems. Letter grading."
+    },
+    {
+      "course number & title": "144. Structural Systems Design",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 141 or 142. Design course for civil engineering students, with focus on design and performance of complete building structural systems. International Building Code (IBC) and ASCE 7 dead, live, wind, and earthquake loads. Design of reinforced concrete and structural steel buildings. Computer modeling, analysis, and performance assessment of buildings. Letter grading."
+    },
+    {
+      "course number & title": "147. Design and Construction of Tall Buildings",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses 135B, 141. Role of structural engineer, architect, and other design professions in design process. Development of architectural design of tall buildings. Influence of building code, zoning, and finance. Advantages and limitations of different structural systems. Development of structural system design and computer model for architectural design. Letter grading."
+    },
+    {
+      "course number & title": "148. Wood and Timber Design",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisites: courses 108, 135A. Properties and behavior of wood and wood products, analysis and design of wood and timber structural members subjected to flexural, shear, and axial stresses; connections, fasteners, and detailing; and light-framed wood shear walls and diaphragms. Letter grading."
+    },
+    {
+      "course number & title": "150. Introduction to Hydrology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisites: course M20 (or Computer Science 31), Mechanical and Aerospace Engineering 103. Study of hydrologic cycle and relevant atmospheric processes, water and energy balance, radiation, precipitation formation, infiltration, evaporation, vegetation transpiration, groundwater flow, storm runoff, and flood processes. Letter grading."
+    },
+    {
+      "course number & title": "151. Introduction to Water Resources Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisites: course 150, Mechanical and Aerospace Engineering 103. Recommended: courses 103, 110. Principles of hydraulics, flow of water in open channels and pressure conduits, reservoirs and dams, hydraulic machinery, hydroelectric power. Introduction to system analysis and design applied to water resources engineering. Letter grading."
+    },
+    {
+      "course number & title": "152. Hydraulic and Hydrologic Design",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisites: courses 150, 151. Analysis and design of hydraulic and hydrologic systems, including stormwater management systems, potable and recycled water distribution systems, wastewater collection systems, and constructed wetlands. Emphasis on practical design components, including reading/interpreting professional drawings and documents, environmental impact reports, permitting, agency coordination, and engineering ethics. Project-based course includes analysis of alternative designs, use of engineering economics, and preparation of written engineering reports. Letter grading."
+    },
+    {
+      "course number & title": "153. Introduction to Environmental Engineering Science",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, one hour (when scheduled); outside study, seven hours. Recommended requisite: Mechanical and Aerospace Engineering 103. Water, air, and soil pollution: sources, transformations, effects, and processes for removal of contaminants. Water quality, water and wastewater treatment, waste disposal, air pollution, global environmental problems. Field trip. Letter grading."
+    },
+    {
+      "course number & title": "154. Chemical Fate and Transport in Aquatic Environments",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: course 153. Fundamental physical, chemical, and biological principles governing movement and fate of chemicals in surface waters and groundwater. Topics include physical transport in various aquatic environments, air-water exchange, acid-base equilibria, oxidation-reduction chemistry, chemical sorption, biodegradation, and bioaccumulation. Practical quantitative problems solved considering both reaction and transport of chemicals in environment. Letter grading."
+    },
+    {
+      "course number & title": "155. Unit Operations and Processes for Water and Wastewater Treatment",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 153. Biological, chemical, and physical methods used to modify water quality. Fundamentals of phenomena governing design of engineered systems for water and wastewater treatment systems. Field trip. Letter grading."
+    },
+    {
+      "course number & title": "156A. Environmental Chemistry Laboratory",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; laboratory, four hours; outside study, four hours. Requisites: course 153 (may be taken concurrently), Chemistry 20A, 20B. Basic laboratory techniques in analytical chemistry related to water and wastewater analysis. Selected experiments include gravimetric analysis, titrimetry spectrophotometry, redox systems, pH and electrical conductivity. Concepts to be applied to analysis of real water samples in course 156B. Letter grading."
+    },
+    {
+      "course number & title": "156B. Environmental Engineering Unit Operations and Processes Laboratory",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, six hours; outside study, four hours. Requisites: Chemistry 20A, 20B. Characterization and analysis of typical natural waters and wastewaters for inorganic and organic constituents. Selected experiments include analysis of solids, nitrogen species, oxygen demand, and chlorine residual, that are used in unit operation experiments that include reactor dynamics, aeration, gas stripping, coagulation/flocculation, and membrane separation. Letter grading."
+    },
+    {
+      "course number & title": "157A. Hydrologic Modeling",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisite: course 150 or 151. Introduction to hydrologic modeling. Topics selected from areas of (1) open-channel flow, including one-dimensional steady flow and unsteady flow, (2) pipe flow and water distribution systems, (3) rainfall-runoff modeling, and (4) groundwater flow and contaminant transport modeling, with focus on use of industry and/or research standard models with locally relevant applications. Letter grading."
+    },
+    {
+      "course number & title": "157B. Design of Water Treatment Plants",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 155. Water quality standards and regulations, overview of water treatment plants, design of unit operations, predesign of water treatment plants, hydraulics of plants, process control, and cost estimation. Letter grading."
+    },
+    {
+      "course number & title": "157C. Design of Wastewater Treatment Plants",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 155. Process design of wastewater treatment plants, including primary and secondary treatment, detailed design review of existing plants, process control, and economics. Letter grading."
+    },
+    {
+      "course number & title": "157L. Hydrologic Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, five hours; outside study, five hours. Requisite: course 150. Collection, compilation, and interpretation of data for quantification of components of hydrologic cycle, including precipitation, evaporation, infiltration, and runoff. Use of hydrologic variables and parameters for development, construction, and application of analytical models for selected problems in hydrology and water resources. Letter grading."
+    },
+    {
+      "course number & title": "C159. Green Infrastructure",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses 150, 153. Overview of fundamental science, engineering, and ecological principles to designing green infrastructure for stormwater management. Students design green infrastructure based on current practices, perform engineering calculations to calculate its performance, and develop critical thinking skills needed to design innovative or futuristic green infrastructures that would not only mitigate adverse impact of climate change, but also remain resilient under extreme weather conditions expected during climate change. Concurrently scheduled with course C259. Letter grading."
+    },
+    {
+      "course number & title": "164. Hazardous Waste Site Investigation and Remediation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses 150, 153, Mechanical and Aerospace Engineering 103. Overview of hazardous waste types and potential sources. Techniques in measuring and modeling subsurface flow and contaminant transport in subsurface. Design project illustrating remedial investigation and feasibility study. Letter grading."
+    },
+    {
+      "course number & title": "M165. Environmental Nanotechnology: Implications and Applications",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Engineering M103.) Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: Engineering M101. Introduction to potential implications of nanotechnology to environmental systems as well as potential application of nanotechnology to environmental protection. Technical contents include three multidisciplinary areas: (1) physical, chemical, and biological properties of nanomaterials, (2) transport, reactivity, and toxicity of nanoscale materials in natural environmental systems, and (3) use of nanotechnology for energy and water production, plus environmental protection, monitoring, and remediation. Letter grading."
+    },
+    {
+      "course number & title": "M166. Environmental Microbiology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Environmental Health Sciences M166.) Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: course 153. Microbial cell and its metabolic capabilities, microbial genetics and its potentials, growth of microbes and kinetics of growth, microbial ecology and diversity, microbiology of wastewater treatment, probing of microbes, public health microbiology, pathogen control. Letter grading."
+    },
+    {
+      "course number & title": "M166L. Environmental Microbiology and Biotechnology Laboratory",
+      "Number of units": "Units: 1",
+      "Course description": "(Same as Environmental Health Sciences M166L.) Laboratory, two hours; outside study, two hours. Corequisite: course M166. General laboratory practice within environmental microbiology, sampling of environmental samples, classical and modern molecular techniques for enumeration of microbes from environmental samples, techniques for determination of microbial activity in environmental samples, laboratory setups for studying environmental biotechnology. Letter grading."
+    },
+    {
+      "course number & title": "170. Introduction to Construction Management",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Introduction to construction engineering theory, management, and techniques. Implementation of exercises from academic texts and real project case studies. Discussion of building systems, building components, project delivery methods, document control, critical path method scheduling, labor management, quality management, estimating, sustainability, and cost controls. Letter grading."
+    },
+    {
+      "course number & title": "180. Introduction to Transportation Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Designed for juniors/senior Civil Engineering students and Public Affairs graduate students. General characteristics of transportation systems, including streets and highways, rail, transit, air, and water. Capacity considerations, including planning, design, and operations. Components of roadway design, including horizontal and vertical alignment, cross sections, and pavements. Letter grading."
+    },
+    {
+      "course number & title": "181. Traffic Engineering Systems: Operations and Control",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Designed for juniors/seniors and public affairs graduate students. Applications of traffic safety improvements, highway capacity analyses, signal design and timing, Intelligent Transportation Systems concepts, and traffic interface with railroads, urban transit, bicyclists, and pedestrians. Students analyze local roadway and present recommended improvements to public agency officials. Letter grading."
+    },
+    {
+      "course number & title": "C182. Rigid and Flexible Pavements: Design, Materials, and Serviceability",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisites: courses C104, 108, 120, Materials Science 104. Correlation, analysis, and metrication of aspects of pavement design, including materials selection and traffic loading and volume. Special attention to aspects of pavement distress/serviceability and factoring of these into metrics of pavement performance. Discussion of potential choices of pavement materials (i.e., asphalt and concrete) and their specific strengths and weaknesses in paving applications. Unification and correlation of different variables that influence pavement performance and highlight their relevance in pavement design. Concurrently scheduled with course C282. Letter grading."
+    },
+    {
+      "course number & title": "188. Special Courses in Civil and Environmental Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, to be arranged; discussion, to be arranged (when scheduled); outside study, to be arranged. Special topics in civil engineering for undergraduate students taught on experimental or temporary basis, such as those taught by resident and visiting faculty members. May be repeated for credit with topic or instructor change. Letter grading."
+    },
+    {
+      "course number & title": "194. Research Group Seminars: Civil and Environmental Engineering",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Seminar, two to eight hours; outside study, four to 16 hours. Designed for undergraduate students who are part of research group. Discussion of research methods and current literature in field or of research of faculty members or students. May be repeated for credit. Letter grading."
+    },
+    {
+      "course number & title": "199. Directed Research in Civil and Environmental Engineering",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit with school approval. Individual contract required; enrollment petitions available in Office of Academic and Student Affairs. Letter grading."
+    },
+    {
+      "course number & title": "200. Civil and Environmental Engineering Graduate Seminar",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, four hours; outside study, two hours. Various topics in civil and environmental engineering that may include earthquake engineering, environmental engineering, geotechnical engineering, hydrology and water resources engineering, materials engineering, structural engineering, and structural mechanics. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "C204. Structure, Processing, and Properties of Civil Engineering Materials",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Discussion of aspects of cement and concrete materials, including manufacture of cement and production of concrete. Aspects of cement composition and basic chemical reactions, microstructure, properties of plastic and hardened concrete, chemical admixtures, and quality control and acceptance testing. Development and testing of fundamentals for complete understanding of overall response of all civil engineering materials. By end of term, successful utilization of fundamental materials science concepts to understand, explain, analyze, and describe engineering performance of civil engineering materials. Concurrently scheduled with course C104. Letter grading."
+    },
+    {
+      "course number & title": "C205. Structure and Properties of Amorphous Civil Engineering Materials",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: course 101, Chemistry 20A, 20B, Mathematics 31A, 31B, 32B, Physics 1A, 1B, 1C. Corequisite: course 108. Nature and properties of amorphous civil engineering materials in fields of infrastructure and technology. Special attention to composition-structure-properties relationships and design and selection with respect to targeted civil engineering applications. Concurrently scheduled with course C105. Letter grading."
+    },
+    {
+      "course number & title": "206. Modeling and Simulation of Civil Engineering Materials",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisites: Chemistry 20A, 20B, Mathematics 31A, 31B, 32B, Physics 1A, 1B, 1C. Fundamental examination of modeling and numerical simulations for civil engineering materials, with focus on practical examples and applications so students can independently run simulations at scale relevant to targeted problems. Letter grading."
+    },
+    {
+      "course number & title": "220. Advanced Soil Mechanics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 120. State of stress. Consolidation and settlement analysis. Shear strength of granular and cohesive soils. In situ and laboratory methods for soil property evaluation. Letter grading."
+    },
+    {
+      "course number & title": "221. Advanced Foundation Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses 121, 220. Stress distribution. Bearing capacity and settlement of shallow foundations, including spread footings and mats. Performance of driven pile and drilled shaft foundations under vertical and lateral loading. Construction considerations. Letter grading."
+    },
+    {
+      "course number & title": "222. Introduction to Soil Dynamics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 120. Review of engineering problems involving soil dynamics. Fundamentals of theoretical soil dynamics: response of sliding block-on-plane to cyclic earthquake loads, application of theories of single degree-of-freedom (DOF) system, multiple DOF system and one-dimensional wave propagation. Fundamentals of cyclic soil behavior: stress-strain-pore water pressure behavior, shear moduli and damping, cyclic settlement and concept of volumetric cyclic threshold shear strain. Introduction to modeling of cyclic soil behavior. Letter grading."
+    },
+    {
+      "course number & title": "223. Slope Stability and Earth Retention Systems",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses 120, 121, 220. Basic concepts of stability of earth slopes, including shear strength, design charts, limit equilibrium analysis, seepage analysis, staged construction, and rapid drawdown. Theory of earth pressures behind retaining structures, with special application to design of retaining walls, sheet piles, mechanically stabilized earth, soil nails, and anchored and braced excavation. Letter grading."
+    },
+    {
+      "course number & title": "224. Advanced Cyclic and Monotonic Soil Behavior",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 120. In-depth study of soil behavior under cyclic and monotonic loads. Relationships between stress, strain, pore water pressure, and volume change in range of very small and large strains. Concept of normalized static and cyclic soil behavior. Cyclic degradation and liquefaction of saturated soils. Cyclic settlement of partially saturated and dry soils. Concept of volumetric cyclic threshold shear strain. Factors affecting shear moduli and damping during cyclic loading. Postcyclic behavior under monotonic loads. Critical review of laboratory, field, and modeling testing techniques. Letter grading."
+    },
+    {
+      "course number & title": "225. Geotechnical Earthquake Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses 220, 245 (may be taken concurrently). Analysis of earthquake-induced ground failure, including soil liquefaction, cyclic softening of clays, seismic compression, surface fault rupture, and seismic slope stability. Ground response effects on earthquake ground motions. Soil-structure interaction, including inertial and kinematic interaction and foundation deformations under seismic loading. Letter grading."
+    },
+    {
+      "course number & title": "226. Geoenvironmental Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 120. Field of geoenvironmental engineering involves application of geotechnical principles to environmental problems. Topics include environmental regulations, waste characterization, geosynthetics, solid waste landfills, subsurface barrier walls, and disposal of high water content materials. Letter grading."
+    },
+    {
+      "course number & title": "227. Numerical Methods in Geotechnical Engineering",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 220. Introduction to basic concepts of computer modeling of soils using finite element method, and to constitutive modeling based on elasticity and plasticity theories. Special emphasis on numerical applications and identification of modeling concerns such as instability, bifurcation, nonexistence, and nonuniqueness of solutions. Letter grading."
+    },
+    {
+      "course number & title": "228. Engineering Geology: Geologic Principles for Engineers",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 120. Engineering geology involves interpretation, evaluation, analysis, and application of geologic information and data to civil works. Topics include geologic characterization and classification of soil and rock units. Relationships developed between landforms, active, past, and ancient geologic processes, ground and surface water, and properties of soil and rock. Landform changes occur in response to dynamic processes, including changes in climate, slope formation, fluvial (river) dynamics, coastal dynamics, and deep-seated processes like volcanism, seismicity, and tectonics. Evaluation and analysis of effects of geologic processes to predict their potential effect on land use, development, public health, and public safety. Letter grading."
+    },
+    {
+      "course number & title": "M230A. Linear Elasticity",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Mechanical and Aerospace Engineering M256A.) Lecture, four hours; outside study, eight hours. Requisite: Mechanical and Aerospace Engineering 156A or 166A. Linear elastostatics. Cartesian tensors; infinitesimal strain tensor; Cauchy stress tensor; strain energy; equilibrium equations; linear constitutive relations; plane elastostatic problems, holes, corners, inclusions, cracks; three-dimensional problems of Kelvin, Boussinesq, and Cerruti. Introduction to boundary integral equation method. Letter grading."
+    },
+    {
+      "course number & title": "M230B. Nonlinear Elasticity",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Mechanical and Aerospace Engineering M256B.) Lecture, four hours; outside study, eight hours. Requisite: course M230A. Kinematics of deformation, material and spatial coordinates, deformation gradient tensor, nonlinear and linear strain tensors, strain displacement relations; balance laws, Cauchy and Piola stresses, Cauchy equations of motion, balance of energy, stored energy; constitutive relations, elasticity, hyperelasticity, thermoelasticity; linearization of field equations; solution of selected problems. Letter grading."
+    },
+    {
+      "course number & title": "M230C. Plasticity",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Mechanical and Aerospace Engineering M256C.) Lecture, four hours; outside study, eight hours. Requisites: courses M230A, M230B. Classical rate-independent plasticity theory, yield functions, flow rules and thermodynamics. Classical rate-dependent viscoplasticity, Perzyna and Duvant/Lions types of viscoplasticity. Thermoplasticity and creep. Return mapping algorithms for plasticity and viscoplasticity. Finite element implementations. Letter grading."
+    },
+    {
+      "course number & title": "232. Theory of Plates and Shells",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 130. Small and large deformation theories of thin plates; energy methods; free vibrations; membrane theory of shells; axisymmetric deformations of cylindrical and spherical shells, including bending. Letter grading."
+    },
+    {
+      "course number & title": "233. Mechanics of Composite Material Structures",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses M230B, 232. Elastic, anisotropic stress-strain-temperature relations. Analysis of prismatic beams by three-dimensional elasticity. Analysis of laminated anisotropic plates and shells based on classical and first-order shear deformation theories. Elastodynamic behavior of laminated plates and cylinders. Letter grading."
+    },
+    {
+      "course number & title": "235A. Advanced Structural Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 135A. Recommended: course 135B. Review of matrix force and displacement methods of structural analysis; virtual work theorem, virtual forces, and displacements; theorems on stationary value of total and complementary potential energy, minimum total potential energy, Maxwell/Betti theorems, effects of approximations, introduction to finite element analysis. Letter grading."
+    },
+    {
+      "course number & title": "235B. Finite Element Analysis of Structures",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses 130, 235A. Direct energy formulations for deformable systems; solution methods for linear equations; analysis of structural systems with one-dimensional elements; introduction to variational calculus; discrete element displacement, force, and mixed methods for membrane, plate, shell structures; instability effects. Letter grading."
+    },
+    {
+      "course number & title": "235C. Nonlinear Structural Analysis  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 235B. Classification of nonlinear effects; material nonlinearities; conservative, nonconservative material behavior; geometric nonlinearities, Lagrangian, Eulerian description of motion; finite element methods in geometrically nonlinear problems; postbuckling behavior of structures; solution of nonlinear equations; incremental, iterative, programming methods. Letter grading."
+    },
+    {
+      "course number & title": "236. Stability of Structures I  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 130 or 135B. Elastic buckling of bars. Different approaches to stability problems. Inelastic buckling of columns and beam columns. Columns and beam columns with linear, nonlinear creep. Combined torsional and flexural buckling of columns. Buckling of plates. Letter grading."
+    },
+    {
+      "course number & title": "M237A. Dynamics of Structures",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Mechanical and Aerospace Engineering M269A.) Lecture, four hours; outside study, eight hours. Requisite: course 137. Principles of dynamics. Determination of normal modes and frequencies by differential and integral equation solutions. Transient and steady state response. Emphasis on derivation and solution of governing equations using matrix formulation. Letter grading."
+    },
+    {
+      "course number & title": "238. Computational Solid Mechanics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 235B. Advanced finite element and meshfree methods for computational solid mechanics. Stability and consistency in temporal discretization of parabolic and hyperbolic systems. Analysis of numerical dissipation and dispersion. Multifield variational principles for constrained problems. Meshfree methods: approximation theories, Galerkin meshfree methods, collocation meshfree methods, imposition of boundary conditions, domain integration, stability. Letter grading."
+    },
+    {
+      "course number & title": "C239. Elementary Structural Dynamics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Recommended requisite: course 135B. Basic structural dynamics course for civil engineering students. Elastic free and forced vibrations of single degree of freedom systems, introduction to response history and response spectrum analysis approaches for single and multidegree of freedom systems. Axial, bending, and torsional vibration of beams. Concurrently scheduled with course C137. Letter grading."
+    },
+    {
+      "course number & title": "241. Advanced Steel Structures",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses C137, 141, 235A. Performance characterization of steel structures for static and earthquake loads. Behavior state analysis and building code provisions for special moment resisting, braced, and eccentric braced frames. Composite steel-concrete structures. Letter grading."
+    },
+    {
+      "course number & title": "243A. Behavior and Design of Reinforced Concrete Structural Elements",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 142. Advanced topics on design of reinforced concrete structures, including stress-strain relationships for plain and confined concrete, moment-curvature analysis of sections, and design for shear. Design of slender and low-rise walls, as well as design of beam-column joints. Introduction to displacement-based design and applications of strut-and-tie models. Letter grading."
+    },
+    {
+      "course number & title": "243B. Response and Design of Reinforced Concrete Structural Systems",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses 243A, 246. Information on response and behavior of reinforced concrete buildings to earthquake ground motions. Topics include use of elastic and inelastic response spectra, role of strength, stiffness, and ductility in design, use of prescriptive versus performance-based design methodologies, and application of elastic and inelastic analysis techniques for new and existing construction. Letter grading."
+    },
+    {
+      "course number & title": "244. Structural Reliability",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Introduction to concepts and applications of structural reliability. Topics include computing first- and second-order estimates of failure probabilities of engineered systems, computing sensitivities of failure probabilities to assumed parameter values, measuring relative importance of random variables associated with systems, identifying relative advantages and disadvantages of various analytical reliability methods, using reliability tools to calibrate simplified building codes, and performing reliability calculations related to performance-based engineering. Letter grading."
+    },
+    {
+      "course number & title": "245. Earthquake Ground Motion Characterization",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Corequisite: course C137 or 246. Earthquake fundamentals, including plate tectonics, fault types, seismic waves, and magnitude scales. Characterization of earthquake source, including magnitude range and rate of future earthquakes. Ground motion prediction equations and site effects on ground motion. Seismic hazard analysis. Ground motion selection and modification for response history analysis. Letter grading."
+    },
+    {
+      "course number & title": "246. Structural Response to Ground Motions",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses C137, 141, 142, 235A. Spectral analysis of ground motions: response, time, and Fourier spectra. Response of structures to ground motions due to earthquakes. Computational methods to evaluate structural response. Response analysis, including evaluation of contemporary design standards. Limitations due to idealizations. Letter grading."
+    },
+    {
+      "course number & title": "247. Earthquake Hazard Mitigation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses 130, and M237A or 246. Concept of seismic isolation, linear theory of base isolation, visco-elastic and hysteretic behavior, elastomeric bearings under compression and bending, buckling of bearings, sliding bearings, passive energy dissipation devices, response of structures with isolation and passive energy dissipation devices, static and dynamic analysis procedures, code provisions and design methods for seismically isolated structures. Letter grading."
+    },
+    {
+      "course number & title": "250A. Surface Water Hydrology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 150. In-depth study of surface water hydrology, including discussion and interrelationship of major topics such as rainfall and evaporation, soils and infiltration properties, runoff and snowmelt processes. Introduction to rainfall-runoff modeling, floods, and policy issues involved in water resource engineering and management. Letter grading."
+    },
+    {
+      "course number & title": "250B. Groundwater Hydrology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisite: course 150. Theory of movement and occurrence of water in subterranean aquifers. Steady flow in confined and unconfined aquifers. Mechanics of wells; steady and unsteady radial flows in confined and unconfined aquifers. Theory of leaky aquifers. Parameter estimation. Seawater intrusion. Numerical methods. Applications. Letter grading."
+    },
+    {
+      "course number & title": "250C. Hydrometeorology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 250A. In-depth study of hydrometeorological processes. Role of hydrology in climate system, precipitation and evaporation processes, atmospheric radiation, exchange of mass, heat, and momentum between soil and vegetation surface and overlying atmosphere, flux and transport in turbulent boundary layer, basic remote sensing principles. Letter grading."
+    },
+    {
+      "course number & title": "250D. Water Resources Systems Engineering  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 151. Application of mathematical programming techniques to water resources systems. Topics include reservoir management and operation; optimal timing, sequencing and sizing of water resources projects; and multiobjective planning and conjunctive use of surface water and groundwater. Emphasis on management of water quantity. Letter grading."
+    },
+    {
+      "course number & title": "251A. Rainfall-Runoff Modeling",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses 250A, 251B. Introduction to hydrologic modeling concepts, including rainfall-runoff analysis, input data, uncertainty analysis, lumped and distributed modeling, parameter estimation and sensitivity analysis, and application of models for flood forecasting and prediction of streamflows in water resource applications. Letter grading."
+    },
+    {
+      "course number & title": "251B. Contaminant Transport in Groundwater",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses 250B, 253. Phenomena and mechanisms of hydrodynamic dispersion, governing equations of mass transport in porous media, various analytical and numerical solutions, determination of dispersion parameters by laboratory and field experiments, biological and reactive transport in multiphase flow, remediation design, software packages and applications. Letter grading."
+    },
+    {
+      "course number & title": "251C. Remote Sensing with Hydrologic Applications",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses 250A, 250C. Introduction to basic physical concepts of remote sensing as they relate to surface and atmospheric hydrologic processes. Applications include radiative transfer modeling and retrieval of hydrologically relevant parameters like topography, soil moisture, snow properties, vegetation, and precipitation. Letter grading."
+    },
+    {
+      "course number & title": "251D. Hydrologic Data Assimilation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses 250A, 250C. Introduction to basic concepts of classical and Bayesian estimation theory for purposes of hydrologic data assimilation. Applications geared toward assimilating disparate observations into dynamic models of hydrologic systems. Letter grading."
+    },
+    {
+      "course number & title": "252. Engineering Economic Analysis of Water and Environmental Planning",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Enforced requisites: Engineering 110, one or more courses from Economics 1, 2, 11, 101. Economic theory and applications in analysis and management of water and environmental problems; application of price theory to water resource management and renewable resources; benefit-cost analysis with applications to water resources and environmental planning. Letter grading."
+    },
+    {
+      "course number & title": "253. Mathematical Models for Water Quality Management  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 153. Development of mathematical models for simulating environmental engineering problems. Emphasis on numerical techniques to solve nonlinear partial differential equations and their application to environmental engineering problems. Letter grading."
+    },
+    {
+      "course number & title": "254A. Environmental Aquatic Inorganic Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: Chemistry 20B, Mathematics 31A, 31B, Physics 1A, 1B. Equilibrium and kinetic descriptions of chemical behavior of metals and inorganic ions in natural fresh/marine surface waters and in water treatment. Processes include acid-base chemistry and alkalinity (carbonate system), complexation, precipitation/dissolution, absorption oxidation/reduction, and photochemistry. Letter grading."
+    },
+    {
+      "course number & title": "255A. Physical and Chemical Processes for Water and Wastewater Treatment",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses 155, 254A. Review of momentum and mass transfer, chemical reaction engineering, coagulation and flocculation, granular filtrations, sedimentation, carbon adsorption, gas transfer, disinfection, oxidation, and membrane processes. Letter grading."
+    },
+    {
+      "course number & title": "255B. Biological Processes for Water and Wastewater Treatment",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses 254A, 255A. Fundamentals of environmental engineering microbiology; kinetics of microbial growth and biological oxidation; applications for activated sludge, gas transfer, fixed-film processes, aerobic and anaerobic digestion, sludge disposal, and biological nutrient removal. Letter grading."
+    },
+    {
+      "course number & title": "258A. Membrane Separations in Aquatic Systems",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 254A. Applications of membrane separations to desalination, water reclamation, brine disposal, and ultrapure water systems. Discussion of reverse osmosis, ultrafiltration, electrodialysis, and ion exchange technologies from both practical and theoretical standpoints. Letter grading."
+    },
+    {
+      "course number & title": "C259. Green Infrastructure",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Requisites: courses 150, 153. Overview of fundamental science, engineering, and ecological principles to designing green infrastructure for stormwater management. Students design green infrastructure based on current practices, perform engineering calculations to calculate its performance, and develop critical thinking skills needed to design innovative or futuristic green infrastructures that would not only mitigate adverse impact of climate change, but also remain resilient under extreme weather conditions expected during climate change. Concurrently scheduled with course C159. Letter grading."
+    },
+    {
+      "course number & title": "260. Advanced Topics in Hydrology and Water Resources  ",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses 250A, 250B, 250D. Current research topics in inverse problem of parameter estimation, experimental design, conjunctive use of surface and groundwater, multiobjective water resources planning, and optimization of water resource systems. Topics may vary from term to term. Letter grading."
+    },
+    {
+      "course number & title": "261. Colloidal Phenomena in Aquatic Systems",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses 254A, 255A. Colloidal interactions, colloidal stability, colloidal hydrodynamics, surface chemistry, adsorption of pollutants on colloidal surfaces, transport of colloids in porous media, coagulation, and particle deposition. Consideration of applications to colloidal processes in aquatic environments. Letter grading."
+    },
+    {
+      "course number & title": "261B. Advanced Biological Processes for Water and Wastewater Treatment",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 255B. In-depth treatment of selected topics related to biological treatment of waters and wastewaters, such as biodegradation of xenobiotics, pharmaceuticals, emerging pollutants, toxicity, and nutrients. Discussion of theoretical aspects, experimental observations, and recent literature. Application to important and emerging environmental problems. Letter grading."
+    },
+    {
+      "course number & title": "M262A. Introduction to Atmospheric Chemistry",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Atmospheric and Oceanic Sciences M203A.) Lecture, three hours. Requisite for undergraduates: Chemistry 20B. Principles of chemical kinetics, thermochemistry, spectroscopy, and photochemistry; chemical composition and history of Earth's atmosphere; biogeochemical cycles of key atmospheric constituents; basic photochemistry of troposphere and stratosphere, upper atmosphere chemical processes; air pollution; chemistry and climate. S/U or letter grading."
+    },
+    {
+      "course number & title": "M262B. Atmospheric Diffusion and Air Pollution",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Atmospheric and Oceanic Sciences M224B.) Lecture, three hours. Nature and sources of atmospheric pollution; diffusion from point, line, and area sources; pollution dispersion in urban complexes; meteorological factors and air pollution potential; meteorological aspects of air pollution. S/U or letter grading."
+    },
+    {
+      "course number & title": "263A. Physics of Environmental Transport",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Designed for graduate students. Transport processes in surface water, groundwater, and atmosphere. Emphasis on exchanges across phase boundaries: sediment/water interface; air/water gas exchange; particles, droplets, and bubbles; small-scale dispersion and mixing; effect of reactions on transport; linkages between physical, chemical, and biological processes. Letter grading."
+    },
+    {
+      "course number & title": "263B. Advanced Topics in Transport at Environmental Interfaces",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 263A. In-depth treatment of selected topics involving transport phenomena at environmental interfaces between solid, fluid, and gas phases, such as aquatic sediments, porous aggregates, and vegetative canopies. Discussion of theoretical models and experimental observations. Application to important environmental engineering problems. Letter grading."
+    },
+    {
+      "course number & title": "266. Environmental Biotechnology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisites: courses 153, 254A. Environmental biotechnology--concept and potential, biotechnology of pollutional control, bioremediation, biomass conversion: composting, biogas and bioethanol production. Letter grading."
+    },
+    {
+      "course number & title": "267. Environmental Applications of Geochemical Modeling",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; outside study, eight hours. Requisite: course 254A. Geochemical modeling is important tool for predicting environmental impacts of contamination. Hands-on experience in modeling using geochemical software packages commonly found in environmental consulting industry to gain better understanding of governing geochemical principles pertaining to movement and transformation of contaminants. Types of modeling include speciation, mineral solubility, surface complexation, reaction path, inverse mass balance, and reactive transport modeling. Case studies involve acid mine drainage, nuclear waste disposal, bioavailability and risk assessment, mine tailings and mining waste, deep well injection, landfill leachate, and microbial respiration. Research/modeling project required. Letter grading."
+    },
+    {
+      "course number & title": "C282. Rigid and Flexible Pavements: Design, Materials, and Serviceability",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours; discussion, two hours; outside study, six hours. Correlation, analysis, and metrication of aspects of pavement design, including materials selection and traffic loading and volume. Special attention to aspects of pavement distress/serviceability and factoring of these into metrics of pavement performance. Discussion of potential choices of pavement materials (i.e., asphalt and concrete) and their specific strengths and weaknesses in paving applications. Unification and correlation of different variables that influence pavement performance and highlight their relevance in pavement design. Concurrently scheduled with course C182. Letter grading."
+    },
+    {
+      "course number & title": "296. Advanced Topics in Civil Engineering",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Seminar, to be arranged. Discussion of current research and literature in research specialty of faculty member teaching course. S/U grading."
+    },
+    {
+      "course number & title": "298. Seminar: Engineering",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Seminar, to be arranged. Limited to graduate civil engineering students. Seminars may be organized in advanced technical fields. If appropriate, field trips may be arranged. May be repeated with topic change. Letter grading."
+    },
+    {
+      "course number & title": "375. Teaching Apprentice Practicum",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "495. Teaching Assistant Training Seminar  ",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Preparation: appointment as teaching assistant in Civil and Environmental Engineering Department. Seminar on communication of civil engineering principles, concepts, and methods; teaching assistant preparation, organization, and presentation of material, including use of visual aids; grading, advising, and rapport with students. S/U grading."
+    },
+    {
+      "course number & title": "596. Directed Individual or Tutorial Studies  ",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. Limited to graduate civil engineering students. Petition forms to request enrollment may be obtained from assistant dean, Graduate Studies. Supervised investigation of advanced technical problems. S/U grading."
+    },
+    {
+      "course number & title": "597A. Preparation for MS Comprehensive Examination",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Limited to graduate civil engineering students. Reading and preparation for M.S. comprehensive examination. S/U grading."
+    },
+    {
+      "course number & title": "597B. Preparation for PhD Preliminary Examination",
+      "Number of units": "Units: 2 to 16",
+      "Course description": "Tutorial, to be arranged. Limited to graduate civil engineering students. S/U grading."
+    },
+    {
+      "course number & title": "597C. Preparation for PhD Oral Qualifying Examination",
+      "Number of units": "Units: 2 to 16",
+      "Course description": "Tutorial, to be arranged. Limited to graduate civil engineering students. Preparation for oral qualifying examination, including preliminary research on dissertation. S/U grading."
+    },
+    {
+      "course number & title": "598. Research for and Preparation of MS Thesis",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. Limited to graduate civil engineering students. Supervised independent research for M.S. candidates, including thesis prospectus. S/U grading."
+    },
+    {
+      "course number & title": "599. Research for and Preparation of PhD Dissertation",
+      "Number of units": "Units: 2 to 16",
+      "Course description": "Tutorial, to be arranged. Limited to graduate civil engineering students. Usually taken after students have been advanced to candidacy. S/U grading."
+    }
+  ]
+}

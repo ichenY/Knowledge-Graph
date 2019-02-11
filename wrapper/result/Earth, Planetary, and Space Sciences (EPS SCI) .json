@@ -1,0 +1,810 @@
+{
+  "subject": "Earth, Planetary, and Space Sciences (EPS SCI) ",
+  "course": [
+    {
+      "course number & title": "1. Introduction to Earth Science",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; laboratory, two hours; field days. Not open to students with credit for or currently enrolled in course 100. Elements of Earth science; study of Earth materials; nature and interpretation of geologic evidence; study of geologic processes; historical aspects of geology. Mandatory field trips introduce students to solving of geologic problems in field. P/NP or letter grading."
+    },
+    {
+      "course number & title": "3. Astrobiology",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, one hour; two field days. Origin, evolution, distribution, and future of life on Earth and in universe, paralleling major scientific initiative of NASA. Course material primarily from planetary and Earth science, paleontology and biology, astronomy, chemistry, and physics, with relatively little from mathematics. P/NP or letter grading."
+    },
+    {
+      "course number & title": "5. Environmental Geology of Los Angeles",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours; field trips. Geologic hazards and natural resources of greater Los Angeles region. Topics include Los Angeles geologic hazards such as earthquakes, landslides, and floods; Southern California oil fields; gold and gem mining in region; local beach processes; and Los Angeles water resource problems. Field trips to San Andreas fault, California aqueduct, active landslides, and historic gold mines. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M7. Perils of Space: Introduction to Space Weather",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 7.) (Same as Atmospheric and Oceanic Sciences M7.) Lecture, four hours. Concepts of plasma physics. Dynamic sun, solar wind, and Earth's magnetosphere and ionosphere. Space storms and substorms and their impacts on astronauts, spacecraft, and surface power and communication grids. P/NP or letter grading."
+    },
+    {
+      "course number & title": "8. Earthquakes",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; laboratory, one hour; one field day. Causes and effects of earthquakes. Plate motion, frictional faulting, earthquake instability, wave propagation, earthquake damage, and other social effects. Hazard reduction through earthquake forecasting and earthquake-resistant design. P/NP or letter grading."
+    },
+    {
+      "course number & title": "9. Solar System and Planets",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Properties of sun, planets, asteroids, and comets. Astronomical observations relevant to understanding solar system and its origin. Dynamical problems, including examination of fallacious hypotheses. Meteoritic evidence regarding earliest history of solar system. Chemical models of solar nebula. Space exploration and its planning. P/NP or letter grading."
+    },
+    {
+      "course number & title": "10. Exploring Mars, Red Planet",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. History and future of Mars exploration, origin of planet, surface materials, and atmosphere. History of climate. Questions regarding water and life. Scientific and practical issues in mission design. P/NP or letter grading."
+    },
+    {
+      "course number & title": "13. Natural Disasters",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; discussion, one hour; one field day. Global urbanization together with historical demographic population shift to coastal areas, especially around Pacific Ocean's \"Ring of Fire,\" are placing increasingly large parts of this planet's human population at risk due to earthquakes, volcanos, and tsunamis. Global climate change combines with variety of geologic processes to create enhanced risks from catastrophic mass movements (e.g., landslides), hurricanes, floods, and fires. Exploration of physical processes behind natural disasters and discussion of how these natural events affect quality of human life. P/NP or letter grading."
+    },
+    {
+      "course number & title": "15. Blue Planet: Introduction to Oceanography",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; laboratory, two hours. Not open for credit to students with credit for or currently enrolled in Ecology and Evolutionary Biology 25. General introduction to geological, physical, chemical, and biological processes and history of Earth's global ocean system. P/NP or letter grading."
+    },
+    {
+      "course number & title": "16. Major Events in History of Life",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, two hours. Designed for nonmajors. History of life on Earth as revealed through fossil record. P/NP or letter grading."
+    },
+    {
+      "course number & title": "17. Dinosaurs and Their Relatives",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; laboratory, two hours; one optional field trip. Designed for nonmajors. Exploration of biology, evolution, and extinction of dinosaurs and close relatives, in context of history of biosphere. Information from paleontology, biology, and geology. P/NP or letter grading."
+    },
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "20. Natural History of Southern California",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two hours; laboratory, three hours; five field weekends. Identification, distribution, diversity of native plants and communities; identification and interpretation of rocks, minerals, and geologic features and geologic history of physiographic regions of Southern California. Emphasis on field-based learning. P/NP or letter grading."
+    },
+    {
+      "course number & title": "51. Mineralogy: Earth and Planetary Materials",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, four hours. Enforced requisite: course 1. Recommended: completion of chemistry requirement. Principles of mineralogy. Mineral structure and bonding and crystal chemistry, with focus on materials of interest for Earth and planetary sciences and major rock-forming minerals. Laboratory study of relationship between mineral structure and properties, including hand sample identification, microscopy (optical and electron), X-ray diffraction, and spectroscopy techniques. P/NP or letter grading."
+    },
+    {
+      "course number & title": "61. Geologic Maps",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, three hours; five field days. Enforced requisite: course 1. Planning, creation, and interpretation of geologic maps, including both practical and philosophical problems that arise. Topographic and geologic mapping in field. Interpretation of published maps in laboratory. P/NP or letter grading."
+    },
+    {
+      "course number & title": "71. Introduction to Computing for Geoscientists",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours; outside computing study, three hours. Introduction to writing programs in MATLAB, visualization of geoscience data, and comparison with models. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89. Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "100. Principles of Earth Science",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Designed for nonmajors. Not open to students with credit for course 1. Fundamentals of physical geology and Earth history; major problems of geology, such as continental drift and development of large-scale features of Earth; physical and biological evolution. P/NP or letter grading."
+    },
+    {
+      "course number & title": "101. Earth's Energy: Diminishing Fossil Resources and Prospects for Sustainable Future",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, two hours; two optional field trips. Preparation: one lower-division atmospheric sciences, chemistry, Earth sciences, or physics course. Earth's energy resources (fossil fuels and alternatives) from Earth science and sustainability perspective. P/NP or letter grading."
+    },
+    {
+      "course number & title": "103A. Igneous Petrology",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two to three hours; laboratory, six hours; field trips. Enforced requisites: course 51, Chemistry 14B and 14BL, or 20B and 20L, Mathematics 3B or 31B. Mineralogy, chemical composition, and field occurrence of igneous rocks with reference to their origin by melting in earth. Introduction to thermodynamics as applied to petrology. Formation of magma, its movement, eruption, crystallization, and chemical evolution. Petrologic structure of crust and mantle and its relation to seismology. Overview of petrological and chemical evolution of Earth, moon, and other planets from their origin to present. P/NP or letter grading."
+    },
+    {
+      "course number & title": "103B. Sedimentary Petrology",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two to three hours; laboratory, six hours; field trips. Enforced requisite: course 103A. Recommended: course 61. Study of sedimentary rocks based on characteristics of sedimentary particles and dynamics of depositional processes. Lectures focus on development of depositional facies models, and laboratories emphasize recognition of sedimentary deposits from each major depositional facies. P/NP or letter grading."
+    },
+    {
+      "course number & title": "103C. Metamorphic Petrology",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, two to three hours; laboratory, six hours; field trips. Enforced requisite: course 103B. Interpretation of metamorphic rocks based on field occurrence, mineralogical composition, texture, and application of physical and chemical principles. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C106. Physical Geochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 51. Basic principles of physical chemistry for geologic applications. Thermodynamics and kinetics of reactions among minerals, natural waters, and magmas; construction and interpretation of phase diagrams; case studies of important geochemical and environmental issues. Concurrently scheduled with course C206. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C107. Geochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Designed for junior/senior and graduate physical sciences students. Origin and abundance of elements and their isotopes; distribution and chemistry of elements in Earth and its environment. Concurrently scheduled with course C207. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C109. Isotope Geochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Designed for junior/senior and graduate physical and biological sciences students. Theoretical aspects of isotope behavior: stable and radiogenic isotopes. Principles of geochronology. Use of isotopes as tracers in crust and mantle processes. Stable isotopes as indicators of environment and paleoclimate. Concurrently scheduled with course C209. P/NP or letter grading."
+    },
+    {
+      "course number & title": "111. Stratigraphic and Field Geology",
+      "Number of units": "Units: 6",
+      "Course description": "Lecture, two hours; laboratory, three hours; fieldwork, eight hours per week. Enforced requisites: courses 61, 112. Principles of stratigraphy; geologic mapping of selected area; preparation of geologic report. Letter grading."
+    },
+    {
+      "course number & title": "111G. Field Geology",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two hours; laboratory, three hours; fieldwork, one day per week. Designed for graduate students. Geologic mapping, principles of stratigraphy, structural geology, and map interpretation. S/U or letter grading."
+    },
+    {
+      "course number & title": "112. Structural Geology",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, three hours; laboratory, six hours. Requisites: courses 1, 61. Recommended: course 51. Planar and linear structures at different scales in sedimentary, metamorphic, and igneous rocks. Faults and folds, their description, classification, and kinematic and dynamic analysis. Deformation, strength, fracture, and rheological properties of rocks. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C113. Biological and Environmental Geochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: Chemistry 14A and 14B (or 20A and 20B), Mathematics 3A, 3B, and 3C (or 31A and 31B). Recommended: at least one lower-division Earth, planetary, and space sciences course. Intended for junior/senior life and physical sciences students. Study of chemistry of Earth's surface environment and interplay between biology, human activity, and geology. Introduction to origin and composition of Earth, including atmosphere, crust, and hydrosphere. Examination of how these reservoirs are affected by biological cycles and feedbacks to biological evolution and diversity. Local and global-scale movements of biologically important elements like carbon, nitrogen, and phosphorus. Concurrently scheduled with course C213. P/NP or letter grading."
+    },
+    {
+      "course number & title": "CM114. Aquatic Geomicrobiology",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered C114.) (Same as Atmospheric and Oceanic Sciences CM114.) Lecture, three hours; discussion, one hour. Recommended requisite: course C107 or Atmospheric and Oceanic Sciences M105. Fundamental geomicrobiological metabolisms and biogeochemical reactions occurring in aquatic systems, how they impact their environment, and how they interact in complex ecosystems such as methane seeps, hydrothermal vents, coral reefs, microbial mats, or deep biosphere. Metabolisms include different photoautotrophic, heterotrophic, and chemoautotrophic pathways. Interpretation of geochemical profiles and understanding of how microorganisms govern mineralization and element cycling in aquatic systems. Concurrently scheduled with course CM214. P/NP or letter grading."
+    },
+    {
+      "course number & title": "116. Paleontology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours; field trips. Requisite: Life Sciences 1 or 2. Review of major groups of fossil organisms and their significance in geology and biology. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M118. Advanced Paleontology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Ecology and Evolutionary Biology M145.) Lecture, three hours. Requisite: course 116 or Ecology and Evolutionary Biology 110 or 117. Consideration of major factors that have influenced history of life, including analytical approaches to analyzing patterns in fossil record, nature of rock record, and contribution of data from stable isotopes, functional morphology, phylogenetics, and developmental biology. P/NP or letter grading."
+    },
+    {
+      "course number & title": "119. Continental Drift and Plate Tectonics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 1 or 100. Designed for juniors/seniors in physical sciences. Classical concepts of sedimentation and tectonics. Alfred Wegener's theory of continental drift and ensuing controversy. Physiography of continents and oceans. Geophysical evidence regarding nature of ocean floor. Magnetic stratigraphy. Seafloor spreading. Plate tectonic model and its driving mechanisms. Tectonic, igneous, and metamorphic processes at plate boundaries. P/NP or letter grading."
+    },
+    {
+      "course number & title": "120. Rubey Colloquium: Major Advances in Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Designed for juniors/seniors. Lectures on major advances in Earth science offered by distinguished authorities (including regular faculty members). Supervision of continuity and assessment of student performance by faculty member. Content varies from year to year. If laboratory work is required, course 199 must be taken concurrently. P/NP or letter grading."
+    },
+    {
+      "course number & title": "121. Advanced Field Geology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours. Requisites: courses 61, 103A, 111, 112. Problems in regional geology and field research; preparation of written geologic reports. P/NP or letter grading."
+    },
+    {
+      "course number & title": "121F. Advanced Field Geology: Fieldwork",
+      "Number of units": "Units: 4",
+      "Course description": "Fieldwork, 20 hours. Advanced techniques in field geologic mapping and preparation of geologic maps and cross-sections, including igneous, metamorphic, and sedimentary terrains. P/NP or letter grading."
+    },
+    {
+      "course number & title": "122. Introduction to Seismology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours. Enforced requisites: Mathematics 31A, 31B, 32A, Physics 1A (or 1AH), 1B (or 1BH). Recommended: course 71, Mathematics 33B. Earth mantle and core. Elasticity, seismic wave equation, ray theory, travel time inversion, surface waves, free oscillations. Earthquakes and source theory. P/NP or letter grading."
+    },
+    {
+      "course number & title": "123. Geosciences Outreach",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; discussion, two hours; field days. Recommended requisites: at least three college-level life sciences or physical sciences courses. Introduction to pedagogical approaches and methods used in geosciences community to educate demographically diverse populations, including K-12 through higher-education audiences and general public. Focus on development of motivational and public communication skill sets as practiced at outreach events and demonstrations, including communication of science in multicultural settings. Active participation required in minimum of three scheduled outreach events over course of term, providing perspective and basis for follow-up discussions on critical geosciences literacy at local, state, and national levels. Letter grading."
+    },
+    {
+      "course number & title": "125. Volcanoes",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours; field trip(s). Requisite: course 1. Recommended: course 103A, Physics 1A or 1AH or 6A. Types of volcanism. Physics of magma chambers, volcanic plumbing, explosive and effusive eruptions as illustrated by historical examples. Practical methods of volcano monitoring, with field trip. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C126. Advanced Petrology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours; field trips. Enforced requisite: course 103A. Understanding genesis of igneous rocks based on geochemical, tectonophysical, and other geological evidence and principles. Concurrently scheduled with course C226. P/NP or letter grading."
+    },
+    {
+      "course number & title": "133. Historical and Regional Geology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours; field trips. Requisite: course 61. Recommended: courses 103B, 111, 112. Principles of historical geology. Physical evolution of Earth, especially North America. One area of Earth to be investigated in detail, with emphasis on its geologic evolution through time. Letter grading."
+    },
+    {
+      "course number & title": "136A. Applied Geophysics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours; field trips. Preparation: knowledge of MATLAB. Enforced requisites: course 71, Mathematics 3A, 3B, and 3C, or 31A, 31B, and 32A, Physics 1A, 1B, 1C, 4AL, and 4BL, or 6A, 6B, and 6C. Seismic reflection and refraction, Fourier analysis and deconvolution, vibroseis, synthetic seismograms, marine seismics, seismic interpretation, gravity and magnetic fields, inversion uniqueness and depth rules. P/NP or letter grading."
+    },
+    {
+      "course number & title": "136B. Applied Geophysics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory/field trips, six hours. Preparation: knowledge of MATLAB. Enforced requisite: course 136A. Principles and techniques of exploration for mineral deposits using natural and artificial electric and magnetic fields. Methods include self potential, resistivity, induced polarization, electromagnetics, magnetotellurics, magnetics. P/NP or letter grading."
+    },
+    {
+      "course number & title": "136C. Field Geophysics",
+      "Number of units": "Units: 6",
+      "Course description": "Lecture, three hours; discussion, one hour; laboratory, two hours; fieldwork, 10 hours. Enforced requisite: course 136A. Application of seismic, gravimetric, magnetic, electrical, and other geophysical methods to geologic and engineering problems. Practical aspects of geophysical exploration, including planning, data collection, data reduction, and interpretation. Fieldwork on unsolved problems (week-long field trip). P/NP or letter grading."
+    },
+    {
+      "course number & title": "137. Petroleum Geology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: courses 61, 111. Geology applied to exploration for and production of natural gas and petroleum; techniques of surface and subsurface geology; problems of petroleum geology. P/NP or letter grading."
+    },
+    {
+      "course number & title": "139. Engineering and Environmental Geology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisite: course 1 or 100. Recommended: course 111. Principles and practice of soil mechanics and foundation engineering in light of geologic conditions, recognition, prediction, and control or abatement of subsidence, landslides, earthquakes, and other geologic aspects of urban planning and subsurface disposal of liquids and solid wastes. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M140. Introduction to Fluid Dynamics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Atmospheric and Oceanic Sciences M120.) Lecture, three hours; discussion, one hour. Corequisite: Physics 131. Fluid statics and thermodynamics. Kinematics. Conservation laws and equations of fluid motion. Circulation theorems and vorticity dynamics. Rotating frame. Irrotational flow. Letter grading."
+    },
+    {
+      "course number & title": "C141. Basin Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours. Requisites: courses 103B, 111. Mechanisms of sedimentary basin development, flexural and thermal subsidence, isostasy, subsidence analysis, quantitative basin modeling, sediment provenance, tectonic settings. Concurrently scheduled with course C241. P/NP or letter grading."
+    },
+    {
+      "course number & title": "150. Remote Sensing for Earth Sciences",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Recommended requisites: courses 1, 61. Designed for juniors/seniors and graduate students. Remote sensing related to development of natural resources. Characteristics of electromagnetic spectrum and review of remote sensing devices. Applicability to land-use classification, soil survey, urban studies, vegetation classification; emphasis on geologic interpretation of imagery. P/NP or letter grading."
+    },
+    {
+      "course number & title": "152. Physics of Earth",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: Mathematics 33A, Physics 1C (or 1CH). Crust-to-core tour of Earth and physics used to explore it. Isostasy, plate tectonics, mantle convection, and geodynamo as discovered with tools of elasticity, fluid mechanics, and thermodynamics. P/NP or letter grading."
+    },
+    {
+      "course number & title": "153. Oceans and Atmospheres",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: Mathematics 31A, 31B, 32A, Physics 1A, 1B, and 1C (or 1AH, 1BH, and 1CH). Physics and chemistry of Earth's oceans and atmosphere; origin and evolution of planetary atmospheres; biogeochemical cycles, atmospheric radiation and climate, energetics and dynamics of oceanic and atmospheric circulation systems. P/NP or letter grading."
+    },
+    {
+      "course number & title": "154. Solar Terrestrial Physics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisite or corequisite: Physics 110A. Particle and electromagnetic emissions from sun under quiet and under disturbed conditions. Solar wind. Magnetospheres and ionospheres of Earth and other planets. Geomagnetic phenomena and aurora. P/NP or letter grading."
+    },
+    {
+      "course number & title": "155. Planetary Physics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Requisites: Mathematics 31A, 31B, 32A, Physics 1A, 1B, and 1C (or 1AH, 1BH, and 1CH). Formation of solar nebula; origin of planets and their satellites; comets, asteroids, and meteorites; celestial mechanics and dynamics; physics of planetary interiors, surfaces, and atmospheres. P/NP or letter grading."
+    },
+    {
+      "course number & title": "156. Introduction to Space Plasma Physics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Enforced requisite: Electrical Engineering 101A or Physics 110A. Senior-level introductory course on electrodynamics of ionized gases, with emphasis on fundamental processes relevant to laboratory, space, and astrophysical plasmas. Examples mostly from space, planetary, and astrophysical plasmas, stellar winds, planetary magnetospheres, and radiation belts. Other applications include materials processing, generation of coherent radiation, particle beams, and fusion energy production. Letter grading."
+    },
+    {
+      "course number & title": "C160. Field Seminar",
+      "Number of units": "Units: 2 to 6",
+      "Course description": "Seminar, three hours; discussion, one hour; fieldwork, five to 20 days. Requisite: course 61. Field-based teaching and discussion forum that varies in focus from general geology through structure and tectonics, sedimentology, igneous and metamorphic petrology, volcanology, or other subdisciplines as prescribed. May be repeated for credit. Concurrently scheduled with course C260. P/NP or letter grading."
+    },
+    {
+      "course number & title": "C162. Application of Remote Sensing in Field",
+      "Number of units": "Units: 4",
+      "Course description": "Fieldwork, five hours; laboratory, two hours. Requisite: course 150. Application of remote-sensing techniques to field situations. Digital analysis and interpretation of near-infrared, thermal-infrared, and microwave data from satellites and aircraft. Field observation of study site in California desert for testing hypotheses during week between Winter and Spring Quarters. Concurrently scheduled with course C262. P/NP or letter grading."
+    },
+    {
+      "course number & title": "165. Tectonic Geomorphology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, two hours. Enforced requisite: course 1 or 8. Recommended: courses 61, 119, Mathematics 31A. Interactions between tectonic, climate, and surface processes shape landscapes over days to millions of years. Focus on quantifying how tectonic and surface processes interact to govern landscape evolution. How landscapes can provide insights into physical and chemical surface processes, including bedrock weathering, soil formation, hillslope transport, and river and glacial erosion. How tectonics, climate, and underlying lithology may influence those processes in landscapes. P/NP or letter grading."
+    },
+    {
+      "course number & title": "171. Advanced Computing in Geosciences",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours. Enforced requisites: course 71, Mathematics 3A, 3B, and 3C (or 31A and 31B). Original programming and application of software to generate and test hypotheses with nonideal or incomplete data sets. Interpolation/extrapolation with graphics to generate hypotheses; forward modeling from fundamental equations to explore implications; probabilistic testing of models against data. Examples and exercises from Earth and space sciences. Introduction to software used in research and industry. P/NP or letter grading."
+    },
+    {
+      "course number & title": "CM173. Earth Process and Evolutionary History",
+      "Number of units": "Units: 6",
+      "Course description": "(Same as Ecology and Evolutionary Biology CM173.) Lecture, four hours; laboratory, three hours. Requisites: Chemistry 14A, 14B (or 20A, 20B), Life Sciences 1, 2, 3, and 4, or 7A, 7B, and 7C (or 7A and introductory course in geology). Exploration of relationship between physical processes, such as tectonics and climate, and how they affect surface and impact biology of Earth. Study of evolution of universe, Earth, and life, with integration of history of science, including Darwinian evolution and plate tectonics revolutions. Study of formation of matter offers tools to understand geologic process of climate and ecology of Earth. Past climate change to examine expected future human-influenced climate. Consideration of major events in history of life on Earth. Data and methods from geology, genetics, and geochemistry are integrated to reconstruct past events. This reveals how Earth processes shaped life and how life shaped Earth. Concurrently scheduled with course CM273. Letter grading."
+    },
+    {
+      "course number & title": "C179. Search for Extraterrestrial Intelligence: Theory and Applications",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, two hours. Enforced requisites: Mathematics 31B, Physics 1B. Recommended: course 71 or Computer Science 31 or Program in Computing 10A, and Physics 110B. Search for extraterrestrial intelligence (SETI) is based on number of astronomical, mathematical, statistical, and computational principles. Coverage of fundamental concepts in these disciplines in context of SETI: abundance and architecture of extrasolar planetary systems; radio astronomy, including wave propagation and dispersion; signal processing, including sampling theory and Fourier transforms; random processes, including Gaussian and Poisson statistics, and algorithm development. Design of observational program, acquisition of telescopic data, development of algorithms to analyze data, and writing of report on results. Concurrently scheduled with course C279. P/NP or letter grading."
+    },
+    {
+      "course number & title": "188. Special Topics in Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture/laboratory, to be arranged. Departmentally sponsored experimental or temporary courses, such as those taught by visiting faculty members. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189. Advanced Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "193A. Undergraduate Journal Club Seminar: Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to undergraduate students. Study of current topics in Earth, planetary, and space sciences, including participation in weekly department colloquium. May be repeated for credit. P/NP grading."
+    },
+    {
+      "course number & title": "193B. Undergraduate Journal Club Seminar: Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to undergraduate students. Study of current topics in Earth, planetary, and space sciences, including participation in weekly department colloquium. May be repeated for credit. P/NP grading."
+    },
+    {
+      "course number & title": "193C. Undergraduate Journal Club Seminar: Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to undergraduate students. Study of current topics in Earth, planetary, and space sciences, including participation in weekly department colloquium. May be repeated for credit. P/NP grading."
+    },
+    {
+      "course number & title": "C194. Research Topics in Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 1",
+      "Course description": "Research group meeting, one to three hours. Designed for departmental students participating in research group. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. Concurrently scheduled with course C296. P/NP grading."
+    },
+    {
+      "course number & title": "198. Honors Research in Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 4",
+      "Course description": "Tutorial, two hours. Limited to seniors. Individual research designed to broaden and deepen students' knowledge of some phase of Earth, planetary, and space sciences. Development and completion of honors thesis or comprehensive research project under direct supervision of faculty mentor. May be repeated for maximum of 16 units. Individual contract required. Letter grading."
+    },
+    {
+      "course number & title": "199. Directed Research or Senior Project in Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, two hours. Limited to juniors/seniors. Supervised individual research or investigation under guidance of faculty mentor. Culminating paper or project required. May be repeated for credit. Individual contract required. P/NP or letter grading."
+    },
+    {
+      "course number & title": "200A. Introduction to Geophysics and Space Physics I: Solid Earth and Planets",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: Physics 105A, 110A, 112, 131. Geochemistry, cosmochemistry, and petrology; geotectonics; gravity field; seismology; heat transfer, thermal and mechanical evolution of mantle; core and geomagnetism; lunar and planetary interiors. S/U or letter grading."
+    },
+    {
+      "course number & title": "200B. Introduction to Geophysics and Space Physics II: Oceans and Atmospheres",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: Physics 105A, 110A, 112, 131. Evolution, chemistry, and heat balance of oceans and atmospheres; molecular spectra, radiative transfer, and planetary observations; dynamics of oceans and atmospheres. S/U or letter grading."
+    },
+    {
+      "course number & title": "200C. Introduction to Geophysics and Space Physics III: Plasmas --Aeronomy and Interplanetary Medium",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: Physics 105A, 110B, 112, 131. Solar surface features, heating and expansion of corona, solar wind, plasma and magnetic fields, interaction of solar wind with Earth, magnetospheric phenomena. S/U or letter grading."
+    },
+    {
+      "course number & title": "200D. Planetary Surfaces",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Introduction to basic physical processes (both exogenic and endogenic) shaping solid surfaces in solar system and description of their optical and thermophysical properties, with emphasis on simple physics-based approach. Discussion of current literature. S/U or letter grading."
+    },
+    {
+      "course number & title": "200E. Planetary Origins and Evolution",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Designed for graduate students who are interested in origins of planetary systems and history of solar system. Open to advanced undergraduate students with consent of instructor. Provides background needed to understand and/or participate in research related to formation and evolution of solar system and of other planetary systems. Description of star/planet formation process and subsequent evolution of planetary systems by integrating observations and theory. Fosters interdisciplinary knowledge and communication between Departments of Earth and Space Sciences and Physics and Astronomy graduate students and faculty members. S/U or letter grading."
+    },
+    {
+      "course number & title": "201. Classical Mechanics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Kinematics, variational principles and Lagrange equations, rotational dynamics. Hamilton equations of motion, linear and nonlinear perturbation theory, applications to solar system. S/U or letter grading."
+    },
+    {
+      "course number & title": "202. Continuum Mechanics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Kinematics and dynamics of continuous media. Properties of stress, strain, and rate-of-strain tensors. Conservation laws. Elasticity and viscosity. Heat transfer, boundary layers, and dynamical similarity. S/U or letter grading."
+    },
+    {
+      "course number & title": "203. Numerical Methods for Geosciences",
+      "Number of units": "Units: 6",
+      "Course description": "Lecture, four hours. Preparation: knowledge of programming language. Requisite: Mathematics 33B. Computational precision and algorithms, linear algebra, nonlinear equations, functional approximation, integration, ordinary and partial differential equations, spectral and finite element methods, parallel computing. Sample programming exercises from Earth and space sciences. Letter grading."
+    },
+    {
+      "course number & title": "205. Inverse Theory and Data Interpretation",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: Mathematics 115A, 170A, 170B, 171. Inverse modeling problem--determination of model parameters consistent with experimental data, considering effects of random errors and nonuniqueness. Emphasis on linear and quasi-linear problems; nonlinear problems also discussed. Tools used include matrix theory, quadratic forms, orthogonal rotations, statistics, principal axis transformation for rectangular matrices, Bachus/Gilbert resolving kernels, and Lagrange multipliers. Examples from broad range of physical sciences. S/U or letter grading."
+    },
+    {
+      "course number & title": "C206. Physical Geochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 51. Basic principles of physical chemistry for geologic applications. Thermodynamics and kinetics of reactions among minerals, natural waters, and magmas; construction and interpretation of phase diagrams; case studies of important geochemical and environmental issues. Concurrently scheduled with course C106. Additional independent research project and oral presentation required of graduate students. S/U or letter grading."
+    },
+    {
+      "course number & title": "C207. Geochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Designed for junior/senior and graduate physical sciences students. Origin and abundance of elements and their isotopes; distribution and chemistry of elements in Earth and its environment. Concurrently scheduled with course C107. Additional homework and class presentation required of graduate students. S/U or letter grading."
+    },
+    {
+      "course number & title": "C209. Isotope Geochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Designed for junior/senior and graduate physical and biological sciences students. Theoretical aspects of isotope behavior: stable and radiogenic isotopes. Principles of geochronology. Use of isotopes as tracers in crust and mantle processes. Stable isotopes as indicators of environment and paleoclimate. Concurrently scheduled with course C109. Additional literature survey, that may result in class presentation, expected of graduate students. S/U or letter grading."
+    },
+    {
+      "course number & title": "210. Geochemical Kinetics: Thermochronometry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, one hour. Designed for graduate physical or biological sciences students. Theoretical basis and application of thermochronometry: derivation of diffusion equation and methods of solution, relationship between heat and mass diffusion and their simultaneous solution, Boltzmann/Matano analysis, multicomponent diffusion, closure theory; 40Ar/39Ar systematics and interpretive models, multidiffusion domain theory, petrological applications. Letter grading."
+    },
+    {
+      "course number & title": "211. Mathematical Methods of Geophysics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Requisites: Physics 105A, 110A, 112, 131. Recommended: Physics 132. Designed to provide mathematical background required for students pursuing PhD in Geophysics and Space Physics, as well as related programs in department. Extensive survey of these methods, with focus on geophysical applications consistent with needs that geophysics students encounter in their research. Letter grading."
+    },
+    {
+      "course number & title": "C213. Biological and Environmental Geochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisites: Chemistry 14A and 14B (or 20A and 20B), Mathematics 3A, 3B, and 3C (or 31A and 31B). Recommended: at least one lower-division Earth, planetary, and space sciences course. Intended for graduate life and physical sciences students. Study of chemistry of Earth's surface environment and interplay between biology, human activity, and geology. Introduction to origin and composition of Earth, including atmosphere, crust, and hydrosphere. Examination of how these reservoirs are affected by biological cycles and feedbacks to biological evolution and diversity. Local and global-scale movements of biologically important elements like carbon, nitrogen, and phosphorus. Concurrently scheduled with course C113. S/U or letter grading."
+    },
+    {
+      "course number & title": "CM214. Aquatic Geomicrobiology",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered C214.) (Same as Atmospheric and Oceanic Sciences CM237.) Lecture, three hours; discussion, one hour. Recommended requisite: course C107 or Atmospheric and Oceanic Sciences M105. Fundamental geomicrobiological metabolisms and biogeochemical reactions occurring in aquatic systems, how they impact their environment, and how they interact in complex ecosystems such as methane seeps, hydrothermal vents, coral reefs, microbial mats, or deep biosphere. Metabolisms include different photoautotrophic, heterotrophic, and chemoautotrophic pathways. Interpretation of geochemical profiles and understanding of how microorganisms govern mineralization and element cycling in aquatic systems. Concurrently scheduled with course CM114. S/U or letter grading."
+    },
+    {
+      "course number & title": "M216. Evolutionary Biology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Ecology and Evolutionary Biology M200A.) Lecture, two hours; discussion, two hours. Current concepts and topics in evolutionary biology, including microevolution, speciation and species concepts, analytical biogeography, adaptive radiation, mass extinction, community evolution, molecular evolution, and development of evolutionary thought. S/U or letter grading."
+    },
+    {
+      "course number & title": "M217. Molecular Evolution",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Ecology and Evolutionary Biology M231.) Lecture, two hours; discussion, two hours. Series of advanced topics in molecular evolution, with special emphasis on molecular phylogenetics. Topics may include nature of genome, neutral evolution, molecular clocks, concerted evolution, molecular systematics, statistical tests, and phylogenetic algorithms. Themes may vary from year to year. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "219. Planetary and Orbital Dynamics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Planetary rotations, satellite orbits, and tidal dissipation; planetary orbital system; resonance effects and chaos; spin-orbit and orbit-orbit coupling; planetary rings. S/U or letter grading."
+    },
+    {
+      "course number & title": "220. Principles of Paleobiology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture/discussion, three hours. Limited to graduate science students. Open to qualified undergraduate biological and physical sciences students with consent of instructor. Current and classic problems in paleobiology, with emphasis on interdisciplinary problems involving aspects of biology, geology, organic geochemistry, and cosmology. Content varies from year to year. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "221. Field Geology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, one hour; discussion, one hour; fieldwork, 10 days. Enforced requisite: course 121F. Planning, execution, and presentation of geologic mapping projects at professional level. Resolution of problems in Southern California geology from synthesis of new and published research. Field area varies from year to year. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "222. Introduction to Seismology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Types of seismic waves; travel-time seismology; epicenter location; amplitude variations; seismograph theory; explosion seismology; seismicity; focal conditions; surface wave analysis; microseisms and tsunamis. S/U or letter grading."
+    },
+    {
+      "course number & title": "M224A. Elastodynamics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Mechanical and Aerospace Engineering M257A.) Lecture, four hours. Requisites: Mechanical and Aerospace Engineering M256A, M256B. Equations of linear elasticity, Cauchy equation of motion, constitutive relations, boundary and initial conditions, principle of energy. Sources and waves in unbounded isotropic, anisotropic, and dissipative solids. Half-space problems. Guided waves in layered media. Applications to dynamic fracture, nondestructive evaluation (NDE), and mechanics of earthquakes. Letter grading."
+    },
+    {
+      "course number & title": "225. Physics and Chemistry of Planetary Interiors",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 225A.) Lecture, four hours. Chemical compositions of Earth and planets; high-pressure and temperature effects, phase transitions, and equations of state; variations of density and temperature with depth; thermal and compositional evolution. S/U or letter grading."
+    },
+    {
+      "course number & title": "C226. Advanced Petrology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours; field trips. Requisite: course 103A. Designed for graduate students. Understanding genesis of igneous rocks based on geochemical, tectonophysical, and other geological evidence and principles. Concurrently scheduled with course C126. Graduate students required to read more recommended references, make class presentations on particular topics resulting from that reading, and lead seminar-type discussions on their selected topics. S/U or letter grading."
+    },
+    {
+      "course number & title": "228. Introduction to Planetary Dynamos",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory/discussion, 90 minutes. Requisites: courses 200A, 200B, 200C. Designed for graduate students. Basic principles of planetary dynamo generation. Planetary core dynamics and core convection; mean field dynamo theory; kinematic dynamo theory; survey of modeling techniques and results. S/U or letter grading."
+    },
+    {
+      "course number & title": "M229. Planetary Atmospheres and Climates",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 229.) (Same as Atmospheric and Oceanic Sciences M210.) Lecture, three hours. Enforced requisite: Physics 1C. Planetary atmospheric structure and composition, radiative transfer, and climate dynamics. Topics include origin and evolution of atmospheres, paleoclimate of Earth and Mars, atmospheric thermodynamics, plane-parallel radiative transfer, climate dynamics, climate forcings/feedbacks, bifurcation, and climate hysteresis. S/U or letter grading."
+    },
+    {
+      "course number & title": "230. X-Ray Crystallography",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours. Requisite: course 51. Point, translation, and space group symmetry, diffraction of X-ray, reciprocal lattice theory, single crystal X-ray methods, diffraction symmetry and elementary crystal structure analysis. S/U or letter grading."
+    },
+    {
+      "course number & title": "231. Crystal Chemistry and Structure of Minerals",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours. Requisite: course 51. Bonding, interatomic configurations, polymorphic transformations, isotypism, thermal and positional disorder; survey of structures of common minerals, and relation of physical and chemical properties to crystal structure. S/U or letter grading."
+    },
+    {
+      "course number & title": "233. Mineral Physics and Equation of State",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Interrelationship of physical properties of rock-forming minerals: optical reflectivity, refraction index, sound velocity, elastic constants, specific heat, and thermal expansivity. Determination of pressure, volume, and temperature relationships and planet-forming compounds. Variation of elastic constants with temperature and pressure. Application of shock-wave experiments to equations of state. S/U or letter grading."
+    },
+    {
+      "course number & title": "234. Petrologic Phase Equilibria",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, three hours. Requisites: course 51, Chemistry 110B. Principles governing homogeneous and heterogeneous equilibria, with selected applications to mineral stability relations in igneous and metamorphic rocks (fractional crystallization, partial melting, hydrothermal solutions, element partitioning in coexisting phases). S/U or letter grading."
+    },
+    {
+      "course number & title": "235A. Current Research in Geochemistry",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to graduate Earth, planetary, and space sciences students. Seminars presented by staff, outside speakers, and graduate students stressing current research in Earth and planetary chemistry. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "235B. Current Research in Geochemistry",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to graduate Earth, planetary, and space sciences students. Seminars presented by staff, outside speakers, and graduate students stressing current research in Earth and planetary chemistry. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "235C. Current Research in Geochemistry",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to graduate Earth, planetary, and space sciences students. Seminars presented by staff, outside speakers, and graduate students stressing current research in Earth and planetary chemistry. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "238. Metamorphic Petrology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, six hours. Preparation: one introductory petrology and petrography course. Interpretation of metamorphic rocks in light of observation, theory, and experiment. Geological relations, petrographic evidence, metamorphic zoning, thermodynamics of phase equilibria, projections, chemographic relationships, use of piezobirefringent haloes, Rayleigh depletion model, isotopic fractionation, environmental factors of metamorphism. Laboratory study of representative metamorphic rocks and suites of rocks selected to illustrate topics discussed in lectures. S/U or letter grading."
+    },
+    {
+      "course number & title": "240. Space Plasma Physics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Requisite: course 200C or Physics 210A. Physics of plasmas in space, including treatments based on magnetohydrodynamics and kinetic theory. Applications to solar or planetary winds, steady-state magnetospheres, magnetospheric convection, substorm processes, magnetic merging, field-aligned currents and magnetosphere/ionosphere coupling, ring current dynamics, and wave particle instabilities. S/U or letter grading."
+    },
+    {
+      "course number & title": "C241. Basin Analysis",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; laboratory, three hours. Requisites: courses 103B, 111. Mechanisms of sedimentary basin development, flexural and thermal subsidence, isostasy, subsidence analysis, quantitative basin modeling, sediment provenance, tectonic settings. Concurrently scheduled with course C141. S/U or letter grading."
+    },
+    {
+      "course number & title": "242. Sandstone Petrology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, four hours. Requisite or corequisite: course C141. Petrographic study of sandstones, with emphasis on provenance, petrofacies, and paleotectonic reconstructions. S/U or letter grading."
+    },
+    {
+      "course number & title": "244. Tectonics of Sedimentary Basins",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; discussion, two hours; field trips. Requisites: courses 103B, 119. Recommended: course C141. Plate-tectonic settings of sedimentary basins. Basin analysis, stratigraphy, paleoenvironments, sedimentology, and related subjects in context of plate-tectonic controls on basin evolution. S/U or letter grading."
+    },
+    {
+      "course number & title": "245A. Current Research in Tectonics",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to graduate Earth, planetary, and space sciences students. Seminars presented by staff, outside speakers, and graduate students on current research in tectonics. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "245B. Current Research in Tectonics",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to graduate Earth, planetary, and space sciences students. Seminars presented by staff, outside speakers, and graduate students on current research in tectonics. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "245C. Current Research in Tectonics",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to graduate Earth, planetary, and space sciences students. Seminars presented by staff, outside speakers, and graduate students on current research in tectonics. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "248. Advanced Structural Geology",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours; discussion, two hours. Requisite: course 111. Principles governing fracture, folding, and flow of rocks; solutions of structural problems at various scales; regional tectonic problems. S/U or letter grading."
+    },
+    {
+      "course number & title": "251. Seminar: Mineralogy",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Examination of groups of rock-forming minerals (e.g., feldspars), integrating such aspects as crystal structure, crystal chemistry, phase equilibria, and petrogenesis. S/U or letter grading."
+    },
+    {
+      "course number & title": "252. Seminar: Geochemistry",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, two hours; discussion, two hours. Phase equilibria under crustal conditions, chemistry of ocean waters, recent and ancient sediments, structure and chemistry of upper mantle, geochronology, cosmochronology, and cosmochemistry. S/U or letter grading."
+    },
+    {
+      "course number & title": "253. Seminar: Petrology",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Problems of igneous or metamorphic petrology: methods of evaluating physical conditions of metamorphism; diffusion in mineralogic systems; origin of ultramafic rocks and problems of mantle; element fractionation among coexisting phases; other current subjects in field. S/U or letter grading."
+    },
+    {
+      "course number & title": "255. Seminar: Structural Geology and Tectonics",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours. Flow and fracture in Earth's crust from microscopic to continental scale and in experiments. Examples may include metamorphic terranes, glaciers, plutons, volcanoes, and consolidated or unconsolidated sediments. Modern concepts of oceanic basins; processes leading to segregation of continental-type rocks. S/U or letter grading."
+    },
+    {
+      "course number & title": "257. Seminar: Paleontology",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar/discussion, three hours. Advanced topics in paleobiology, biostratigraphy, paleoecology, and paleobiogeography, with emphasis on relations to other disciplines. S/U or letter grading."
+    },
+    {
+      "course number & title": "259. Seminar: Paleotectonics",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, two hours; discussion, two hours. Requisite: course 244. Basin evolution and paleogeography, with emphasis on Phanerozoic of Western U.S. S/U or letter grading."
+    },
+    {
+      "course number & title": "C260. Field Seminar",
+      "Number of units": "Units: 2 to 6",
+      "Course description": "Seminar, three hours; discussion, one hour; fieldwork, five to 20 days. Requisite: course 61. Field-based teaching and discussion forum that varies in focus from general geology through structure and tectonics, sedimentology, igneous and metamorphic petrology, volcanology, or other subdisciplines as prescribed. May be repeated for credit. Concurrently scheduled with course C160. S/U or letter grading."
+    },
+    {
+      "course number & title": "261. Topics in Magnetospheric Plasma Physics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, four hours. Lectures, discussions, and exercises on specific advanced topics in magnetospheric plasma physics. Previous courses examined magnetic storms, magnetospheric substorms, ultralow frequency waves, and adiabatic particle motion in Earth's radiation belts. S/U or letter grading."
+    },
+    {
+      "course number & title": "C262. Application of Remote Sensing in Field",
+      "Number of units": "Units: 4",
+      "Course description": "Fieldwork, five hours; laboratory, two hours. Requisite: course 150. Application of remote-sensing techniques to field situations. Digital analysis and interpretation of near-infrared, thermal-infrared, and microwave data from satellites and aircraft. Field observation of study site in California desert for testing hypotheses during week between Winter and Spring Quarters. Concurrently scheduled with course C162. S/U or letter grading."
+    },
+    {
+      "course number & title": "M263A. Solar System Magnetohydrodynamics",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Atmospheric and Oceanic Sciences M250A.) Lecture, three hours. Requisite: Atmospheric and Oceanic Sciences C205A. Derivation of MHD equations with two fluid aspects, generalized Ohm's law, small amplitude waves, discontinuities, shock waves, and instabilities. Applications to statics and dynamics of solar wind and planetary magnetospheres and to solar wind/magnetosphere/ionosphere coupling. S/U (for majors with consent of instructor after successful completion of written and oral comprehensive examination and for nonmajors at discretion of major department) or letter grading."
+    },
+    {
+      "course number & title": "264. Order of Magnitude Earth and Planetary Sciences",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, three hours; discussion, three hours. Limited to departmental graduate students. Many graduate students have had little practice in making rough estimates or order of magnitude (OOM) assessments of physical problems, and even less practice at talking through problems with others. One key problem is tendency for rote memorization to take precedence over understanding. Discussion of basic problems from OOM perspective, with focus on problems appropriate to Earth, planetary, and space sciences, to inculcate physically based reasoning and promote effective on-your-feet communication. Attendance at departmental colloquium required each week. S/U or letter grading."
+    },
+    {
+      "course number & title": "265. Instrumentation, Data Processing, and Data Analysis in Space Physics",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, three hours. Principles, testing, and operations of magnetometers and other instruments. Data processing, display, and archiving. Time-series analysis techniques, including filtering. Fourier series, eigenanalysis, and power spectra. S/U or letter grading."
+    },
+    {
+      "course number & title": "M270A. Seminar: Climate Dynamics",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "(Same as Atmospheric and Oceanic Sciences M272A and Geography M270A.) Seminar, two hours. Archaeological, geochemical, micropaleontological, and stratigraphic evidence for climate change throughout geological past. Rheology and dynamics of climatic subsystems: atmosphere and oceans, ice sheets and marine ice, lithosphere and mantle. Climate of other planets. Modeling, simulation, and prediction of modern climate on monthly, seasonal, and interannual time scale. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "M270B. Seminar: Climate Dynamics",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "(Same as Atmospheric and Oceanic Sciences M272B and Geography M270B.) Seminar, two hours. Archaeological, geochemical, micropaleontological, and stratigraphic evidence for climate change throughout geological past. Rheology and dynamics of climatic subsystems: atmosphere and oceans, ice sheets and marine ice, lithosphere and mantle. Climate of other planets. Modeling, simulation, and prediction of modern climate on monthly, seasonal, and interannual time scale. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "M270C. Seminar: Climate Dynamics",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "(Same as Atmospheric and Oceanic Sciences M272C and Geography M270C.) Seminar, two hours. Archaeological, geochemical, micropaleontological, and stratigraphic evidence for climate change throughout geological past. Rheology and dynamics of climatic subsystems: atmosphere and oceans, ice sheets and marine ice, lithosphere and mantle. Climate of other planets. Modeling, simulation, and prediction of modern climate on monthly, seasonal, and interannual time scale. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "CM273. Earth Process and Evolutionary History",
+      "Number of units": "Units: 6",
+      "Course description": "(Same as Ecology and Evolutionary Biology CM228.) Lecture, four hours; laboratory, three hours. Requisites: Chemistry 14A, 14B (or 20A, 20B), Life Sciences 1, 2, 3, and 4, or 7A, 7B, and 7C (or 7A and introductory course in geology). Exploration of relationship between physical processes, such as tectonics and climate, and how they affect surface and impact biology of Earth. Study of evolution of universe, Earth, and life, with integration of history of science, including Darwinian evolution and plate tectonics revolutions. Study of formation of matter offers tools to understand geologic process of climate and ecology of Earth. Past climate change to examine expected future human-influenced climate. Consideration of major events in history of life on Earth. Data and methods from geology, genetics, and geochemistry are integrated to reconstruct past events. This reveals how Earth processes shaped life and how life shaped Earth. Concurrently scheduled with course CM173. Letter grading."
+    },
+    {
+      "course number & title": "C279. Search for Extraterrestrial Intelligence: Theory and Applications",
+      "Number of units": "Units: 4",
+      "Course description": "Lecture, two hours; laboratory, two hours. Enforced requisites: Mathematics 31B, Physics 1B. Recommended: course 71 or Computer Science 31 or Program in Computing 10A, and Physics 110B. Search for extraterrestrial intelligence (SETI) is based on number of astronomical, mathematical, statistical, and computational principles. Coverage of fundamental concepts in these disciplines in context of SETI: abundance and architecture of extrasolar planetary systems; radio astronomy, including wave propagation and dispersion; signal processing, including sampling theory and Fourier transforms; random processes, including Gaussian and Poisson statistics, and algorithm development. Design of observational program, acquisition of telescopic data, development of algorithms to analyze data, and writing of report on results. Concurrently scheduled with course C179. S/U or letter grading."
+    },
+    {
+      "course number & title": "282. Seminar: Geophysics",
+      "Number of units": "Units: 4",
+      "Course description": "Seminar, two hours; discussion, two hours. Seismology, geophysical prospecting, electromagnetic prospecting. Selected topics in Earth physics. Content varies from year to year. May be repeated for credit. S/U or letter grading."
+    },
+    {
+      "course number & title": "M285. Origin and Evolution of Solar System",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Astronomy M285.) Lecture, four hours. Dynamical problems of solar system; chemical evidences from geochemistry, meteorites, and solar atmosphere; nucleosynthesis; solar origin, evolution, and termination; solar nebula, hydromagnetic processes, formation of planets and satellite systems. Content varies from year to year. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "286A. Seminar: Planetology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Problems of current interest concerning moon, planets, and meteorites. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "286B. Seminar: Planetology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Problems of current interest concerning moon, planets, and meteorites. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "286C. Seminar: Planetology",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Problems of current interest concerning moon, planets, and meteorites. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "287A. Seminar: Seismology and Earth's Interior",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Problems of current interest in seismology and Earth's interior. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "287B. Seminar: Seismology and Earth's Interior",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Problems of current interest in seismology and Earth's interior. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "287C. Seminar: Seismology and Earth's Interior",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, two hours. Problems of current interest in seismology and Earth's interior. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "M288A. Seminar: Space Physics",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Atmospheric and Oceanic Sciences M275A.) Seminar, one hour. Problems of current interest concerning particles and fields in space. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "M288B. Seminar: Space Physics",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Atmospheric and Oceanic Sciences M275B.) Seminar, one hour. Problems of current interest concerning particles and fields in space. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "M288C. Seminar: Space Physics",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Atmospheric and Oceanic Sciences M275C.) Seminar, one hour. Problems of current interest concerning particles and fields in space. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "289. Seminar: Fluid Dynamics",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, one to two hours. Problems of current interest in fluid dynamics, with emphasis on geophysical applications. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "293A. Space Physics Journal Club",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to graduate space physics students in Earth, Planetary, and Space Sciences, Atmospheric and Ocean Sciences, and Physics and Astronomy Departments. Review of current space physics literature. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "293B. Space Physics Journal Club",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to graduate space physics students in Earth, Planetary, and Space Sciences, Atmospheric and Ocean Sciences, and Physics and Astronomy Departments. Review of current space physics literature. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "293C. Space Physics Journal Club",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Limited to graduate space physics students in Earth, Planetary, and Space Sciences, Atmospheric and Ocean Sciences, and Physics and Astronomy Departments. Review of current space physics literature. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "295A. Current Research in Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 1",
+      "Course description": "Lecture, one hour. Limited to graduate Earth, planetary, and space sciences students. Seminars presented by outside speakers, staff, and/or graduate students describing current research. Written reports required. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "295B. Current Research in Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 1",
+      "Course description": "Lecture, one hour. Limited to graduate Earth, planetary, and space sciences students. Seminars presented by outside speakers, staff, and/or graduate students describing current research. Written reports required. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "295C. Current Research in Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 1",
+      "Course description": "Lecture, one hour. Limited to graduate Earth, planetary, and space sciences students. Seminars presented by outside speakers, staff, and/or graduate students describing current research. Written reports required. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "C296. Research Topics in Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 1",
+      "Course description": "Research group meeting, one to three hours. Designed for departmental students participating in research group. Discussion of current research and literature in research specialty of faculty member teaching course. May be repeated for credit. Concurrently scheduled with course C194. S/U grading."
+    },
+    {
+      "course number & title": "297. Advanced Techniques in Geological Research",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. S/U grading."
+    },
+    {
+      "course number & title": "298. Advanced Topics in Earth and Space Sciences",
+      "Number of units": "Units: 2 to 4",
+      "Course description": "Lecture, two to four hours. S/U or letter grading."
+    },
+    {
+      "course number & title": "M370A. Integrated Science Instruction Methods",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Chemistry M370A and Physics M370A.) Lecture, two hours; discussion, one hour; laboratory, one hour. Preparation: one introductory lower-division year (including laboratory) each of chemistry, life sciences, and physics and at least two Earth science courses, preferably one with field experience. Classroom management, lesson design, assessment, history of science education. S/U or letter grading."
+    },
+    {
+      "course number & title": "M370B. Integrated Science Instruction Methods",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Chemistry M370B and Physics M370B.) Lecture, two hours; discussion, one hour; laboratory, one hour. Requisite: course M370A or Chemistry M370A or Physics M370A. Application of learning theory to science instruction and classroom management, including use of technology, collaborative learning, laboratory safety, ethical issues, field experiences, and professional development. S/U or letter grading."
+    },
+    {
+      "course number & title": "375. Teaching Apprentice Practicum",
+      "Number of units": "Units: 1 to 4",
+      "Course description": "Seminar, to be arranged. Preparation: apprentice personnel employment as teaching assistant, associate, or fellow. Teaching apprenticeship under active guidance and supervision of regular faculty member responsible for curriculum and instruction at UCLA. May be repeated for credit. S/U grading."
+    },
+    {
+      "course number & title": "495. Teaching Earth, Planetary, and Space Sciences",
+      "Number of units": "Units: 2",
+      "Course description": "Seminar, one hour; discussion, two hours. Classroom practice in teaching, with individual and group instruction on related educational methods, materials, and evaluation. Special emphasis on integration of technology in classroom. S/U grading."
+    },
+    {
+      "course number & title": "501. Cooperative Program",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. Preparation: consent of UCLA graduate adviser and graduate dean, and host campus instructor, department chair, and graduate dean. Used to record enrollment of UCLA students in courses taken under cooperative arrangements with USC. S/U grading."
+    },
+    {
+      "course number & title": "596. Directed Individual Study and/or Research",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. May be repeated. S/U or letter grading."
+    },
+    {
+      "course number & title": "597. Preparation for MS Comprehensive Examination or PhD Qualifying Examinations",
+      "Number of units": "Units: 2 to 8",
+      "Course description": "Tutorial, to be arranged. S/U grading."
+    },
+    {
+      "course number & title": "598. MS Research and Thesis Preparation",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. May be repeated. S/U grading."
+    },
+    {
+      "course number & title": "599. PhD Research and Dissertation Preparation",
+      "Number of units": "Units: 2 to 12",
+      "Course description": "Tutorial, to be arranged. S/U grading."
+    }
+  ]
+}

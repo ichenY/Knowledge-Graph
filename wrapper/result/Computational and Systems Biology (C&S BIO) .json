@@ -1,0 +1,75 @@
+{
+  "subject": "Computational and Systems Biology (C&S BIO) ",
+  "course": [
+    {
+      "course number & title": "19. Fiat Lux Freshman Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, one hour. Discussion of and critical thinking about topics of current intellectual importance, taught by faculty members in their areas of expertise and illuminating many paths of discovery at UCLA. P/NP grading."
+    },
+    {
+      "course number & title": "M32. Essential Calculus for Mathematical Biologists",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Mathematics M32T.) Lecture, three hours; discussion, one hour. Requisites: Life Sciences 30A, 30B. Not open to students with credit for course 31A, 31B, 32A, or 32B. Designed for life sciences students. Methods and results of single and multivariable calculus essential for quantitative training in biology. Limits, differentiation (single and several variables), optimization, integration and methods of integration, Taylor polynomials and applications to approximation, Taylor and other power series, vector valued functions, gradients, and Lagrange multipliers. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89. Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to lower-division lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "89HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to lower-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "99. Student Research Program",
+      "Number of units": "Units: 1 to 2",
+      "Course description": "Tutorial (supervised research or other scholarly work), three hours per week per unit. Entry-level research for lower-division students under guidance of faculty mentor. Students must be in good academic standing and enrolled in minimum of 12 units (excluding this course). Individual contract required; consult Undergraduate Research Center. May be repeated. P/NP grading."
+    },
+    {
+      "course number & title": "150. Biological Modeling: Mathematical and Computational Approaches",
+      "Number of units": "Units: 5",
+      "Course description": "Lecture, four hours; laboratory, three hours. Requisites: Life Sciences 7A, 7B, 7C, and 30A and 30B, or Mathematics 33A and 33B, with grades of C or better. Recommended Requisites: Physics 1A, 1B, and 1C, or 5A, 5B, and 5C, with grades of C or better. Students learn how to translate their biological knowledge and intuition into mathematical equations and computer simulations, and how to interpret and glean biological insights from quantitative results and predictions. Review and integration of core mathematical and computational approaches in novel ways. Students gain experience translating and intuition about systems through many examples across range of biological levels, such as predator-prey, disease transmission, cancer initiation, cell migration, neural systems, vascular networks, sleep, drug interactions, gene expression, and more. Students learn how to manipulate data, basics of coding, and how to instantiate their mathematical models and biological intuition through numerical solutions and simulations. Letter grading."
+    },
+    {
+      "course number & title": "M175. Stochastic Processes in Biochemical Systems",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Chemistry M186.) Lecture, three hours. Requisites: Life Sciences 1, 2, 3, and 4, or 7A, 7B, and 7C, 30B or Mathematics 33B, Electrical and Computer Engineering 131A or Mathematics 170A or Statistics 100A. Covers random and stochastic processes in play in biochemical systems, including ion channels, cytoskeleton, cell migration and mitosis, gene expression networks, and signal transduction. Covers mathematical tools such as continuous and discrete Markov processes, first passage, time escape problems, statistical mechanics, and information theory. Letter grading."
+    },
+    {
+      "course number & title": "M184. Introduction to Computational and Systems Biology",
+      "Number of units": "Units: 2",
+      "Course description": "(Same as Bioengineering M184 and Computer Science M184.) Lecture, two hours; outside study, four hours. Enforced requisites: one course from Civil Engineering M20, Computer Science 31, Mechanical and Aerospace Engineering M20, or Program in Computing 10A, and Mathematics 3B or 31B. Survey course designed to introduce students to computational and systems modeling and computation in biology and medicine, providing motivation, flavor, culture, and cutting-edge contributions in computational biosciences and aiming for more informed basis for focused studies by students with computational and systems biology interests. Presentations by individual UCLA researchers discussing their active computational and systems biology research. P/NP grading."
+    },
+    {
+      "course number & title": "M185. Research Opportunities in Computational and Systems Biology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Computer Science M185.) Lecture, two hours; discussion, two hours. Requisites: course M184, Mathematics 32B, 33A, 33B, Life Sciences 4. Introduction to interdisciplinary laboratory research methods and research opportunities in computational and systems biology to prepare and initiate students for active engagement in research. Presentation of potential projects by faculty members and student visits to individual laboratories and participation in ongoing projects. P/NP or letter grading."
+    },
+    {
+      "course number & title": "M186. Computational Systems Biology: Modeling and Simulation of Biological Systems",
+      "Number of units": "Units: 5",
+      "Course description": "(Same as Bioengineering CM186, Computer Science CM186, and Ecology and Evolutionary Biology M178.) Lecture, four hours; laboratory, three hours; outside study, eight hours. Dynamic biosystems modeling and computer simulation methods for studying biological/biomedical processes and systems at multiple levels of organization. Control system, multicompartmental, predator-prey, pharmacokinetic (PK), pharmacodynamic (PD), and other structural modeling methods applied to life sciences problems at molecular, cellular (biochemical pathways/networks), organ, and organismic levels. Both theory- and data-driven modeling, with focus on translating biomodeling goals and data into mathematics models and implementing them for simulation and analysis. Basics of numerical simulation algorithms, with modeling software exercises in class and PC laboratory assignments. Letter grading."
+    },
+    {
+      "course number & title": "M187. Research Communication in Computational and Systems Biology",
+      "Number of units": "Units: 4",
+      "Course description": "(Same as Bioengineering CM187 and Computer Science CM187.) Lecture, four hours; outside study, eight hours. Requisite: course M186. Closely directed, interactive, and real research experience in active quantitative systems biology research laboratory. Direction on how to focus on topics of current interest in scientific community, appropriate to student interests and capabilities. Critiques of oral presentations and written progress reports explain how to proceed with search for research results. Major emphasis on effective research reporting, both oral and written. Letter grading."
+    },
+    {
+      "course number & title": "189. Advanced Honors Seminars",
+      "Number of units": "Units: 1",
+      "Course description": "Seminar, three hours. Limited to 20 students. Designed as adjunct to undergraduate lecture course. Exploration of topics in greater depth through supplemental readings, papers, or other activities and led by lecture course instructor. May be applied toward honors credit for eligible students. Honors content noted on transcript. P/NP or letter grading."
+    },
+    {
+      "course number & title": "189HC. Honors Contracts",
+      "Number of units": "Units: 1",
+      "Course description": "Tutorial, three hours. Limited to students in College Honors Program. Designed as adjunct to upper-division lecture course. Individual study with lecture course instructor to explore topics in greater depth through supplemental readings, papers, or other activities. May be repeated for maximum of 4 units. Individual honors contract required. Honors content noted on transcript. Letter grading."
+    },
+    {
+      "course number & title": "199. Directed Research in Computational and Systems Biology",
+      "Number of units": "Units: 4",
+      "Course description": "(Formerly numbered 198.) Tutorial, 12 hours. Limited to juniors/seniors. Supervised individual research under guidance of faculty mentor. Culminating report/thesis required. May be repeated for maximum of 12 units. Individual contract required. Letter grading."
+    }
+  ]
+}
