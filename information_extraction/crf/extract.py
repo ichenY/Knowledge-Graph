@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[101]:
-
-
 import pycrfsuite
 import spacy
 import re
