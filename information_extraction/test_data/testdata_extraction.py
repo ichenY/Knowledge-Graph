@@ -3,6 +3,7 @@ from pprint import pprint
 
 
 with open('Chemical Engineering (CH ENGR) .json') as f:
+    pprint(f)
     data = json.load(f)
     des_list = []
     #row = data['course'][0]

@@ -142,10 +142,16 @@ y_train = [get_labels(course_doc) for course_doc in train_data]
 X_test = [get_features(course_doc) for course_doc in test_data]
 y_test = [get_labels(course_doc) for course_doc in test_data]
 
-
-tagger = pycrfsuite.Tagger()
-tagger.open('ucla.model')
-y_pred = [tagger.tag(xseq) for xseq in X_test] 
+trainer = pycrfsuite.Trainer(verbose=True)
+for xseq, yseq in zip(X_train, y_train):
+    trainer.append(xseq, yseq)
+trainer.set_params({
+        'c1': 0.1,  
+        'c2': 0.01, 
+        'max_iterations': 4
+    })    
+trainer.train('ucla.model')
+print ('Log of last iteration=%s'%(trainer.logparser.iterations[-1]))
 
 def report(y_test, y_pred):
     tp = 0
